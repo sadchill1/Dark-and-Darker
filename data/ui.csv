@@ -1,0 +1,994 @@
+key,source,target
+DC/Text_UI_LeaderboardSheet_RankGuideDesc,"-  Earn ‘Adventure Points’ by exploring the High-Roller dungeons.
+
+-  Accumulate ‘Adventure Points’ to earn a ‘Seasonal Title’​.
+
+-  Rewards are given at the end of the season based on your final title.
+
+-  Your in-game name and border will reflect your seasonal title.​
+​
+-  An Adventure Point entry fee is subtracted from your total
+     based on your current Title each time you enter a dungeon.
+
+<ImportantPopupText>-  Earned rewards are given to the characters in the following season.</>
+<ImportantPopupText>     Please do not delete your character until the reward is redeemed.</>
+<ImportantPopupText>     If a character is deleted prior to granting of the reward, the earned reward cannot be claimed.</>","- Заробляйте ‘очки пригод‘, досліджуючи висококласні підземелля.
+
+- Накопичуйте ‘очки пригод‘, щоб отримати ‘сезонний титул‘.
+
+- Нагороди надаються в кінці сезону на основі вашого фінального титулу.
+
+- Ваше ігрове ім'я та рамка відображатимуть ваш сезонний титул.
+
+- Плата за вхід в підземелля віднімається від вашої загальної суми на основі поточного титулу кожного разу, коли ви заходите в підземелля.
+
+<ImportantPopupText>-  Earned rewards are given to the characters in the following season.</>
+<ImportantPopupText>     Please do not delete your character until the reward is redeemed.</>
+<ImportantPopupText>     If a character is deleted prior to granting of the reward, the earned reward cannot be claimed.</>"
+DC/Text_UI_WB_Arena_RoundPhase_RoundEnd,00:00,
+DC/Text_UI_WB_SellItemSlot_ea,1,
+DC/Text_UI_WB_Credit_Title,CREDIT,КРЕДИТ
+DC/Text_UI_WB_Menu_Credit,CREDIT,АВТОРИ
+DC/Text_UI_WB_GameProgressBar_Circle_Cancel,Cancel,Скасувати
+DC/Text_UI_WB_RecruitChannel_CloseInspectingInventory,Close,Закрити
+DC/Text_UI_WB_CreatePlayerIDPopup_Desc,Create a Account Name,Створити ім'я облікового запису
+DC/Text_UI_WB_DungeonResult_KillerSlot_DamageDealt,Damage dealt,Завдано шкоди
+DC/Text_UI_WB_ShopMain_EnterCode,Enter Code,Введіть код
+DC/Text_UI_WB_CreatePlayerIDPopup_Check_01,"The Account Name is used for system management
+including features like the friend system.
+Enter an Account Name to check for eligibility.","Ім'я облікового запису використовується для керування системою
+включаючи такі функції, як дружня система.
+Введіть ім'я облікового запису, щоб перевірити його придатність."
+DC/Text_UI_WB_MarketplacePurchaseDealTable_ExpiresIn,Expires in,Закінчується в
+DC/Text_UI_WB_RecruitChannel_Title,Gathering Hall,Зал для зборів
+DC/Text_UI_WB_GiftPopup_Title,Gifts,Подарунки
+DC/Text_UI_WB_DungeonSlot_GoblinCave_HighRoller_Difficulty,High-Roller,Високорослий
+DC/Text_UI_WB_RecruitChannelList_Desc,"I'll do my best to help you find the perfect dungeon travelling companions. Check out the various gathering halls to find fellow adventurers that share your region.
+
+A word of advice, dishonorable scoundrels have the mark of crimson upon their name.","Я зроблю все можливе, щоб допомогти вам знайти ідеальних компаньйонів для мандрівки підземеллям. Перевірте різні зали для зборів, щоб знайти побратимів, які поділяють ваш регіон.
+
+Порада: безчесні негідники мають багряну мітку на своєму імені."
+DC/Text_UI_WB_DungeonResult_KillerSlot_ID,ID,ІДЕНТИФІКАТОР
+DC/Text_UI_WB_UnEquipmentMusicList_Musics,Musics,Музика
+DC/Text_UI_WB_SelectMyStatus_Title,My Status,Мій статус
+DC/Text_UI_WB_DungeonSlot_GoblinCave_Normal_Difficulty,Normal,Нормально
+DC/Text_UI_WB_RecruitChannelList_Title,Page Boy,Хлопчик на побігеньках
+DC/Text_UI_WB_ReportPlayerResultPopup_PermanentBanList,Permanent Ban List,Постійний список банів
+DC/Text_UI_WB_GameMusicPlayBar_Bad,Playing crappy music,Грає погану музику
+DC/Text_UI_WB_GameMusicPlayBar_Perfect,Playing great music,Відтворюю чудову музику
+DC/Text_UI_WB_GameMusicPlayBar_Good,Playing music anyway,Все одно відтворює музику
+DC/Text_UI_WB_GiftCodePopup_EnterCodeAnnounce,Please enter code :,"Будь ласка, введіть код :"
+DC/Text_UI_WB_MarketplaceSell_MasterText_Sold,"Please transfer the items to your inventory or stash.
+The Items above will be destroyed in : {0}","Будь ласка, перенесіть предмети до вашого інвентарю або тайника.
+Предмети, вказані вище, будуть знищені через : {0}"
+DC/Text_UI_WB_LeaderboardDetailPopup_Title,Rank System & AP Entrance Fees,Система рангів та вступні внески до AP
+DC/Text_UI_WB_Deathcam_UserReportButton_Title,Report a user,Повідомити про користувача
+DC/Text_UI_WB_LeaderboardDetailPopup_TotalAP,Required Total AP,Необхідний загальний AP
+DC/Text_UI_WB_CharacterSelectMain_PurchaseDesc,Requires a class unlock,Потребує розблокування класу
+DC/Text_UI_WB_ShopPopup_SelectCurrency_Title,What would you like to unlock with?,Чим ви хочете розблокувати?
+DC/Text_UI_WB_TradeChannelList_ServerRegion,Server Region,Регіон сервера
+DC/Text_UI_WB_ClassMusicEquippedGroup_Skill_I,Skill I,Уміння I
+DC/Text_UI_WB_ClassMusicEquippedGroup_Skill_II,Skill II,Уміння II
+DC/Text_UI_WB_KarmaReport_Description_04,"<KarmaDesc>If you do not have any Karma Reports, it will regenerate after using</> <KarmaRating>{0}</> <KarmaDesc>portals.</>","<KarmaDesc>Якщо у вас немає звітів про карму, вона відновиться після використання</> <KarmaRating>{0}</> <KarmaDesc>порталів.</>"
+DC/Text_UI_WB_TabButton_LeaderBoard_All,All,Всі
+DC/Text_UI_WB_TabButton_LeaderBoard_Barbarian,Barbarian,Варвар
+DC/Text_UI_WB_TabButton_LeaderBoard_Bard,Bard,Бард
+DC/Text_UI_v2_WB_MerchantPage_Buy,Buy,Купити
+DC/Text_UI_WB_Lobby_Class,Class,Клас
+DC/Text_UI_WB_TabButton_LeaderBoard_Cleric,Cleric,Клірик
+DC/Text_UI_v2_WB_MerchantPage_Craft,Craft,Ремесло
+DC/Text_UI_WB_CharacterSelect_CharacterList_DeletedCharacter,Deleted {0},Видалено {0}
+DC/Text_UI_WB_TabButton_LeaderBoard_Fighter,Fighter,Боєць
+DC/Text_UI_WB_PlayUserInfo_GatheringHall,Gathering Hall,Зал зборів
+DC/Text_UI_WB_Lobby_Recruit,"Gathering
+Hall",Зал збору
+DC/Text_UI_WB_Lobby_HighRollerLeaderboard,Leaderboard,Таблиця лідерів
+DC/Text_UI_WB_CharacterSelect_CharacterList_DeleteCharacter_DoubleCheck_Desc,Enter a nickname to delete a character.,"Введіть нік, щоб видалити персонажа."
+DC/Text_UI_WB_FramedPlayerInventory_Title,Inventory,Інвентар
+DC/Text_UI_WB_Lobby_Merchants,Merchants,Торговці
+DC/Text_UI_WB_KarmaMemberSlot_Karma_ClientMessage_NeedMoreKarmaReport,Need more Karma Reports.,Потрібно більше звітів про карму.
+DC/Text_UI_WB_ClassGroup_PerkandSkill,Perk & Skill,Перки та навички
+DC/Text_UI_WB_Lobby_Play,Play,Грати
+DC/Text_UI_WB_KarmaReport_Description_06,Players with Red Names cannot report other players until they restore honor to their name.,"Гравці з червоними іменами не можуть доносити на інших гравців, поки не відновлять честь свого імені."
+DC/Text_UI_v2_WB_MerchantPage_Quest,Quest,Квест
+DC/Text_UI_WB_TabButton_LeaderBoard_Ranger,Ranger,Рейнджер
+DC/Text_UI_WB_TabButton_LeaderBoard_Rogue,Rogue,Розбійник
+DC/Text_UI_v2_WB_MerchantPage_Sell,Sell,Продати
+DC/Text_UI_v2_WB_MerchantPage_Service,Service,Послуга
+DC/Text_UI_WB_ClassGroup_Spell,Spell,Заклинання
+DC/Text_UI_WB_Lobby_Stash,Stash,Схованка
+DC/Text_UI_WB_ReportPlayerResultPopup_Announce,Thank you for your report.,Дякуємо за ваш звіт.
+DC/Text_UI_WB_ReportPlayerResultPopup_Title,The following users have been banned:,Наступні користувачі були заблоковані:
+DC/Text_UI_WB_Lobby_Trade,Trade,Торгівля
+DC/Text_UI_v2_WB_MerchantPage_Trade,Trade,Торгівля
+DC/Text_UI_WB_ClassGroup_Training,Training,Навчання
+DC/Text_UI_WB_CharacterSelect_CharacterList_NicknameToDelete,Nickname here...,Нікнейм тут...
+DC/Text_UI_WB_CharacterSelect_CharacterList_MismatchNicname,The nickname entered is different.,Введено інший нікнейм.
+DC/Text_UI_WB_TabButton_LeaderBoard_Wizard,Wizard,Майстер
+DC/Text_UI_WB_KarmaMemberSlot_Karma_ClientMessage_RedName,"You are Red Name, so cannot report other players.","Ви - Red Name, тому не можете повідомляти про інших гравців."
+DC/Text_UI_WB_ReportPlayerResultPopup_TemporaryBanList,Temporary Ban List,Тимчасовий список банів
+DC/Text_UI_WB_LoginSecretToken_Warning,"Please save your ‘Recovery Key’ below in a safe place.
+This is the ONLY way to recover an account if you forget your password.
+We will NOT be able to recover an account without this key!!!","Будь ласка, збережіть ваш ‘Ключ відновлення‘ нижче в безпечному місці.<br>Це ЄДИНИЙ спосіб відновити акаунт, якщо ви забули свій пароль.<br>Ми НЕ зможемо відновити акаунт без цього ключа!!!"
+DC/Text_UI_WB_BtnDungeonList_DungeonNotSelected,- Dungeon is not selected -,- Підземелля не вибрано -
+DC/Text_UI_WB_LeaderboardDetailPopup_Desc,"- Earn a ‘Seasonal Title’ through the dungeons.​
+
+- Your Title is determined by the amount of Adventure Points (AP)
+you accumulate during the season.​
+
+- A separate ‘Title’ is calculated for each dungeon.
+Your highest title is always displayed for your adventurer.​
+
+- Earn AP by killing monsters, enemy players, opening chests and
+escaping the dungeons.
+AP is also determined by the value of the treasure loot that you
+extract from the dungeons.
+Going deeper into the dungeons, killing bosses and sub-bosses,
+and looting rare chests give higher AP. ​
+
+- An AP entry fee is subtracted from your total based on
+your current Title each time you enter a dungeon.
+​
+- Dying in the dungeons forfeits all AP from that session.​
+
+- Your in-game name and border will reflect your highest seasonal title.​","- Заробляйте ‘Сезонний титул‘, проходячи підземелля.
+
+- Ваш титул визначається кількістю очок пригод (ОП), які ви накопичуєте протягом сезону.
+
+- Для кожного підземелля розраховується окремий ‘титул‘.
+Ваш найвищий титул завжди відображається для вашого авантюриста.
+
+- Заробляйте AP, вбиваючи монстрів, ворожих гравців, відкриваючи скрині та втікаючи з підземель.
+AP також визначається вартістю скарбів, які ви видобуваєте з підземель.
+Заглиблення в підземелля, вбивство босів і суб-босів, а також пограбування рідкісних скринь дають вищий AP.
+
+- Плата за вхід до підземелля віднімається від вашої загальної кількості, виходячи з вашого поточного звання, щоразу, коли ви входите до підземелля.
+
+- Смерть у підземеллі позбавляє вас усього досвіду за цю сесію.
+
+- Ваше ігрове ім'я та границя відображатимуть ваш найвищий сезонний титул."
+DC/Text_UI_WB_DungeonSelect_HighRoller,- High Roller -,- Хайролер -
+DC/Text_UI_WB_DungeonSelect_Normal,- Normal -,- Звичайний -
+DC/Text_UI_WB_LeaderboardSheet_ViewDetails,- View Details -,- Переглянути деталі -
+DC/Text_UI_WB_ShopAccountNameChange_Desc_01,1. Please enter your current account name in the field below.,
+DC/Text_UI_WB_ShopAccountNameChange_Desc_02,2. Please enter a new account name in the field below.,
+DC/Text_UI_WB_MarketplaceSellTable_Desc_03,"A non-refundable listing fee will be automatically
+deducted to place your item on the marketplace.","За розміщення вашого предмета на ринку буде автоматично
+вирахувано безповоротну плату, яка не підлягає поверненню."
+DC/Text_UI_WB_LegendaryStatusBenefitSlot_Title_03,Sell Items on the Marketplace & Gain access to the Trading Post!,Можливість стати Торговцем!
+DC/Text_UI_WB_SelectMyStatus_Absence,Away,Відійшов
+DC/Text_UI_WB_MerchantDealTableQuest_Button_Accept,Accept,Прийняти
+DC/Text_UI_v2_WB_InputNumber_PopupButton_Accept,Accept,Прийняти
+DC/Text_UI_WB_InviteParty_AcceptAll,Accept all,Прийняти все
+DC/Text_UI_WB_SquireStatusBenefitSlot_Title_01,Access only to the Normal dungeon,Доступ тільки до звичайного підземелля
+DC/Text_UI_WB_LegendaryStatusBenefitSlot_Title_02,Access to the High-Roller Dungeons!,Доступ до підземель хайролерів!
+DC/Text_UI_WB_InviteParty_SendHint,Account Name,Ім'я акаунта
+DC/Text_UI_WB_ShopAccountNameChange_Title,Account Name Change,
+DC/Text_UI_WB_ShopPopup_ConfirmAccountNameChange_Title,Account Name Change,
+DC/Text_UI_WB_CrossPlatformLinkPopup_Desc03,"Account has been successfully linked.
+Please close the game and restart it.","Обліковий запис успішно прив'язано.
+ Будь ласка, закрийте гру та перезапустіть її."
+DC/Text_UI_WB_ShopMain_TabList_AccountNicknameChange,Account Name Change,
+DC/Text_UI_WB_DungeonResult_AP_Title,Adventure Results,Результати пригоди
+DC/Text_UI_WB_DungeonResultPopup_Title,Adventure Over,Пригода завершена
+DC/Text_UI_WB_DungeonResult_GameOver,Adventure Over,Пригода завершена
+DC/Text_UI_WB_MenuOptionsVideos_AntiAliasingSuperResolution_Title,AntiAliasing & Super Resolution,Згладжування та надвисока роздільна здатність
+DC/Text_UI_WB_MenuOptionsVideos_AntiAliasingSuperResolution_Desc,AntiAliasing & Super Resolution,Згладжування та надвисока роздільна здатність
+DC/Text_UI_WB_ItemTooltip_Info_Rarity_AnyRarity,Any,Будь-яка
+DC/Text_UI_WB_MarketplacePurchaseGroup_Master00,"Are you sure you want to buy this item?
+You have an excellent eye.","Ви впевнені, що хочете купити цей товар?
+У вас чудовий окомір."
+DC/Text_UI_WB_ArenaSelectSlot_Title,Arena,Арена
+DC/Text_UI_WB_BtnDungeonList_Arena,Arena,Арена
+DC/Text_UI_WB_DungeonSelect_Arena,Arena,Арена
+DC/Text_UI_WB_ShopAccountNameChange_NewAccountName_CheckComplete,Available account name.,
+DC/Text_UI_WB_LegendaryStatusPopup_ComingSoon,Available for purchase soon.,Незабаром буде доступний для покупки.
+DC/Text_UI_WB_ShopAccountStatusUpgrade_ComingSoon,Available for purchase soon.,Незабаром буде доступний для покупки.
+DC/Text_UI_WB_LeaderBoard_Score,Score,Оцінка
+DC/Text_UI_WB_Credit_BackBtn,Back,Назад
+DC/Text_UI_v2_WB_MerchantPage_BaseGear,Base Gear,Базове спорядження
+DC/Text_UI_WB_MerchantDealTableBaseGear_SubTitle,Base Gear Set,Базовий комплект екіпіровки
+DC/Text_UI_Text_UI_WB_LegendaryStatusBenefitSlot_Desc_03,Unlocks {0}hrs after ‘Legendary’ status is activated.,Стає доступним через {0} годин після активації статусу ‘Легендарний‘.
+DC/Text_UI_WB_InviteParty_Menu_Blocked,Blocked,Заблоковано
+DC/Text_UI_WB_ViewMarketSlot_ButtonBuy,Buy,Купити
+DC/Text_UI_WB_CrossPlatformLinkPopup_ButtonCancel02,Cancel,Скасувати
+DC/Text_UI_WB_BtnKnightLink_Desc,Call on a Knight to help you through an adventure on our special Discord.,"Покличте Лицаря, щоб він допоміг вам пройти через пригоди на нашому спеціальному Розбраті."
+DC/Text_UI_WB_SquireStatusBenefitSlot_Title_03,Can buy items from the marketplace,Можете купувати товари на маркетплейсі
+DC/Text_UI_WB_TrainingPopupRedeemCheckLearning_CancelButton,Cancel,Скасувати
+DC/Text_UI_WB_TrainingPopupRedeemCheckReward_CancelBtn,Cancel,Відмінити
+DC/Text_UI_WB_TrainingPopupRedeemCheckReward_CancelButton,Cancel,Відмінити
+DC/Text_UI_v2_WB_InputNumber_PopupButton_Cancel,Cancel,Відмінити
+DC/Text_UI_WB_MarketplaceSellTable_ButtonCancel,Cancel Listing,Видалити оголошення
+DC/Text_UI_WB_DungeonSelect_ChangesIn,Changes in,Зміни в
+DC/Text_UI_WB_MenuOptionsControls_ChattingCategory,Chatting Options,Налаштування чату
+DC/Text_UI_WB_CreatePlayerIDPopup_Check,Check,Перевіряти
+DC/Text_UI_WB_TrainingRewardResult_ChoopseWisely,Choose Wisely,Вибирайте з розумом
+DC/Text_UI_WB_TrainingLearningResult_ChooseWisely,Choose Wisely,Вибирайте з розумом
+DC/Text_UI_WB_ViewMarket_SortButton_Class,Class,Клас
+DC/Text_UI_WB_LeaderBoard_ClassandName,Class & Name,Клас та ім'я
+DC/Text_UI_WB_CreatePlayerIDPopup_Clear,Clear,Ясний
+DC/Text_UI_WB_CrossPlatformLinkPopup_ButtonClear,Clear,Ясний
+DC/Text_UI_WB_Guide_PopupButton_Close,Close,Закрити
+DC/Text_UI_WB_LegendaryStatusPopup_CloseBtn,Close,Закрити
+DC/Text_UI_WB_ReportPlayerHR_Btn_Close,Cancel,Скасувати
+DC/Text_UI_WB_MarketplaceTransferPayment_CloseListing,Close Listing,Закрити список
+DC/Text_UI_WB_LegendaryStatusPopup_ComingVerySoon,Coming very soon!,Дуже скоро!
+DC/Text_UI_WB_MasterClassListSlot_ComingSoon,Coming Soon...,Незабаром...
+DC/Text_UI_WB_MenuButton_Community,COMMUNITY,
+DC/Text_UI_WB_Menu_Community,COMMUNITY,
+DC/Text_UI_WB_MerchantDealTableQuest_Button_Complete,Complete,Закінчено
+DC/Text_UI_WB_MarketplacePurchaseGroup_ButtonDealText_WB_MarketplacePurchaseGroup_ButtonDeal,Complete Trade,Завершити торгівлю
+DC/Text_UI_WB_QuestCompleteResultPopup_Button_Confirm,Confirm,Підтвердити
+DC/Text_UI_WB_ShopAccountNameChange_CurrentAccountName_CheckComplete,Confirmation complete.,
+DC/Text_UI_WB_ShopMain_TabList_Cosmetics,Cosmetics,Косметика
+DC/Text_UI_WB_CreatePlayerIDPopup_Create,Create,Створити
+DC/Text_UI_WB_MarketplaceSellTable_ButtonListing,Create Listing,Створити список
+DC/Text_UI_WB_CharacterSelectMain_CreditBtn,Credit,Автори
+DC/Text_UI_WB_QuestLogWidget_QuestList,Current Quest List,Поточний список квестів
+DC/Text_UI_WB_LeaderboardSheet_CurrentSeason,Current Season Timer ,Таймер поточного сезону
+DC/Text_UI_WB_Lobby_Customize,Customize,Кастомізація
+DC/Text_UI_WB_VideoOptionSlotAntiAliasingSuperResolutionSlot_DLSS,DLSS,
+DC/Text_UI_WB_MenuOptionsVideos_SuperResolutionModeDLSS_Desc,DLSS Mode,Режим DLSS
+DC/Text_UI_WB_MenuOptionsVideos_SuperResolutionModeDLSS_Title,DLSS Mode,Режим DLSS
+DC/Text_UI_WB_LoginVoipInitializePopup_Desc1,"Dark and Darker utilizes VoIP technology for an immersive gaming experience. If you would like to interact with other players using this technology, you can opt in below.","Dark and Darker використовує технологію VoIP для забезпечення захоплюючого ігрового досвіду. Якщо ви хочете взаємодіяти з іншими гравцями за допомогою цієї технології, ви можете увімкнути її нижче."
+DC/Text_UI_WB_DeathcamResult_PlayBack,Death Cam Playback,Відтворення камери смерті
+DC/Text_UI_WB_DeathCamWatchButton_Title,Death Cam,Повтор смерті
+DC/Text_UI_WB_DungeonResult_AP_Deathcam,Death Cam,Камера смерті
+DC/Text_UI_WB_DungeonResult_Deathcam,Death Cam,Камера смерті
+DC/Text_UI_WB_SquireStatusBenefitSlot_Title_04,Default stash​,Схованка за замовчуванням
+DC/Text_UI_WB_QuestRequirementFetch_DeliverBtn,Deliver Items,Доставити предмети
+DC/Text_UI_WB_MarketplaceTransferPayment_Destroyed,Destroyed,Знищені
+DC/Text_UI_WB_SellItemSlot_Destroyed,Destroyed,Знищені
+DC/Text_UI_WB_DealTableBuyRecovery_RemainTime,Destroyed in,Знищено в
+DC/Text_UI_WB_MarketplaceTransferPayment_DesytoyedIn,Destroyed in,Знищено в
+DC/Text_UI_WB_ItemTooltip_PriceType_Discounted,Discounted,Зниженими
+DC/Text_UI_WB_DungeonResultPopup_Desc,Do you want to keep spectating?,Хочете продовжувати спостерігати?
+DC/Text_UI_WB_DungeonResult_GameOverDesc,Do you want to keep spectating?,Хочете продовжувати спостерігати?
+DC/Text_UI_WB_TrainingPopupRedeemCheckReward_ConfirmText,Do you want to use Reward Tokens to receive random rewards? ,Хочете використовувати жетони винагород для отримання випадкових винагород?
+DC/Text_UI_WB_TrainingPopupRedeemCheckLearning_ConfirmText,Do you want to use learning tokens to learn the skills in that class? ,"Ви хочете використовувати навчальні жетони, щоб опанувати навички на цьому занятті? "
+DC/Text_UI_WB_DeathcamPopup_Desc,Do you want to watch the death cam?,Хочете подивитися камеру смерті?
+DC/Text_UI_WB_DungeonResult_AP_WatchDeathcam,Do you want to watch the death cam?,Хочете подивитися камеру смерті?
+DC/Text_UI_WB_DungeonResult_YouDeadDesc,Do you want to watch the death cam?,Хочете подивитися камеру смерті?
+DC/Text_UI_WB_CrossPlatformLinkPopup_ButtonOK02,Done,Зробити
+DC/Text_UI_WB_InviteParty_UserSlot_Member_Dungeon,Dungeon,Темниця
+DC/Text_UI_WB_LeaderboardDetailPopup_EntranceFee,"Dungeon
+Entrance Fee (AP)","Плата за вхід у підземелля
+(AP)"
+DC/Text_UI_v2_WB_MerchantPage_DungeonRecoveries,Dungeon Recoveries,Відновлення підземелля
+DC/Text_UI_WB_DeathcamResult_EndPlayBack,End of Playback,Кінець відтворення
+DC/Text_UI_WB_Deathcam_EXIT,EXIT,ВИЙТИ
+DC/Text_UI_WB_ShopMain_TriumphStoneDescription,Earn 1 Bluestone Shard each time you level up your Triumph Level. Each successive Triumph Level requires more effort to level up. Triumph EXP for successfully extracting from a dungeon. The amount of EXP you earn is based on the dungeon type and floor you extract from.,"Заробляйте 1 уламок Bluestone щоразу, коли підвищуєте свій рівень тріумфу. Кожен наступний рівень тріумфу вимагає більше зусиль для підвищення рівня. Тріумф EXP за успішне вилучення з підземелля. Кількість досвіду, який ви заробляєте, залежить від типу підземелля та поверху, з якого ви витягуєте."
+DC/Text_UI_WB_TavernStartTimer_TimeLeft1,Enjoy your adventure,Насолоджуйтесь пригодами
+DC/Text_UI_WB_CrossPlatformLinkPopup_EnterCodeHint,Enter Code,Введіть код
+DC/Text_UI_WB_MerchantFilter_EnterTextToFind,Enter text to find,"Введіть текст, щоб знайти"
+DC/Text_UI_WB_ViewMarketFilter_EnterTextToFind,Enter text to find,"Введіть текст, щоб знайти"
+DC/Text_UI_WB_MerchantDealTableBaseGear_BtnEquip,Equip Base Gear,Обладнайте базове спорядження
+DC/Text_UI_WB_DungeonResult_AP_EscapeMod,Escape Multiplier,Множник втечі
+DC/Text_UI_WB_MarketplaceSellTable_Expired,Expired,Минув
+DC/Text_UI_WB_SellItemSlot_Expired,Expired,Минув
+DC/Text_UI_WB_MarketplaceSellTable_ExpiresIn,Expires in,Термін дії
+DC/Text_UI_WB_ViewMarket_SortButton_ExpiresIn,Expires in,Термін дії
+DC/Text_UI_WB_VideoOptionSlotAntiAliasingSuperResolutionSlot_FSR2,FSR2,
+DC/Text_UI_WB_MenuOptionsVideos_SuperResolutionModeFSR2_Desc,FSR2 Mode,Режим FSR2
+DC/Text_UI_WB_MenuOptionsVideos_SuperResolutionModeFSR2_Title,FSR2 Mode,Режим FSR2
+DC/Text_UI_WB_VideoOptionSlotAntiAliasingSuperResolutionSlot_FXAA,FXAA,
+DC/Text_UI_WB_Menu_FailedLoadPlaytime,Failed to load play time,Не вдалося завантажити час відтворення
+DC/Text_UI_WB_CharacterLevelFame_Fame,Fame,Слави
+DC/Text_UI_WB_KarmaReport_Fame,Fame,Слави
+DC/Text_UI_WB_PlayUserInfo_Fame,Fame,Слави
+DC/Text_UI_WB_MarketplacePurchaseGroup_ButtonDealText_WB_MarketplacePurchaseGroup_ButtonFill,Fill All Items,Заповнити предметами
+DC/Text_UI_WB_QuestRequirementFetch_FillBtn,Fill All Items,Заповнити предметами
+DC/Text_UI_WB_DealTableBuyRecovery_FillBtn,Fill In All Stash,Заповнити предметами
+DC/Text_UI_WB_InviteParty_FindIDHint_01,Find Account Name,Знайти ім'я облікового запису
+DC/Text_UI_WB_InviteParty_FindIDHint_02,Find Account Name,Знайти ім'я облікового запису
+DC/Text_UI_WB_InviteParty_FindIDHint_03,Find Account Name,Знайти ім'я облікового запису
+DC/Text_UI_WB_DealTableMindwipe_ForgetBtn,Forget all abilities,Забудьте про всі здібності
+DC/Text_UI_WB_LegendaryStatusPopup_FreeAccount,Free Account,Безкоштовний акаунт
+DC/Text_UI_WB_MailboxInventory_FriendPrivacy,Allow Friend Invites,Дозволити запрошення друзів
+DC/Text_UI_WB_InviteParty_Menu_Friends,Friends,Друзі
+DC/Text_UI_WB_InviteParty_FriendsList,Friends List,Список друзів
+DC/Text_UI_WB_Menu_GRAC,GRAC,ГРАК
+DC/Text_UI_WB_InventoryGearScore_GearScore,Gear Score,Рівень Спорядження
+DC/Text_UI_WB_InviteParty_Menu_GetInvited,My Invitations,Мої запрошення
+DC/Text_UI_WB_Arena_WelcomeRoundStartSoon,Get ready!,Приготуйтеся!
+DC/Text_UI_WB_DealTableBuyRecovery_Fill_Desc,Gets items from all inventory and stash.,Дістає предмети з усього інвентарю та схованки.
+DC/Text_UI_WB_MerchantShortcutPopup_Button_GoSquire,Go to Squire,Ідіть до сквайра
+DC/Text_UI_WB_LegendaryStatusPopup_GoToShopBtn,Go to shop,Піти в магазин
+DC/Text_UI_WB_BtnDungeonList_GoblinHighRoller,The Goblin Caves : High-Roller,Печери Гоблінів: Хай-Ролер
+DC/Text_UI_WB_CrossPlatformLinkPopup_Desc01,"Have you played Dark and Darker before on
+another platform?","Ви раніше грали в Dark and Darker на
+іншій платформі?
+Це ваш єдиний шанс перенести свій
+прогрес з іншої платформи."
+DC/Text_UI_WB_MarketplaceSell_MasterText_Default,Here's a list of the items that you've delegated to me to sell. How else can I help you?,"Ось список товарів, які ви делегували мені для продажу. Чим ще я можу вам допомогти?"
+DC/Text_UI_WB_DungeonSelectSlot_Goblin_HighRoller,High-Roller,Хайролер
+DC/Text_UI_WB_DungeonSelectSlot_IceCavern_HighRoller,High-Roller,Хайролер
+DC/Text_UI_WB_DungeonSelectSlot_Ruins_HighRoller,High-Roller,Хайролер
+DC/Text_UI_WB_DungeonSelect_Level_HighRoller_Characteristics_3,High-Roller Level Limit {0},Граничний рівень для хайролерів {0}
+DC/Text_UI_WB_LoginVoipInitializePopup_Hotkey,Hotkey,Гаряча клавіша
+DC/Text_UI_WB_ShopAccountNameChange_CurrentAccountName_Incorrect,The account name is incorrect.,
+DC/Text_UI_WB_MerchantItemBase_NotEnoughAffinity,Increase your affinity to ‘{0}’ to improve the grade of this item.​​,"Збільште свою прихильність до «{0}», щоб покращити оцінку цього предмета."
+DC/Text_UI_WB_LeaderBoard_WipeSoon,It's very soon!,Це вже зовсім скоро!
+DC/Text_UI_WB_ViewMarket_SortButton_ItemName,Item Name,Назва товару
+DC/Text_UI_WB_DealTableBuyRecovery_Cost,Item required from you to complete the deal,"Предмет, необхідний від вас для завершення угоди"
+DC/Text_UI_WB_DealTableBuyRecovery_Item2Recovery,Item to purchase,Товар для покупки
+DC/Text_UI_WB_ReportPlayerHighRoller_Killer,Killer,Вбивця
+DC/Text_UI_WB_CrossPlatformLinkPopup_Title,Link a Previous Account,Останній шанс на обліковий запис Link
+DC/Text_UI_WB_LeaderboardSheet_Leaderboard,Leaderboard,Таблиця лідерів
+DC/Text_UI_WB_BtnRedeemLearning_LearningTokens,Learning Tokens,Навчальні жетони
+DC/Text_UI_WB_LearningTokensPanel_LearningTokens,Learning Tokens,Навчальні жетони
+DC/Text_UI_WB_AccountStatus_Legendary,Legendary,Легендарний
+DC/Text_UI_WB_ShopAccountStatusUpgradeComplete_Legendary,Legendary,Легендарний
+DC/Text_UI_WB_LegendaryStatusPopup_LegendaryStatus,Legendary Status,Легендарний статус
+DC/Text_UI_WB_LegendaryStatusPopup_Title,Upgrade your account to Legendary Status!,Оновіть свій обліковий запис до легендарного статусу!
+DC/Text_UI_WB_ShopMain_LegendaryStatusTitle,Upgrade your account to Legendary Status!,Оновіть свій обліковий запис до легендарного статусу!
+DC/Text_UI_WB_ShopMain_TabList_LegendaryStatus,Legendary Status,Легендарний статус
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Legendary,Legendary Status: <Gold>Buy and Sell items on the Marketplace and access the Trading Post.</>,Легендарний статус: <Gold>Купуйте та продавайте предмети на Ринку та отримуйте доступ до Торгового Посту.
+DC/Text_UI_WB_DungeonSelect_RotateSoon,Less than 1 min,Менше 1 хв
+DC/Text_UI_WB_TavernStartTimer_TimeLeft2,Less than {0} minutes,Менше {0} хвилин
+DC/Text_UI_WB_TrainingPopupRedeemCheckReward_SubTitle,Levelup Reward,Нагорода за підвищення рівня
+DC/Text_UI_WB_CrossPlatformLinkPopup_ButtonLink,Link Account,Зв'язати обліковий запис
+DC/Text_UI_WB_MenuOptionsLink_Title_02,Link-Code,Посилання-код
+DC/Text_UI_WB_MenuOptionsLink_Title_01,Linked Platforms,Пов'язані платформи
+DC/Text_UI_WB_MarketplaceSellTable_Title,List an Item,Перелічити елемент
+DC/Text_UI_WB_SellItemSlot_ListanItem,List an Item,Перелічити елемент
+DC/Text_UI_WB_MarketplaceSellTable_ListingFee,Listing Fee :,Плата за лістинг:
+DC/Text_UI_WB_MarketplaceSellTable_ListingComplete,Listing complete,Лістинг завершено
+DC/Text_UI_WB_InviteParty_UserSlot_Member_Lobby,Lobby,Лобі
+DC/Text_UI_WB_LobbyEmoteKeyGuid_GuidText,Lobby Emote Wheel,Колесо емоцій лобі
+DC/Text_UI_WB_ItemTooltip_ItemLootState,Loot State,Стан
+DC/Text_UI_v2_WB_ItemTooltip_Info_ItemLootState,Loot State,Стан
+DC/Text_UI_WB_CharacterSelect_CharacterSlot_LevelFormat,Lv. {0},Рв. {0}
+DC/Text_UI_WB_CurrentClassLevelPanel_LevelFormat,Lv. {0},Рв. {0}
+DC/Text_UI_WB_CharacterLevelFame_LevelFormat,Lv.{0},Рв.{0}
+DC/Text_UI_WB_DealTableBuyRecovery_BuyBtn,Make Deal,Укласти угоду
+DC/Text_UI_WB_MarketplacePurchaseGroup_Title,Make a purchase,Зробити покупку
+DC/Text_UI_WB_MerchantDealTableMindwipe_RemainTime,Manufacturing Time,Терміни виготовлення
+DC/Text_UI_WB_DungeonSelect_Desc_01,Maps Rotate,Поворот карт
+DC/Text_UI_WB_TradeChannelList_MarketChannels,Market Channels,Ринкові канали
+DC/Text_UI_WB_Marketpace_TopTitle_Title,Marketplace,Ринку
+DC/Text_UI_WB_MarketplacePurchaseGroup_TopTitle_Title,Marketplace,Ринку
+DC/Text_UI_WB_MasterClassListSlot_Mastered,Mastered,Освоїли
+DC/Text_UI_WB_TrainingRewardSlot_Mastered,Mastered,Освоїли
+DC/Text_UI_v2_WB_MerchantPage_Mindwipe,Mindwipe,Витирання розуму
+DC/Text_UI_WB_LegendaryStatusBenefitSlot_Title_01,8 Additional Character Slots!,Більше слотів для персонажів
+DC/Text_UI_WB_ClassGroup_Music,Music,Музика
+DC/Text_UI_WB_Marketplace_TabList_MyListings,My Listings,Мої оголошення
+DC/Text_UI_WB_MerchantPage_ComboBox_Name,Name,Ім'я
+DC/Text_UI_WB_BtnKnightLink_Title,Need a guide?,Потрібен екскурсовод?
+DC/Text_UI_WB_TrainingInDevelopment_InDevelopment,New training system in development.,Нова система навчання в розробці.
+DC/Text_UI_WB_MenuOptionLinkButton_Community_News,News,
+DC/Text_UI_WB_LearningTokensPanel_NextLearning,Next Learning Token at,Наступний навчальний жетон за адресою
+DC/Text_UI_WB_RewardTokensPanel_NextRearning,Next Reward Token at,Наступний жетон винагороди на
+DC/Text_UI_WB_CrossPlatformLinkPopup_ButtonCancel01,No,Ні
+DC/Text_UI_WB_MerchantShortcutPopup_Button_No,No,Ні
+DC/Text_UI_WB_SquireStatusBenefitSlot_Desc_01,No Shared Stash between Characters​,Немає спільної схованки між персонажами
+DC/Text_UI_WB_DungeonSelect_Level_HighRoller_Characteristics_0,No item grade limit.,Немає обмежень за оцінкою предмета.
+DC/Text_UI_WB_QuestLogDungeon_Empty,No quests in progress,
+DC/Text_UI_WB_TrainingLearningTokensPanel_None,None,Ніхто
+DC/Text_UI_WB_DungeonSelectSlot_Goblin_Normal,Normal,Нормальний
+DC/Text_UI_WB_DungeonSelectSlot_IceCavern_Normal,Normal,Нормальний
+DC/Text_UI_WB_DungeonSelectSlot_Ruins_Normal,Normal,Нормальний
+DC/Text_UI_WB_CurrencyTypeSlot_NotEnoughCurrency,Not enough of this currency.,Не вистачає цієї валюти.
+DC/Text_UI_WB_ShopAccountStatusUpgradeComplete_OkBtn,OK,ГАРАЗД
+DC/Text_UI_WB_MailboxInventory_FriendPrivacyOff,Off,Вимкнено
+DC/Text_UI_WB_VideoOptionSlotAntiAliasingSuperResolutionSlot_Off,Off,Вимкнено
+DC/Text_UI_WB_MenuOptionLinkButton_Community_OfficialDiscord,Official Discord,
+DC/Text_UI_WB_InviteParty_Offline,Offline,Не в мережі
+DC/Text_UI_WB_InviteParty_UserSlot_Member_Offline,Offline,Не в мережі
+DC/Text_UI_WB_InviteParty_UserSlot_ReceivedInvitation_Offline,Offline,Не в мережі
+DC/Text_UI_WB_SelectMyStatus_Offline,Offline,Не в мережі
+DC/Text_UI_WB_LoginSecretToken_Ok,OK,ГАРАЗД
+DC/Text_UI_WB_MailboxInventory_FriendPrivacyOn,On,Увімкнено
+DC/Text_UI_WB_InviteParty_UserSlot_Member_Online,Online,Онлайн
+DC/Text_UI_WB_SelectMyStatus_Online,Online,Онлайн
+DC/Text_UI_WB_SquireStatusBenefitSlot_Title_02,Only 1 Character Slot,Лише 1 слот для персонажів
+DC/Text_UI_WB_DungeonSelect_ItemRarityLimit,Only items of <ItemRarity>{0}</> grade or lower can be taken into the dungeon.,До підземелля можна брати лише предмети з рідкістю <ItemRarity>{0}</> або нижче.
+DC/Text_UI_WB_ItemTooltip_PriceType_Overpaying,Regular Price,Звичайна ціна
+DC/Text_UI_WB_InviteParty_UserSlot_Member_Party_00,Party,Партія
+DC/Text_UI_WB_MarketplaceTransferPayment_Title,Payout inventory,Інвентаризація виплат
+DC/Text_UI_WB_VideoOptionSlotSuperResolutionMode_Performance,Performance,Продуктивність
+DC/Text_UI_WB_MenuOptions_Platform,Platform,Платформа
+DC/Text_UI_WB_MenuOptionsLink_Title_03,Platform Link,Посилання на платформу
+DC/Text_UI_WB_Menu_PlayTime,Play Time,Час гри
+DC/Text_UI_WB_TradeChannelList_MarketCategory,Player markets,Ринки гравців
+DC/Text_UI_WB_ReportPlayerComboBox_PlaceHolder,Player Name,Ім'я гравця
+DC/Text_UI_WB_Play_PlayerStatistics,Player Statistics,Статистика гравців
+DC/Text_UI_WB_InviteParty_Menu_Players,Players,Гравці
+DC/Text_UI_WB_InviteParty_PlayersList,Players List,Список гравців
+DC/Text_UI_WB_ShopAccountNameChange_Desc_03,"Please double-check your current account name and the new account name. Once the account name is changed, it cannot be refunded.",
+DC/Text_UI_WB_CrossPlatformLinkPopup_Desc02,"Please enter your link code.
+The created code is only valid for 10 minutes.","Будь ласка, введіть код посилання.
+Створений код дійсний лише протягом 10 хвилин."
+DC/Text_UI_WB_ShopAccountStatusUpgrade_Desc_02,Please note that upgrades and unlocks are final and cannot be refunded.,"Зверніть увагу, що оновлення та розблокування є остаточними і не підлягають поверненню."
+DC/Text_UI_WB_MarketplacePurchaseGroup_Master01,"Please place the items requested by
+the seller into the purchase inventory
+if you want to complete the trade.","Будь ласка, помістіть товари, які запросив
+продавець, в інвентар покупки,
+якщо ви хочете завершити угоду."
+DC/Text_UI_WB_MarketplaceSellTable_Desc_01,"Please select the item from your stash or inventory
+that you wish to list on the marketplace","Будь ласка, виберіть товар зі своєї схованки або інвентарю
+, який ви хочете розмістити на маркетплейсі"
+DC/Text_UI_WB_MenuOptionsLink_Desc,"The platform link features allows a user to link a previous account to a new platform. Supported platforms are shown on the left. Platforms that are linked to this account will display an identifier key. This identifier key is NOT the link-code.
+
+Instructions on linking this account to a new platform.
+1. Generate a temporary unique ‘Link-Code’ by pressing the ‘Get Link-Code’ button. The code will appear hidden to protect your account. DO NOT REVEAL THIS CODE TO ANYONE.
+2. Press the ‘Copy’ button to have the code copied to your system memory.
+3. Close the game and then open Dark and Darker on the new platform you wish to link this account.
+
+Linking the account to a brand-new platform with no characters created.
+a. If the new platform has no account associated with it (i.e. no character was ever created), then a ‘Link Account’ popup will appear when you log into the game. Follow the Link Account instructions and paste the copied Link-Code when prompted. Once you successfully link an account you will advance to the character selection screen for your original account.
+
+Linking the account to a platform that you accidentally created a character on.
+a. If you accidentally created a character on the new platform, you need to first delete ALL characters on the new platform before linking your original account. You can delete a character by going to the main ‘Character Select’ menu and pressing the ‘Delete Character’ button.
+b. Once all characters are deleted on the account restart the game on the new platform and follow the instructions above.
+<ImportantText>c. It is not possible to link a previous account to the new platform account if Redstones were ever purchased on the new platform account, even if all characters have been removed. We recommend creating another account on the new platform if you wish to transfer to that platform in this instance.</>","Функція Platform Link дозволяє користувачеві пов'язати попередній обліковий запис із новою платформою.
+
+Інструкція щодо прив'язки цього облікового запису до нової платформи.
+1. Згенеруйте тимчасовий унікальний «Link-код», натиснувши кнопку «Отримати link-код». Код з'явиться прихованим, щоб захистити ваш обліковий запис. НІКОМУ НЕ ПОВІДОМЛЯЙТЕ ЦЕЙ КОД.
+2. Натисніть кнопку «Копіювати», щоб скопіювати код у системну пам'ять.
+3. Відкрийте Dark and Darker на новій платформі, яку ви хочете пов'язати з цим обліковим записом.
+
+Прив'язка облікового запису до абсолютно нової платформи без створення символів.
+a. Якщо нова платформа не має облікового запису, пов'язаного з нею (тобто персонаж ніколи не був створений), то при вході в гру з'явиться спливаюче вікно «Зв'язати обліковий запис». Дотримуйтесь інструкцій Link Account і вставте скопійований код посилання, коли з'явиться запит. Після того, як ви успішно зв'яжете обліковий запис, ви перейдете на екран вибору персонажа для вашого початкового облікового запису.
+
+Прив'язка облікового запису до платформи, на якій ви випадково створили персонажа.
+a. Якщо ви випадково створили персонажа на новій платформі, вам потрібно спочатку видалити ВСІХ символів на новій платформі, перш ніж прив'язувати свій початковий обліковий запис. Ви можете видалити персонажа, перейшовши в головне меню «Вибір символу» та натиснувши кнопку «Видалити символ».
+б. Після того, як усі персонажі будуть видалені з облікового запису, перезапустіть гру на новій платформі та дотримуйтесь інструкцій вище."
+DC/Text_UI_WB_MarketplaceSellTable_Price,Price,Ціна
+DC/Text_UI_WB_MarketplaceTransferPayment_Price,Price,Ціна
+DC/Text_UI_WB_MerchantDealTableMindwipe_Price,Price,Ціна
+DC/Text_UI_WB_ViewMarket_SortButton_Price,Price,Ціна
+DC/Text_UI_WB_Inventory_CharacterStatusDetail_ImpactPowerPrimary,Primary Weapon Impact Power,Сила Удару Основної Зброї
+DC/Text_UI_WB_VideoOptionSlotSuperResolutionMode_Quality,Quality,Якість
+DC/Text_UI_WB_QuestLogWidget_Title,Quest Log,Журнал квесту
+DC/Text_UI_WB_MerchantDealTableQuest_QuestCompeleted,Quest completed,Квест завершено
+DC/Text_UI_WB_MerchantDealTableQuest_QuestInProgress,Quest in progress,Квест триває
+DC/Text_UI_WB_Play_QuestLog,Quest Log,Журнал квестів
+DC/Text_UI_v2_WB_MerchantPage_QuickPrepare,Quick Prepare,Швидка підготовка
+DC/Text_UI_WB_ViewMarket_SortButton_RandomAttribute,Random Attribute,Випадковий атрибут
+DC/Text_UI_WB_LeaderBoard_Rank,Rank,Ранг
+DC/Text_UI_WB_LeaderboardSheet_RankGuide,Rank Guide,Путівник по званнях
+DC/Text_UI_WB_ItemTooltip_Rarity,Rarity,Рідкість
+DC/Text_UI_WB_MerchantPage_ComboBox_Rarity,Rarity,Рідкість
+DC/Text_UI_WB_ViewMarket_SortButton_Rarity,Rarity,Рідкість
+DC/Text_UI_v2_WB_ItemTooltip_Info_Rarity,Rarity,Рідкість
+DC/Text_UI_WB_Marketpace_TopTitle_RightButton,Read Rules,Правила читання
+DC/Text_UI_WB_MarketplacePurchaseGroup_TopTitle_RightButton,Read Rules,Правила читання
+DC/Text_UI_WB_TrainingLearningResult_ReceiveButton,Receive,Отримати
+DC/Text_UI_WB_TrainingPopupRedeemCheckReward_ReceiveButton,Receive,Отримати
+DC/Text_UI_WB_TrainingRewardRedeemResult_ReceiveButton,Receive,Отримати
+DC/Text_UI_WB_MarketplaceSell_MasterText_Destroyed,Received Items expired and have been destroyed,Отримані предмети прострочені та знищені
+DC/Text_UI_WB_ViewMarket_RecentButton,Refresh,Оновити
+DC/Text_UI_WB_ShopMain_TabList_RedStone,Redstone Shard,Уламок червоного каменю
+DC/Text_UI_WB_BtnRedeemReward_RedeemButton,Redeem,Викупити
+DC/Text_UI_WB_TrainingLearningTokensPanel_RedeemButton,Redeem,Відновити
+DC/Text_UI_WB_TrainingPopupRedeemCheckLearning_RedeemButton,Redeem,Викупити
+DC/Text_UI_WB_TrainingPopupRedeemCheckReward_RedeemBtn,Redeem,Викупити
+DC/Text_UI_WB_TrainingPopupRedeemCheckReward_Title,Redeem reward tokens ,Викупити жетони нагород
+DC/Text_UI_WB_RewardTokensPanel_Desc_01,"Redeem your token to select from
+3 random rewards.
+Once you select a reward,
+it will be delivered to your stash.
+If you do not have room in your stash,
+it will be delivered to your inventory.","Викупити жетон на вибір з
+3 випадкових нагород.
+Як тільки ви виберете нагороду,
+її буде доставлено до вашої схованки.
+Якщо у вас немає місця у схованці,
+її буде доставлено до вашого інвентарю."
+DC/Text_UI_WB_InviteParty_RejectAll,Reject all,Відхилити всіх
+DC/Text_UI_WB_MerchantDealTableQuest_ReleaseConditions_Title,Release conditions,Умови звільнення
+DC/Text_UI_WB_MerchantDealTableQuickPrepare_SubTitle,Items to be moved,Предмети для переміщення
+DC/Text_UI_WB_DeathCamMain_Replay,Replay,Відтворити
+DC/Text_UI_WB_ReportPlayerHR_Btn_Report,Report,Звіт
+DC/Text_UI_WB_ReportPlayerHighRollerTitle,Report Player,Повідомити гравця
+DC/Text_UI_WB_MenuOptionLinkButton_Support_ReportBug,Report Bug,
+DC/Text_UI_WB_MenuOptionLinkButton_Community_RequestKnight,Request Knight,
+DC/Text_UI_WB_MarketplacePurchaseGroup_RequiredGold,Required Gold,Необхідне золото
+DC/Text_UI_WB_TradeAccountTimeLocked_SquireNotAllowed,Requires Legendary Status,Потребує легендарного статусу
+DC/Text_UI_WB_Login_ResourceLoading,Loading...,Завантаження...
+DC/Text_UI_WB_MarketplaceSellTable_ButtonRetrieve,Retrieve Item,Повернути річ
+DC/Text_UI_WB_MerchantDealTableQuest_Reward,Reward,Нагорода
+DC/Text_UI_WB_BtnRedeemReward_RewardTokens,Reward Tokens,Жетони нагород
+DC/Text_UI_WB_RewardTokensPanel_RewardTokens,Reward Tokens,Жетони нагород
+DC/Text_UI_WB_LeaderboardSheet_RewardsLocked,Rewards locked,Нагороди заблоковані
+DC/Text_UI_WB_ViewMarket_ResetfilterButton,Reset Filters,Скинути фільтри
+DC/Text_UI_WB_DungeonResult_ScoreList,Score List,Список оцінок
+DC/Text_UI_WB_ViewMarket_SearchButton,Search,Пошук
+DC/Text_UI_WB_LeaderBoard_SeasonEnded,Season Rankings have ended.,Сезонні рейтинги завершено.
+DC/Text_UI_WB_Inventory_CharacterStatusDetail_ImpactPowerSecondary,Secondary Weapon Impact Power,Сила Удару Вторинної Зброї
+DC/Text_UI_WB_DungeonSelect_Title,Select a matching pool,Виберіть відповідний пул
+DC/Text_UI_WB_TrainingLearningResult_SelectAnAbility,Select an Ability,Виберіть здатність
+DC/Text_UI_WB_MarketplaceSellTable_SelectAnItem,Select an item,Виберіть предмет
+DC/Text_UI_WB_TrainingRewardResult_SelectYourReward,Select your Reward,Виберіть свою нагороду
+DC/Text_UI_WB_TrainingLearningTokensPanel_SelectedClassMaster,Selected Class Master,Майстер обраного класу
+DC/Text_UI_WB_TrainingPopupRedeemCheckLearning_Title,Selected Class Master,Обраний майстер класу
+DC/Text_UI_WB_MarketplaceSellTable_SellingPrice,Selling Price,Ціна продажу
+DC/Text_UI_WB_InviteParty_Menu_Sendaninvite,Sent Invitations,Надіслані запрошення
+DC/Text_UI_WB_MerchantDealTableBaseGear_BtnSet,Set Base Gear,Встановити базову передачу
+DC/Text_UI_WB_LoginVoipInitializePopup_Setting,Setting,Налаштування
+DC/Text_UI_WB_ClassGroup_ShapeShift,Shapeshift,Зміна форми
+DC/Text_UI_WB_ClassShapeShiftEquippedGroup_ShapeShiftMemoryRequired,Shapeshift Memory Required,Потрібна пам'ять для перемикання форми
+DC/Text_UI_WB_UnEquipmentShapeShiftList_ShapeShifts,Shapeshifts,Зміна форми
+DC/Text_UI_WB_LegendaryStatusBenefitSlot_Title_04,Shared Stash,Спільна схованка
+DC/Text_UI_WB_Lobby_Shop,Shop,Крамниця
+DC/Text_UI_WB_MerchantPage_ComboBox_ItemSlot,Slot,Слот
+DC/Text_UI_WB_ViewMarket_SortButton_Slot,Slot,Слот
+DC/Text_UI_WB_InviteParty_UserSlot_Member_Solo,Solo,Соло
+DC/Text_UI_WB_PersonnelLimits_SoloDuoOnly,Solos or Duos Only,Тільки соло або дуо
+DC/Text_UI_WB_PersonnelLimits_SoloOnly,Solo Only,Тільки соло
+DC/Text_UI_WB_AccountStatus_Squire,Squire,Зброєносець
+DC/Text_UI_WB_LegendaryStatusPopup_SquireStatus,Squire Status,Статус зброєносця
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Squire,Squire Status: <Gold>Only buy items from the Marketplace.</>,Статус зброєносця: <Gold>Купуйте предмети тільки на ринку.
+DC/Text_UI_WB_DealTableQuickPrepare_StashAllBtn,Stash Above Items,Схованка над предметами
+DC/Text_UI_WB_ViewMarket_SortButton_StaticAttribute,Static Attribute,Статичний атрибут
+DC/Text_UI_WB_MenuOptionLinkButton_Support_SubmitTicket,Submit Ticket,
+DC/Text_UI_WB_MenuOptionLinkButton_Community_Suggestion,Suggestion,
+DC/Text_UI_WB_MenuButton_Support,SUPPORT,
+DC/Text_UI_WB_Menu_Support,SUPPORT,
+DC/Text_UI_WB_MenuOptionLinkButton_Support_SupportFAQ,Support FAQ,
+DC/Text_UI_WB_VideoOptionSlotAntiAliasingSuperResolutionSlot_TSR,TSR,
+DC/Text_UI_WB_MenuOptionsVideos_SuperResolutionModeTSR_Desc,TSR Mode,Режим TSR
+DC/Text_UI_WB_MenuOptionsVideos_SuperResolutionModeTSR_Title,TSR Mode,Режим TSR
+DC/Text_UI_WB_VideoOptionSlotAntiAliasingSuperResolutionSlot_TemporalAA,TemporalAA,
+DC/Text_UI_WB_BtnDungeonList_IceCavernHighRoller,The Frost Mountain : High-Roller,Крижана гора: Високий рівень
+DC/Text_UI_WB_BtnDungeonList_IceCavernNormal,The Frost Mountain : Normal,Крижана гора : Звичайний
+DC/Text_UI_WB_BtnDungeonList_RuinsHighRoller,The Forgotten Castle : High-Roller,Забутий замок: Високий рівень
+DC/Text_UI_WB_ShopAccountNameChange_NewAccountName_Incorrect,This account name is unavailable.,
+DC/Text_UI_WB_TavernStartTimer_TimeLeft3,The adventure is about to begin,Пригода ось-ось почнеться
+DC/Text_UI_WB_GiftCodePopup_NotSufficientWarning,The code entered is not sufficient.,Введеного коду недостатньо.
+DC/Text_UI_WB_MarketplaceSellTable_Desc_02,"The item will be listed on the marketplace for
+{0} days before the listing expires.","Товар буде виставлений на маркетплейсі за
+{0} днів до завершення терміну дії лістингу."
+DC/Text_UI_WB_MarketplaceSellTable_Desc_04,"The listing fee is calculated based on {0}% of the selling price
+you set or {1} gold whichever value is higher.","Плата за розміщення розраховується на основі {0}% від встановленої вами
+ціни продажу або {1} золота, залежно від того, яка величина більша. "
+DC/Text_UI_WB_MarketplaceTransferPayment_Complete,The sale is complete,Розпродаж завершено
+DC/Text_UI_WB_CreatePlayerIDPopup_Check_02,This Account Name is Unavailable,Це ім'я облікового запису недоступне
+DC/Text_UI_WB_CreatePlayerIDPopup_Check_03,Account Name is Available,Ім'я облікового запису доступне
+DC/Text_UI_WB_DungeonResult_AP_TotalAPEarned,Total AP Earned,Всього зароблено AP
+DC/Text_UI_WB_InventoryTotalGoldCountBase_TotalGold,Gold : ,Золото
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Requirements_LegendaryStatusBlock,The ability to sell items on the Marketplace and access to the Trading Post unlocks {0} hrs after ‘Legendary’ status is activated.,Членство в торговельному союзі стає доступним лише через {0} годин після активації статусу ‘Легендарний‘.
+DC/Text_UI_MarketplaceTradingMaster_Name,Trading Master,Торговий майстер
+DC/Text_UI_WB_TrainingSystemDesc_Desc,"It was fun training adventurers across a multitude of skills, but I think I need a little more restraint in the future. I'll be back with an improved training regiment once I iron out some of the kinks. In the meantime, enjoy your rewards as your progress your journey.","Було весело тренувати шукачів пригод у різних навичках, але я думаю, що в майбутньому мені потрібно бути трохи стриманішим. Я повернуся з покращеним тренувальним полком, як тільки виправлю деякі недоліки. А поки що насолоджуйтеся нагородами, які ви отримуєте в міру проходження подорожі."
+DC/Text_UI_WB_MarketplaceTransferPayment_TransferButton,Transfer All Items,Перенести всі предмети
+DC/Text_UI_WB_ViewMarket_SortButton_Type,Type,Тип
+DC/Text_UI_LeaderboardSheet_NoRank,Unranked,Без рейтингу
+DC/Text_UI_LeaderboardSheet_RankGuideDesc_Normal,"-  Earn ‘Adventure Points’ by exploring the Normal dungeons.
+
+-  Accumulate ‘Adventure Points’ to earn a ‘Seasonal Title’​.
+
+-  Your in-game name and border will reflect your seasonal title.​
+​
+-  An Adventure Point entry fee is subtracted from your total
+     based on your current Title each time you enter a dungeon.","- Заробляйте ‘очки пригод‘, досліджуючи звичайні підземелля.
+
+- Накопичуйте ‘очки пригод‘, щоб отримати ‘сезонний титул‘.
+
+- Ваше ігрове ім'я та межа відображатимуть ваш сезонний титул.
+
+- Плата за вхід в підземелля віднімається від вашої загальної суми, виходячи з вашого поточного титулу, кожного разу, коли ви заходите в підземелля."
+DC/Text_UI_WB_BtnDungeonList_DungeonMap,Dungeon Map,Мапа підземелля
+DC/Text_UI_WB_BtnDungeonList_GoblinCave_N,The Goblin Caves : Normal,Печери Гоблінів: Звичайна
+DC/Text_UI_WB_Btn_MatchmakinCancel_Cancel,Cancel,Скасувати
+DC/Text_UI_WB_Btn_MatchmakinCancel_MatchMaking,Match Making,Підбір гравців
+DC/Text_UI_WB_CharacterCreateMain_Back,Back,Назад
+DC/Text_UI_WB_CharacterCreateMain_CharacterName,CHARACTER NAME,ІМ'Я ПЕРСОНАЖА
+DC/Text_UI_WB_CharacterCreateMain_ClassInfo,Class Info,Інформація про клас
+DC/Text_UI_WB_CharacterCreateMain_ClassList,Class List,Список класів
+DC/Text_UI_WB_CharacterCreateMain_Confirm,Confirm,Підтвердити
+DC/Text_UI_WB_CharacterCreateMain_SelectClass,SELECT CLASS,ОБРАТИ КЛАС
+DC/Text_UI_WB_CharacterSelectMain_EntertheLobbyBtn,Enter the Lobby,Увійти у лобі
+DC/Text_UI_WB_CharacterSelectMain_ExitBtn,Exit,Вийти
+DC/Text_UI_WB_CharacterSelectMain_OptionBtn,Option,Налаштування
+DC/Text_UI_WB_CharacterSelect_CharacterList_CharacterList,Character List,Список персонажів
+DC/Text_UI_WB_CharacterSelect_CharacterList_CreateCharacterBtn,Create Character,Створити персонажа
+DC/Text_UI_WB_ClassMusicCapacity_CostLimit,Cost Limit,Ліміт вартості
+DC/Text_UI_WB_ClassMusicCapacity_MusicMemoryPriority,Music Memory Priority,Пріоритет музичної пам'яті
+DC/Text_UI_WB_ClassMusicEquippedGroup_MusicMemoryRequired,Music Memory Required,Потрібна музична пам'ять
+DC/Text_UI_WB_ClassShapeShiftEquippedGroup_Skill_I,Skill I,Вміння I
+DC/Text_UI_WB_ClassShapeShiftEquippedGroup_Skill_II,Skill II,Вміння II
+DC/Text_UI_WB_ClassSpellCapacity_CostLimit,Cost Limit,Обмеження вартості
+DC/Text_UI_WB_ClassSpellCapacity_SpellMemoryPriority,Spell Memory Priority,Пріоритет пам'яті заклинань
+DC/Text_UI_WB_ClassSpellEquippedGroup_Skill_I,Skill I,Вміння I
+DC/Text_UI_WB_ClassSpellEquippedGroup_Skill_II,Skill II,Уміння II
+DC/Text_UI_WB_ClassSpellEquippedGroup_SpellMemoryRequired,Spell memory required,Потрібна пам'ять заклинань
+DC/Text_UI_WB_CommemorativePlaque_CloseBtn,Close,Закрити
+DC/Text_UI_WB_DarkplaceTimer_TimeDesc_00,Catch your breath. The next floor opens in:,Переведіть подих. Відкривається наступний поверх:
+DC/Text_UI_WB_DarkplaceTimer_TimeDesc_01,or when the current floor collapses.,або коли поточний поверх руйнується.
+DC/Text_UI_WB_DealTableBuy_FillBtn,Fill In All Stash,Заповнити предметами
+DC/Text_UI_WB_DealTableBuy_FillDesc,Gets items from all inventory and stash.,Отримати предмети з усього інвентарю та схованок.
+DC/Text_UI_WB_DealTableBuy_Item2Purchase,Item to purchase,Предмет для придбання
+DC/Text_UI_WB_DealTableBuy_MakeDealBtn,Make Deal,Укласти угоду
+DC/Text_UI_WB_DealTableBuy_RequiredItem,Items required from you to complete the deal,"Предмети, необхідні для завершення угоди"
+DC/Text_UI_WB_DealTableCraft_CraftBtn,Craft,Крафт
+DC/Text_UI_WB_DealTableCraft_CraftCost,Craft Cost,Вартість крафта
+DC/Text_UI_WB_DealTableCraft_FillBtn,Fill All Items,Заповнити всі предмети
+DC/Text_UI_WB_DealTableCraft_Fill_Desc,Get Items From all Stash,Отримати предмети з усіх схованок
+DC/Text_UI_WB_DealTableCraft_Item2craft,Item to craft,Предмет для крафту
+DC/Text_UI_WB_DealTableSell_DealBtn,Make Deal,Укласти угоду
+DC/Text_UI_WB_DealTableSell_Item2Sell,Item to sell,Предмет для продажу
+DC/Text_UI_WB_DealTableSell_ReceiveInReturn,Item you receive in return,"Предмет, який ви отримуєте натомість"
+DC/Text_UI_WB_DungeonKillLogItem_Down,Descended,Спустився
+DC/Text_UI_WB_DungeonKillLogItem_Escape,Escaped,Втік
+DC/Text_UI_WB_DungeonKillLogItem_Killed,Killed,Вбив
+DC/Text_UI_WB_DungeonSelect_DungeonSelectBtn_Cancel,Cancel,Скасувати
+DC/Text_UI_WB_DungeonSelect_DungeonSelectBtn_OK,OK,ОК
+DC/Text_UI_WB_DungeonSelect_Level_HighRoller_Characteristics_1,No Kill-feed or in-game timer! Elite and Nightmare grade monsters!,Немає стрічки вбивств або ігрового таймера! Елітні та кошмарні монстри!
+DC/Text_UI_WB_DungeonSelect_Level_HighRoller_Characteristics_2,Better drop rates for high quality gear!,Краща швидкість випадання для високоякісного спорядження!
+DC/Text_UI_WB_DungeonSelect_Level_Normal_Ante,Ante,Вхід
+DC/Text_UI_WB_DungeonSelect_Level_Normal_Free,Free,Безкоштовно
+DC/Text_UI_WB_FramedStorage_Storage,Stash,Схованка
+DC/Text_UI_WB_GameCancelTip_Cancel,Cancel,Скасувати
+DC/Text_UI_WB_GameMusicPlayBar_Cancel,Cancel,Скасувати
+DC/Text_UI_WB_GamePartyMember_Escaped,ESCAPED,ВТЕКЛИ
+DC/Text_UI_WB_GameSpectatorGuide_ChangeTarget,Change Target,Змінити ціль
+DC/Text_UI_WB_GameSpectatorGuide_ChangeView,Change View,Змінити вигляд
+DC/Text_UI_WB_GameSpectatorGuide_OR,or,або
+DC/Text_UI_WB_GameSpectatorGuide_ReportPlayer,Report Player,Поскаржитися на гравця
+DC/Text_UI_WB_GameSpellCastingBar_Cancel,Cancel,Скасувати
+DC/Text_UI_WB_GameTooltipMusic_InstrumentType,Instrument Type,Тип інструменту
+DC/Text_UI_WB_Ingame_Storage_Title,Stash,Збирати
+DC/Text_UI_WB_InputBindPage_PressAnyKeyToBind,Press a key to bind.,"Натисніть клавішу, щоб прив'язати."
+DC/Text_UI_WB_InputBindPage_PressEscToCancel,Press ESC to cancel the custom keybind.,"Натисніть клавішу ESC, щоб скасувати нетипову прив'язку клавіш."
+DC/Text_UI_WB_InventoryLooting_InventoryLootingWidget_LootingPlayerText,Loot Corpse,Здобич Труп
+DC/Text_UI_WB_InventoryLooting_InventoryLootingWidget_TreasureBox,Treasure Box,Скринька зі скарбами
+DC/Text_UI_WB_InventoryLooting_TreasureBox,Treasure Box,Скринька зі скарбами
+DC/Text_UI_WB_Inventory_Status_CloseDetails,Close Details,Закрити деталі
+DC/Text_UI_WB_Inventory_Status_OpenDetails,Open Details,Відкрити деталі
+DC/Text_UI_WB_InviteListSlot_Desc,Will you accept the invitation?,Чи приймете ви запрошення?
+DC/Text_UI_WB_InviteParty_Back,[ESC] Back,[ESC] Назад
+DC/Text_UI_WB_InviteParty_Blocked,Blocked,Заблоковано
+DC/Text_UI_WB_InviteParty_Dungeon,Dungeon,Темниця
+DC/Text_UI_WB_InviteParty_InvitePartyRequest,Would you like to invite {0} to the party?,Хочете запросити {0} в команду?
+DC/Text_UI_WB_InviteParty_Lobby,Lobby,Лобі
+DC/Text_UI_WB_InviteParty_PartySlot,Party Slot,Місце в групі
+DC/Text_UI_WB_ItemTooltipRequirementClass_AllClass,All Class,Весь клас
+DC/Text_UI_WB_ItemTooltipRequirementClass_RequiredClass,Required Class,Обов'язковий клас
+DC/Text_UI_WB_ItemTooltipRequirementPerk_RequiredPerk,Required Perk,Обов'язкова навичка
+DC/Text_UI_WB_ItemTooltipRequirement_RequiredLevel,Required Level,Необхідний рівень
+DC/Text_UI_WB_ItemTooltip_ArmorType,Armor Type,Тип броні
+DC/Text_UI_WB_ItemTooltip_HandType,Hand Type,Тип руки
+DC/Text_UI_WB_ItemTooltip_SlotType,Slot Type,Тип слота
+DC/Text_UI_WB_ItemTooltip_Unidentified,Unidentified,Невідомі
+DC/Text_UI_WB_ItemTooltip_UtilityType,Utility Type,Тип допоміжного предмета
+DC/Text_UI_WB_ItemTooltip_WeaponType,Weapon Type,Тип зброї
+DC/Text_UI_WB_KarmaMemberSlot_NoTeammate,No Teammate,Немає товариша по команді
+DC/Text_UI_WB_KarmaMemberSlot_NotAvailable,Not Available,Немає в наявності
+DC/Text_UI_WB_KarmaMemberSlot_TeamKiller,Team Killer,Вбивця команди
+DC/Text_UI_WB_KarmaReport_Back,[ESC] Back,[ESC] Назад
+DC/Text_UI_WB_KarmaReport_Description_01,"The Karma system displays the trustworthiness of a player based on the opinion of other adventurers.
+You can affect the karma of your past teammates by giving them praise or condemnation.","Система Karma відображає надійність гравця на основі думки інших шукачів пригод.
+Ви можете вплинути на карму своїх колишніх товаришів по команді, похваливши їх або засудивши."
+DC/Text_UI_WB_KarmaReport_Description_02,You can only report on teammates from the previous 6 matches.,Ви можете звітувати лише про товаришів по команді за попередні 6 матчів.
+DC/Text_UI_WB_KarmaReport_Description_03,<KarmaDesc>You currently have</> <KarmaRating>{0}</> <KarmaDesc>Karma Report.</>,<KarmaDesc>На даний момент у вас є</> <KarmaRating>{0}</> <KarmaDesc>Звіт про карму.</>
+DC/Text_UI_WB_KarmaReport_Description_05,punishing a team killer does not use a Karma Report,Для покарання тімкілера не використовується звіт про карму
+DC/Text_UI_WB_KarmaReport_Forgive,Forgive,Вибачити
+DC/Text_UI_WB_KarmaReport_KarmaReport,Karma Report,Звіт про карму
+DC/Text_UI_WB_KarmaReport_Praise,Praise,Похвала
+DC/Text_UI_WB_KarmaReport_Punish,Punish,Карати
+DC/Text_UI_WB_KarmaReport_PunishTeamKiller,Punish Team Killer,Покарати вбивцю команди
+DC/Text_UI_WB_KarmaReport_Title,Karma & Fame,Карма і слава
+DC/Text_UI_WB_KarmaReport_Title_1st,Most Recent Match,Останній матч
+DC/Text_UI_WB_KarmaReport_Title_2nd,2nd Most Recent Match,2-й за рахунком матч
+DC/Text_UI_WB_KarmaReport_Title_3rd,3rd Most Recent Match,3-й за рахунком матч
+DC/Text_UI_WB_KarmaReport_Title_4th,4th Most Recent Match,4-й за рахунком матч
+DC/Text_UI_WB_KarmaReport_Title_5th,5th Most Recent Match,5-й за рахунком матч
+DC/Text_UI_WB_KarmaReport_Title_6th,6th Most Recent Match,6-й за рахунком матч
+DC/Text_UI_WB_LeaderboardDetailPopup_Desc_Normal,"- Earn a ‘Seasonal Title’ through the dungeons.​
+
+- Your Title is determined by the amount of Adventure Points (AP)
+you accumulate during the season.​
+
+- A separate ‘Title’ is calculated for each dungeon.
+Your highest title is always displayed for your adventurer.​
+
+- Earn AP by killing monsters, enemy players, opening chests and
+escaping the dungeons.
+AP is also determined by the value of the treasure loot that you
+extract from the dungeons.
+Going deeper into the dungeons, killing bosses and sub-bosses,
+and looting rare chests give higher AP. ​
+
+- An AP entry fee is subtracted from your total based on
+your current Title each time you enter a dungeon. ​
+
+- Dying in the dungeons forfeits all AP from that session.​
+
+- Your in-game name and border will reflect your highest seasonal title.​","- Заробіть «Сезонний титул» у підземеллях.
+
+- Ваш титул визначається кількістю очок пригод (AP), які ви накопичите протягом сезону.
+
+- Для кожного підземелля розраховується окремий «Титул».Ваше найвище звання завжди відображається для вашого шукача пригод.
+
+- Заробляйте AP, вбиваючи монстрів, ворожих гравців, відкриваючи скрині та втікаючи з підземель.
+AP також визначається вартістю здобичі скарбів, які ви видобуваєте з підземель.
+Заглиблюючись у підземелля, вбиваючи босів і суб-босів, а також грабуючи рідкісні скрині, ви отримуєте вищий AP.
+
+- Плата за вхід в AP віднімається від загальної суми на основі вашого поточного титулу щоразу, коли ви входите в підземелля.
+
+- Смерть у підземеллях позбавляє всіх AP з цієї сесії.
+
+- Ваше ім'я та рамка в грі відображатимуть ваш найвищий сезонний титул."
+DC/Text_UI_WB_LoadingScreen_Loading,Loading...,Завантаження...
+DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_00,"       Use your torch to light up dark areas.
+Use the mouse right-click to throw your torch.","		Використовуйте ліхтарик, щоб освітити темні ділянки.
+Використовуйте клацання правою кнопкою миші, щоб кинути ліхтарик."
+DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_01,"Aim for the Head! Headshots do extra damage!
+Attacks to the limbs do the least damage.","Ціль в голову! Постріли в голову завдають додаткової шкоди!
+Найменшої шкоди завдають удари по кінцівках."
+DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_02,"You can revive a teammate if they die. Collect their ‘soul heart’ from their corpse after removing their chest armor.
+Find a sacrificial altar with their ‘soul heart’ equipped and make a small blood sacrifice.","Ви можете оживити товариша по команді, якщо він помре. Зберіть їхнє «серце душі» з трупа, знявши нагрудну броню.
+Знайдіть жертовний вівтар зі спорядженим «серцем душі» і принесіть невелику жертву крові."
+DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_03,"A portal closes as soon as someone passes through it.
+Sometimes it’s better to let an enemy open a portal and steal it.","Портал закривається, як тільки хтось проходить через нього.
+Іноді краще дозволити ворогу відкрити портал і вкрасти його."
+DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_04,"To cast a spell as a magic caster, make sure you equip the 'Spell Memory' skill. Magic casters can select their spell in-game by
+holding down their 'Spell Memory' skill key. Equip a magic weapon and hold down the right mouse to cast your spell.","Щоб застосувати заклинання як заклинатель магії, переконайтеся, що ви спорядили навичку «Пам'ять заклинань». Заклинателі магії можуть вибрати свої заклинання в грі,
+утримуючи клавішу навички «Пам'ять чарів». Екіпіруйте магічну зброю і утримуйте праву мишу, щоб вимовити своє заклинання."
+DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_05,Sell the loot you collect in the dungeon to the right merchant to build up your coffers.,"Продайте здобич, яку ви збираєте в підземеллі, потрібному торговцю, щоб поповнити свою скарбницю."
+DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_06,"You must aim your shield to block an attack. look up to block a downward slash. If an attack hits a body part that sticks
+out like the top of your head, you will still take damage even if the weapon bounces off your shield.","Ви повинні націлити свій щит, щоб заблокувати атаку. Подивіться вгору, щоб заблокувати похилу риску, спрямовану вниз. Якщо атака влучить у частину тіла, яка стирчить
+, як верхівка голови, ви все одно отримаєте шкоду, навіть якщо зброя відскочить від вашого щита."
+DC/Text_UI_WB_Login_ConfirmReconnectText,"The match is still in progress. Would you like to reconnect?
+If you do not log in again, you will lose all your items.","Матч ще триває. Бажаєте відновити підключення?
+Якщо ви не ввійдете в систему знову, ви втратите всі свої предмети."
+DC/Text_UI_WB_Login_Connect,Connecting...,Підключення...
+DC/Text_UI_WB_Login_IRONMACE,"© 2022. IRONMACE Co., Ltd. All Rights Reserved.","© 2022. IRONMACE Co., Ltd. Всі права захищені."
+DC/Text_UI_WB_Login_LoginBtn,Login,Логін
+DC/Text_UI_WB_Login_PrevGameClosed,An unknown problem has occurred in the dungeon. We return to the tavern.,У підземеллі сталася невідома проблема. Повертаємося в корчму.
+DC/Text_UI_WB_MailboxInventory_Close,Close,Закрити
+DC/Text_UI_WB_MailboxInventory_Off,Off,Вимкнено
+DC/Text_UI_WB_MailboxInventory_On,On,Увімкнено
+DC/Text_UI_WB_MailboxInventory_PartyPrivacy,Allow Party Invites,Дозволити запрошення у лобі
+DC/Text_UI_WB_MailboxInventory_TopTitle,Invite List,Список запрошеннь
+DC/Text_UI_WB_MenuOptionToggleSwitchSlot_Off,Off,Вимкнено
+DC/Text_UI_WB_MenuOptionToggleSwitchSlot_On,On,Увімкнено
+DC/Text_UI_WB_MenuOptionsAudios_BackgroundVolume_Desc,Background Volume,Фоновий Звук
+DC/Text_UI_WB_MenuOptionsAudios_BackgroundVolume_Title,Background Volume,Фоновий Звук
+DC/Text_UI_WB_MenuOptionsAudios_EffectVolume_Desc,Effect Volume,Гучність ефектів
+DC/Text_UI_WB_MenuOptionsAudios_EffectVolume_Title,Effect Volume,Гучність Ефектів
+DC/Text_UI_WB_MenuOptionsAudios_MusicVolume_Desc,Music Volume,Гучність музики
+DC/Text_UI_WB_MenuOptionsAudios_MusicVolume_Title,Music Volume,Гучність музики
+DC/Text_UI_WB_MenuOptionsAudios_Sound,Sound,Звук
+DC/Text_UI_WB_MenuOptionsAudios_TotalVolume_Desc,Total Volume,Загальна гучність
+DC/Text_UI_WB_MenuOptionsAudios_TotalVolume_Title,Total Volume,Загальна Гучність
+DC/Text_UI_WB_MenuOptionsAudios_Voip,Voice Chat,Голосовий чат
+DC/Text_UI_WB_MenuOptionsAudios_VoipInputVolume_Desc,Voice Chat Input Volume,Гучність введення голосового чату
+DC/Text_UI_WB_MenuOptionsAudios_VoipInputVolume_Title,Voice Chat Input Volume,Гучність введення голосового чату
+DC/Text_UI_WB_MenuOptionsAudios_VoipMode_Desc,Voice Chat Channel,Канал голосового чату
+DC/Text_UI_WB_MenuOptionsAudios_VoipMode_Title,Voice Chat Channel,Канал голосового чату
+DC/Text_UI_WB_MenuOptionsAudios_VoipOnOff_Desc,Voice Chat,Голосовий чат
+DC/Text_UI_WB_MenuOptionsAudios_VoipOnOff_Title,Voice Chat,Голосовий чат
+DC/Text_UI_WB_MenuOptionsAudios_VoipOutputVolume_Desc,Voice Chat Output Volume,Гучність виведення голосового чату
+DC/Text_UI_WB_MenuOptionsAudios_VoipOutputVolume_Title,Voice Chat Output Volume,Гучність виведення голосового чату
+DC/Text_UI_WB_MenuOptionsAudios_Volume,Volume,Гучність
+DC/Text_UI_WB_MenuOptionsControls_LanguageCategory,Language,Мова
+DC/Text_UI_WB_MenuOptionsControls_MouseCategory,Mouse,Миша
+DC/Text_UI_WB_MenuOptionsControls_MouseXYAxisSensitivity,"X,Y-Axis Sensitivity","Чутливість осі X, Y"
+DC/Text_UI_WB_MenuOptionsControls_MouseXYAxisSensitivityDesc,"Sets the sensitivity of the mouse's horizontal (x) and Vertical (Y) axis.
+With higher settings the camera will move faster when
+looking left , right , Up , Down with the mouse.","Встановлює чутливість горизонтальної осі (x) і вертикальної (Y) осі миші.
+При більш високих налаштуваннях камера буде рухатися швидше при погляді вліво, вправо, вгору, вниз за допомогою миші."
+DC/Text_UI_WB_MenuOptionsControls_TemporaryCategory,Temporary,Інше
+DC/Text_UI_WB_MenuOptionsInput_InputBindDesc,"Minimal custom keybinds.
+You can bind up to two mouse or key inputs per action.
+More advanced customization will be added in the future.","Мінімальні користувацькі комбінації клавіш.
+Ви можете прив'язати до двох введень миші або клавіші за одну дію.
+У майбутньому буде додано більш просунуту кастомізацію."
+DC/Text_UI_WB_MenuOptionsInput_InputBindTitle,Key Bind Setting,Налаштування прив'язки клавіш
+DC/Text_UI_WB_MenuOptionsVideos_ClothSimuation_Desc,Cloth Simulation,Імітація тканини
+DC/Text_UI_WB_MenuOptionsVideos_ClothSimuation_Title,Cloth Simulation,Імітація тканини
+DC/Text_UI_WB_MenuOptionsVideos_Display,Display,Відображення
+DC/Text_UI_WB_MenuOptionsVideos_DisplayBrightness_Desc,Display Brightness,Яскравість дисплея
+DC/Text_UI_WB_MenuOptionsVideos_DisplayBrightness_Title,Display Brightness,Яскравість дисплея
+DC/Text_UI_WB_MenuOptionsVideos_DisplayMode_Desc,Display Mode,Режим відображення
+DC/Text_UI_WB_MenuOptionsVideos_DisplayMode_Title,Display Mode,Режим відображення
+DC/Text_UI_WB_MenuOptionsVideos_DisplayResolution_Desc,Display Resolution,Роздільна здатність дисплея
+DC/Text_UI_WB_MenuOptionsVideos_DisplayResolution_Title,Display Resolution,Роздільна здатність дисплея
+DC/Text_UI_WB_MenuOptionsVideos_FrameRateMeta_Desc,Menu Frame Rate Limit,Обмеження частоти кадрів меню
+DC/Text_UI_WB_MenuOptionsVideos_FrameRateMeta_Title,Menu Frame Rate Limit,Обмеження частоти кадрів меню
+DC/Text_UI_WB_MenuOptionsVideos_FrameRate_Desc,Frame Rate Limit,Обмеження частоти кадрів
+DC/Text_UI_WB_MenuOptionsVideos_FrameRate_Title,Frame Rate,Частоту
+DC/Text_UI_WB_MenuOptionsVideos_PostProcessing_Desc,Post Processing,Постобробка
+DC/Text_UI_WB_MenuOptionsVideos_PostProcessing_Title,Post Processing,Постобробка
+DC/Text_UI_WB_MenuOptionsVideos_RenderScale_Desc,Display Resolution Render Scale  50% ~ 200%,Роздільна здатність дисплея Render Scale 50% ~ 200%
+DC/Text_UI_WB_MenuOptionsVideos_RenderScale_Title,Render Scale,Масштаб рендерингу
+DC/Text_UI_WB_MenuOptionsVideos_ShadowQuality_Desc,Shadow Quality,Якість тіней
+DC/Text_UI_WB_MenuOptionsVideos_ShadowQuality_Title,Shadow Quality,Якість тіней
+DC/Text_UI_WB_MenuOptionsVideos_TextureQuality_Desc,Texture Quality,Якість текстури
+DC/Text_UI_WB_MenuOptionsVideos_TextureQuality_Title,Texture Quality,Якість текстури
+DC/Text_UI_WB_MenuOptionsVideos_VisualEffectsQuality_Desc,Visual Effects Quality,Якість ефектів
+DC/Text_UI_WB_MenuOptionsVideos_VisualEffectsQuality_Title,Visual Effects Quality,Якість візуальних ефектів
+DC/Text_UI_WB_MenuOptionsVideos_VisualQuality,Visual Quality,Візуальна якість
+DC/Text_UI_WB_MenuOptions_Audio,Audio,Аудіо
+DC/Text_UI_WB_MenuOptions_General,General,Загальне
+DC/Text_UI_WB_MenuOptions_Inputs,Inputs,Введення
+DC/Text_UI_WB_MenuOptions_Video,Video,Відео
+DC/Text_UI_WB_Menu_CharacterSelectOff_CharacterSelect,CHARACTER SELECT,ВИБІР ПЕРСОНАЖА
+DC/Text_UI_WB_Menu_ContinueBtnOff_Return,RETURN,ПОВЕРНУТИСЯ
+DC/Text_UI_WB_Menu_ExitBtnOff_ExitGame,EXIT GAME,ВИЙТИ З ГРИ
+DC/Text_UI_WB_Menu_LobbyBtnOff_Exit2Lobby,EXIT TO LOBBY,ВИХІД У ЛОБІ
+DC/Text_UI_WB_Menu_OptionBtnOff_Options,OPTIONS,ПАРАМЕТРИ
+DC/Text_UI_WB_Menu_OptionBtnOn_Options,OPTIONS,ПАРАМЕТРИ
+DC/Text_UI_WB_MerchantItemBase_NotInteresting,Not Interested In Buying,Не зацікавлені в покупці
+DC/Text_UI_WB_PlayServerSelectBtn_SelectServer,Select Server,Виберіть сервер
+DC/Text_UI_WB_PlayUserInfo_CharacterSelect,Character Select,Вибір персонажа
+DC/Text_UI_WB_PlayUserInfo_Class,Class,Клас
+DC/Text_UI_WB_PlayUserInfo_Customize,Customize,Кастомізація
+DC/Text_UI_WB_PlayUserInfo_Dungeon,Dungeon,Темниця
+DC/Text_UI_WB_PlayUserInfo_LeaderBoard,Leaderboard,Таблиця лідерів
+DC/Text_UI_WB_PlayUserInfo_Lobby,Lobby,Лобі
+DC/Text_UI_WB_PlayUserInfo_Merchant,Merchant,Купець
+DC/Text_UI_WB_PlayUserInfo_Offline,Offline,Не в мережі
+DC/Text_UI_WB_PlayUserInfo_Ready,Ready,Готовий
+DC/Text_UI_WB_PlayUserInfo_Shop,Shop,Цех
+DC/Text_UI_WB_PlayUserInfo_Stash,Stash,Збирати
+DC/Text_UI_WB_PlayUserInfo_Trade,Trade,Торгівля
+DC/Text_UI_WB_Play_Cancel,Cancel,Скасувати
+DC/Text_UI_WB_Play_ClassChange,"Class
+Change","Зміна класу
+"
+DC/Text_UI_WB_Play_ExitParty,Exit Party,Вийти з лобі
+DC/Text_UI_WB_Play_FameAndKarma,Karma & Fame,Карма і слава
+DC/Text_UI_WB_Play_Ready,Ready,Готовий
+DC/Text_UI_WB_Play_SelectServer,"Select
+Server","Виберіть
+сервер"
+DC/Text_UI_WB_Play_Start,Start,Почати
+DC/Text_UI_WB_Play_UserList,"Player
+List","Список гравців
+"
+DC/Text_UI_WB_QuestLog_Back,[ESC] Back,[ESC] Назад
+DC/Text_UI_WB_ReportPlayerChecklistSlot_ReportedItem,This has already been reported.,Про це вже повідомлялося.
+DC/Text_UI_WB_ReportPlayerResultPopup_ProcessingDate,Processing Date:,Дата обробки:
+DC/Text_UI_WB_ReportPlayer_ReportPlayerTitle,Report Player,Поскаржитися на гравця
+DC/Text_UI_WB_ReportPlayer_ReportPlayer_AnnounceText,Please tell us what happened with this player,"Розкажіть, будь ласка, що сталося з цим плеєром"
+DC/Text_UI_WB_ShopItemSlot_AlreadyOwned,Owned,Належать
+DC/Text_UI_WB_TavernStartTimer_TimeDesc_00,Next adventure starts in,Наступна пригода починається
+DC/Text_UI_WB_TavernStartTimer_TimeDesc_01,or as soon as the basecamp is full,або як тільки базовий табір заповниться
+DC/Text_UI_WB_TradeBox_Sec, s,
+DC/Text_UI_WB_TradeBox_TotalGold,Gold : ,Золото:
+DC/Text_UI_WB_TradeChannelList_SelectChannel,Select a Channel,Виберіть канал
+DC/Text_UI_WB_TradeChat_PrivateTradingRoom,Private Trading Room,Приватний торговий зал
+DC/Text_UI_WB_TradeInfo_TradingMasterDesc,"We know that trading items in
+the dungeon is an extremely
+risky endeavor. The trader's
+guild strives to facilitate a
+quick and safe trade
+environment... for a price.","Ми знаємо, що торгівля предметами в
+підземеллі – надзвичайно
+ризикована справа.
+Гільдія трейдерів прагне сприяти
+швидкому та безпечному
+торговому середовищу... за певну ціну."
+DC/Text_UI_WB_TradeInfo_TradingMasterName,Trading Master,Майстер трейдингу
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_InitiationFee,Initiation Fee:,Вступний внесок:
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_RequirementsTitle,Requirements,Вимоги
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_RulesTitle,Rules,Правила
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_00,"1. The guild accepts members of all classes, races, and alignments. Don’t be a jerk in the Trading Post Channel. No profanity, racists, and exclusionary language in chat.","1. Гільдія приймає членів усіх класів, рас і розкладів. Не будьте придурком у каналі Trading Post. У чаті немає нецензурної лексики, расистських висловлювань і нецензурної лексики."
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_01,2. No personal attacks on other traders.,2. Відсутність персональних нападок на інших трейдерів.
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_02,3. No NSFW content.,3. Відсутність контенту NSFW.
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_03,4. Your account will be banned from the Early Access for breaking the rules.,4. Ваш обліковий запис буде заблоковано в дочасному доступі за порушення правил.
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Title,Traders Guild Membership,Членство в Гільдії трейдерів
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_TradeCost,Cost per trade: ,Вартість угоди:
+DC/Text_UI_WB_TradingPhaseConfirm_FinalAnnouncement,Trade Confirmation! Please check ALL trade items! All trades are final!,"Підтвердження торгівлі! Будь ласка, перевірте ВСІ предмети торгівлі! Усі угоди є остаточними!"
+DC/Text_UI_WB_TradingPhaseConfirm_Gold,gold,золото
+DC/Text_UI_WB_TradingPhaseConfirm_TradeFee,Trade Fee,Комісія за торгівлю
+DC/Text_UI_WB_TradingPhaseConfirm_TradingPhase,Trading Phase,Фаза торгівлі
+DC/Text_UI_WB_TradingPhaseDeal_Announcement,Once both traders have approved the items we will advance to the trade confirmation stage.,"Після того, як обидва трейдери схвалять елементи, ми перейдемо до етапу підтвердження угоди."
+DC/Text_UI_WB_TradingPhaseDeal_TradeFeeTitle,Trade Fee,Комісія за торгівлю
+DC/Text_UI_WB_TradingPhaseDeal_TradingPhase,Trading Phase,Фаза торгівлі
+DC/Text_UI_WB_UnEquipMusicTypeListItem_Type,Type,Тип
+DC/Text_UI_WB_UnEquipShapeShiftTypeListItem_Type,Type,Тип
+DC/Text_UI_WB_UnEquipSpellTierListItem_Cost,Cost,Вартість
+DC/Text_UI_WB_UnEquipSpellTierListItem_Tier,Tier,Рівень
+DC/Text_UI_WB_UnEquipmentPerkandSkillList_Perks,Perks,Перки
+DC/Text_UI_WB_UnEquipmentPerkandSkillList_Skills,Skills,Навички
+DC/Text_UI_WB_UnEquipmentSpellList_Spells,Spells,Заклинання
+DC/Text_UI_WB_VideoOptionSlot_Epic,Epic,Епічне
+DC/Text_UI_WB_VideoOptionSlot_High,High,Високе
+DC/Text_UI_WB_VideoOptionSlot_Low,Low,Низьке
+DC/Text_UI_WB_VideoOptionSlot_Medium,Medium,Середнє
+DC/Text_UI_v2_WB_ItemTooltip_AbilityItem_Desc,This is the Abililty Description.,Це опис Abililty.
+DC/Text_UI_v2_WB_ItemTooltip_Info_ArmorType,Armor Type,Тип броні
+DC/Text_UI_v2_WB_ItemTooltip_Info_HandType,Hand Type,Тип руки
+DC/Text_UI_v2_WB_ItemTooltip_Info_SlotType,Slot Type,Тип слота
+DC/Text_UI_v2_WB_ItemTooltip_Info_UtilityType,Utility Type,Тип допоміжного предмета
+DC/Text_UI_v2_WB_ItemTooltip_Info_WeaponType,Weapon Type,Тип зброї
+DC/Text_UI_v2_WB_ItemTooltip_Requirement_RequiredClass,Required Class,Обов'язковий клас
+DC/Text_UI_v2_WB_Loadout_Desc_00,[Alt + L Drag] Divide items,[Alt + L перетягування] Розділення елементів
+DC/Text_UI_v2_WB_Loadout_Desc_01,[Alt + R Click] Send one by one,[Alt + R клацання] Надсилайте по черзі
+DC/Text_UI_v2_WB_Loadout_Desc_02,[Shift + R Click] Send all at once,[Shift + R клацання] Надіслати все відразу
+DC/Text_UI_v2_WB_MerchantListEntry_Deal,Deal,Угода
+DC/Text_UI_v2_WB_MerchantList_Title,Travelers &​ Merchants​,Мандрівники та торговці
+DC/Text_UI_v2_WB_Merchant_Back,[ESC] Back,[ESC] Назад
+DC/Text_UI_v2_WB_Merchant_ComingSoon,Coming soon...,Незабаром...
+DC/Text_UI_v2_WB_Merchant_TravelersandMerchants,Travelers & Merchants,Мандрівники та торговці
+DC/Text_UI_v2_WB_Storage_Storage,Stash,Збирати
+DC/Text_UI_WB_Skillcheck_Bartype_Unlock,Unlock,Розблокувати
+DC/Text_UI_WB_Skillcheck_Roundtype_Unlock,Unlock,Розблокувати
+DC/Text_UI_WB_LeaderboardSheet_NextSeason,Until next season,До наступного сезону
+DC/Text_UI_WB_ShopAccountStatusUpgrade_UpgradeBtn,Upgrade,Оновлення
+DC/Text_UI_WB_LegendaryStatusPopup_Desc,"Upgrade now and receive the following benefits!
+Get all these benefits for only","Оновіть зараз і отримайте наступні переваги!
+Отримайте всі ці переваги лише за"
+DC/Text_UI_WB_ShopAccountStatusUpgrade_Desc,Upgrade now and receive the following benefits! Get all these benefits for only,Оновіть систему зараз та отримайте наступні переваги! Отримайте всі ці переваги лише за
+DC/Text_UI_WB_ReportPlayerHighRollerSubTitle,Select from the list of players who attacked you.,"Виберіть зі списку гравців, які напали на вас."
+DC/Text_UI_WB_Marketplace_TabList_ViewMarket,View Market,Переглянути ринок
+DC/Text_UI_WB_LoginVoipInitializePopup_Title,VoIP,IP-телефонія
+DC/Text_UI_WB_MenuOptionsAudios_VoipSendMode_Desc,Voice Chat Trigger,Тригер голосового чату
+DC/Text_UI_WB_MenuOptionsAudios_VoipSendMode_Title,Voice Chat Trigger,Тригер голосового чату
+DC/Text_UI_v2_WB_Merchant_Loading,Waiting for the merchant...,В очікуванні купця...
+DC/Text_UI_WB_GameSpectatorGuide_WatchTime,Watch time,Час перегляду
+DC/Text_UI_WB_MenuOptionLinkButton_Community_Website,Website,
+DC/Text_UI_WB_MenuOptionsControls_Whisper,Whisper (/w),Пошепки (/w)
+DC/Text_UI_WB_MenuOptionsControls_WhisperAll,All,Всі
+DC/Text_UI_WB_MenuOptionsControls_WhisperBlock,Block,Блокувати
+DC/Text_UI_WB_MenuOptionsControls_WhisperFriend,Friends Only,Тільки для друзів
+DC/Text_UI_WB_LeaderboardSheet_WipeTimer,Wipe Timer ,Таймер протирання
+DC/Text_UI_WB_VideoOptionSlotAntiAliasingSuperResolutionSlot_XeSS,XeSS,
+DC/Text_UI_WB_MenuOptionsVideos_SuperResolutionModeXeSS_Desc,XeSS Mode,Режим XeSS
+DC/Text_UI_WB_MenuOptionsVideos_SuperResolutionModeXeSS_Title,XeSS Mode,Режим XeSS
+DC/Text_UI_WB_MerchantShortcutPopup_Button_Yes,Yes,Так
+DC/Text_UI_WB_CrossPlatformLinkPopup_ButtonOK01,Yes,"Так, у мене є обліковий запис на іншій платформі"
+DC/Text_UI_WB_DeathcamPopup_Title,You are dead,Ви мертві
+DC/Text_UI_WB_DungeonResult_AP_YouAreDead,You are dead,Ви мертві
+DC/Text_UI_WB_DungeonResult_YouDead,You are dead,Ви мертві
+DC/Text_UI_WB_LoginVoipInitializePopup_Desc2,You can always change these settings in you 'Options'.,Ви завжди можете змінити ці налаштування в розділі «Параметри».
+DC/Text_UI_WB_ReportPlayer_ReportPlayer_AnnounceText_02,You can only report one of the items below,Ви можете поскаржитися лише на один із наведених нижче пунктів
+DC/Text_UI_WB_LegendaryStatusPopup_Title2,Your account has Legendary Status!,Ваш акаунт має статус Легендарного!
+DC/Text_UI_WB_ShopAccountStatusUpgradeComplete_Desc,Your account has been upgraded to Legendary status!,Ваш акаунт отримав статус Легендарного!
+DC/Text_UI_WB_KarmaReport_FameDesc,Your character's fame increases by one for each level earned each season.,Слава вашого персонажа збільшується на одиницю за кожен зароблений рівень кожного сезону.
+DC/Text_UI_WB_DungeonResult_AP_SubTitle,Your performance in this dungeon exploration,Ваш результат у цьому дослідженні підземелля
+DC/Text_UI_WB_ViewMarketSlot_ButtonBuyYours,Yours,Ваш
+DC/Text_UI_WB_MarketplacePurchaseGroup_TopTitle_LeftButton,[ESC] Cancel Trade,[ESC] Скасувати торгівлю
+DC/Text_UI_WB_Marketpace_TopTitle_LeftButton,[ESC] Leave Channel,[ESC] Вийти з каналу
+DC/Text_UI_ClientAccountSubsystem_AbnormalDC,"The connection to the server terminated abnormally.
+Please restart the client.","З'єднання з сервером розірвано нештатно.
+Перезапустіть клієнт."
+DC/Text_UI_WB_DeathcamResult_BackToLastGame,Back to Last Game,Повернутися до попередньої гри
+DC/Text_UI_WB_DungeonResult_AP_ContinueSpectatingButton,Continue Spectating,Продовжити перегляд
+DC/Text_UI_WB_DungeonResult_ContinueSpectatingButton,Continue Spectating,Продовжити перегляд
+DC/Text_UI_WB_DeathcamResult_ExitLobby,Exit to Lobby,Вихід до лобі
+DC/Text_UI_WB_DungeonResult_AP_ExitToLobbyButton,Exit to Lobby,Вихід у лобі
+DC/Text_UI_WB_DungeonResult_ExitToLobbyButton,Exit to Lobby,Вихід у лобі
+DC/Text_UI_WB_Menu_Hours,hours,години
+DC/Text_UI_WB_DungeonKillLogItem_DownPortals,{0} person Dungeon Portal has appeared!,{Відкрито портал підземелля!
+DC/Text_UI_WB_DungeonKillLogItem_EscapePortals,{0} person Escape Portal has appeared!,{Відкрито портал втечі!
+DC/Text_UI_WB_DungeonKillLogItem_DownPortal,{0} person Dungeon Portal has appeared!,{Відкрито портал підземелля!
+DC/Text_UI_WB_DungeonKillLogItem_EscapePortal,{0} person Escape Portal has appeared!,{0} людина Відкрито портал втечі!
+DC/Text_UI_WB_GameSpectatorGuide_WatchTimerText,{0}s,{0}с
+DC/Text_UI_DCUIFunctionLibrary_TimespanToDH_format,{d}d {h}h,{d}д {h}г
+DC/Text_UI_DCUIFunctionLibrary_TimespanToDHM_format,{d}d {h}h {m}m,{d}д {h}г {m}х
+DC/Text_UI_DCUIFunctionLibrary_DHMS_format,{d}d {h}h {m}m {s}s,{d}д {h}г {m}х {s}с
+DC/Text_UI_DCUIFunctionLibrary_TimespanToHM_format,{h}h {m}m,{h}г {m}х
+DC/Text_UI_DCUIFunctionLibrary_TimespanToMS_format,{m}m {s}s,{h}h {m}m
+DC/Text_UI_DCUIFunctionLibrary_TimespanToS_format,{s}s,{s}с
+DC/Text_UI_WB_BtnDungeonList_Ruins,The Forgotten Castle : Normal,Забутий замок: звичайний
+DC/Text_UI_WB_CharacterCreateMain_ClassPurchaseDesc,"This class can be
+created after being unlocked","Цей клас можна
+створити після розблокування"
+DC/Text_UI_WB_TradeChannelList_NotAvailableAnnounce,Trading is only available to members of the Trader's Guild.,Торгівля доступна лише членам Гільдії торговців.
+DC/Text_UI_WB_ShopMain_TriumphLevel,Triumph Level : ,Тріумфальний рівень :
+DC/Text_UI_WB_LearningTokensPanel_Desc_01,"Use your learning Token to learn an ability from another ‘Master’.
+Please select the master you wish to learn from.","Використовуйте жетон навчання, щоб вивчити вміння від іншого ‘Майстра‘.
+Виберіть майстра, у якого ви бажаєте навчитися."
+DC/Text_UI_WB_TabButton_LeaderBoard_Warlock,Warlock,Чаклун
+DC/Text_UI_WB_Login_WelcomeText,"Early Access Hotfix #56
+
+This hotfix continues to address minor bugs and adds quality of life improvements such as accessing a (non-dynamic) quest log from within the dungeon and the display of gear score for all party members in the lobby when readying up. We’ve updated the Frost Wyvern initiation process so it no longer requires the assistance of other teams. Finally, we’ve added a new shop item that allows customers to change their account name. Thanks and see you in the dungeons!","Early Access Hotfix #56
+
+Це виправлення продовжує усувати незначні помилки та додає покращення якості життя, наприклад доступ до (нединамічного) журналу квестів із підземелля та відображення оцінки спорядження для всіх членів групи в лобі під час підготовки. Ми оновили процес ініціації Frost Wyvern, щоб він більше не потребував допомоги інших команд. Нарешті, ми додали новий товар магазину, який дозволяє клієнтам змінювати назву свого облікового запису. Дякую і до зустрічі в підземеллях!"
+DC/Text_UI_WB_InventoryPage_Divide,[Alt + L Drag] Divide items,[Alt + L Drag] Розділити предмети
+DC/Text_UI_WB_InventoryPage_DropOne,[Alt + R Click] Drop one by one,[Alt + R Click] Скинути по одному
+DC/Text_UI_WB_RecruitChannel_Leave,[ESC] Leave Channel,[ESC] Вийти з каналу
+DC/Text_UI_WB_InventoryPage_DropAll,[Shift + R Click] Drop it all at once,[Shift + R Click] Скинути все одразу
+DC/Text_UI_WB_CharacterCreateMain_Or,or,або
+DC/Text_UI_WB_CharacterSelectMain_Or,or,або
+DC/Text_UI_WB_ShopItemSlot_or,or,або
+DC/Text_UI_WB_Arena_IntermissionPhase_RoundStartSoon,ready,готово
+DC/Text_UI_WB_RecruitChannelListEntry_NumMembers,{0} Members,{0} Учасники
+DC/Text_UI_WB_ChannelPlayerList_NumPlayers,{0} players,{0} гравці
+DC/Text_UI_WB_ChannelPlayerList_NumTraders,{0} traders,{0} трейдери
