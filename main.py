@@ -30,6 +30,9 @@ def parse_args():
     parser.add_argument("--output", "-o", metavar="<OUT.locres>", type=str,
                         default="patched.locres",
                         help="name of the ouptut .locres file after migration or patching (default: ./patched.locres)")
+    parser.add_argument("--added-keys", metavar="<ADDED_KEYS.txt>", type=str,
+                        default="added_keys.txt",
+                        help="location where the new keys are added after the migration")
     parser.add_argument("--force", action="store_true", help="ignore warnings")
 
     return parser.parse_args()
@@ -39,7 +42,7 @@ def main():
     args = parse_args()
     try:
         if args.action == ACTION_MIGRATE:
-            Localization(args.force).migrate(args.target, args.source, args.base_csv)
+            Localization(args.force).migrate(args.target, args.source, args.base_csv, args.added_keys)
         if args.action == ACTION_PATCH:
             Localization(args.force).patch(args.target, args.output)
     except (ValueError, FileNotFoundError, FileExistsError) as e:
