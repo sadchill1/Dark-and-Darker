@@ -2,6 +2,7 @@ from shutil import move, copy
 from os import path, listdir
 import subprocess
 import tempfile
+import csv
 
 
 class Localization:
@@ -44,6 +45,36 @@ class Localization:
             raise RuntimeError("Failed to patch the .locres file")
         return csv_file
 
+    def _create_diff(self, old_csv: str, new_csv: str, output: str):
+        """
+        Figure out which fields where added and which where removed in the new patch.
+        Store the keys as a diff.
+        Someone has to add them manually to the ./data/*.csv
+        """
+        keys_old = set()
+        keys_new = set()
+        values = dict()
+        with open(old_csv, encoding="utf-8") as fd_old, \
+             open(new_csv, encoding="utf-8") as fd_new, \
+             open(output, encoding="utf-8", mode="w+", newline="") as out:
+            #
+            reader = csv.DictReader(fd_old)
+            for row in reader:
+                keys_old.add(row["key"])
+                values[row["key"]] = row["source"]
+            reader = csv.DictReader(fd_new)
+            for row in reader:
+                keys_new.add(row["key"])
+                values[row["key"]] = row["source"]
+
+            writer = csv.DictWriter(out, fieldnames=["key","source","target"])
+            out.write("<keys added>\n")
+            writer.writerows({"key": key, "source": values[key], "target": ""}
+                             for key in keys_new - keys_old)
+            out.write("\n\n<keys removed>\n")
+            writer.writerows({"key": key, "source": values[key], "target": ""}
+                             for key in keys_old - keys_new)
+
     def patch(self, target: str, output: str):
         """
         Use the .csv files to patch the base .locres
@@ -59,7 +90,7 @@ class Localization:
                 self._import_csv(locres, csv, locres)
             move(locres, output)
 
-    def migrate(self, target: str, source: str, base_csv: str):
+    def migrate(self, target: str, source: str, base_csv: str, diff_location: str):
         """
         Creates a backup of the target.locres
         Copies the source.locres over the target.locres
@@ -78,6 +109,7 @@ class Localization:
         with tempfile.TemporaryDirectory() as temp_dir:
             source_csv = self._export_csv(source, temp_dir)
             target_csv = self._export_csv(target, temp_dir)
+            self._create_diff(target_csv, source_csv, diff_location)
             move(target, self._backup_name(target))  # create a backup
             move(base_csv, self._backup_name(base_csv))  # create a backup
             copy(source, target)  # use source as the new target

@@ -976,11 +976,9 @@ DC/Text_UI_WB_LearningTokensPanel_Desc_01,"Use your learning Token to learn an a
 Please select the master you wish to learn from.","Використовуйте жетон навчання, щоб вивчити вміння від іншого ‘Майстра‘.
 Виберіть майстра, у якого ви бажаєте навчитися."
 DC/Text_UI_WB_TabButton_LeaderBoard_Warlock,Warlock,Чаклун
-DC/Text_UI_WB_Login_WelcomeText,"Early Access Hotfix #56
+DC/Text_UI_WB_Login_WelcomeText,,"Early Access Hotfix #57
 
-This hotfix continues to address minor bugs and adds quality of life improvements such as accessing a (non-dynamic) quest log from within the dungeon and the display of gear score for all party members in the lobby when readying up. We’ve updated the Frost Wyvern initiation process so it no longer requires the assistance of other teams. Finally, we’ve added a new shop item that allows customers to change their account name. Thanks and see you in the dungeons!","Early Access Hotfix #56
-
-Це виправлення продовжує усувати незначні помилки та додає покращення якості життя, наприклад доступ до (нединамічного) журналу квестів із підземелля та відображення оцінки спорядження для всіх членів групи в лобі під час підготовки. Ми оновили процес ініціації Frost Wyvern, щоб він більше не потребував допомоги інших команд. Нарешті, ми додали новий товар магазину, який дозволяє клієнтам змінювати назву свого облікового запису. Дякую і до зустрічі в підземеллях!"
+Ми дякуємо нашій спільноті за те, що ви об'єдналися, щоб допомогти дитячій дослідницькій лікарні Святого Іуди в їхньому прагненні знайти ліки від раку. Учасники благодійного марафону GCX тепер можуть отримати свій благодійний факел GCX, ввівши свій код у внутрішній крамниці гри. Ми пишаємося тим, що є частиною такої пристрасної та чудової спільноти. Дякуємо і до зустрічі в підземеллях!"
 DC/Text_UI_WB_InventoryPage_Divide,[Alt + L Drag] Divide items,[Alt + L Drag] Розділити предмети
 DC/Text_UI_WB_InventoryPage_DropOne,[Alt + R Click] Drop one by one,[Alt + R Click] Скинути по одному
 DC/Text_UI_WB_RecruitChannel_Leave,[ESC] Leave Channel,[ESC] Вийти з каналу
