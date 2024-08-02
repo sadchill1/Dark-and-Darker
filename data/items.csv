@@ -392,7 +392,7 @@ DC/Text_DesignData_Item_Item_ExplosiveBottle_4001,Explosive Bottle,Вибухо�
 DC/Text_DesignData_Item_Item_ExplosiveBottle_5001,Explosive Bottle,Вибухова пляшка
 DC/Text_DesignData_Item_Item_ExplosiveBottle_6001,Explosive Bottle,Вибухова пляшка
 DC/Text_DesignData_Item_Item_ExplosiveBottle_7001,Explosive Bottle,Вибухова пляшка
-DC/Text_DesignData_Item_Item_ExtraThickPelts,Extra Thick Pelts,Надзвичайно товсті шкурки
+DC/Text_DesignData_Item_Item_ExtraThickPelts,Extra Thick Pelt,Надзвичайно товсті шкурки
 DC/Text_DesignData_Item_Item_Falchion_1001,Falchion,Фальшфейер
 DC/Text_DesignData_Item_Item_Falchion_2001,Falchion,Фальшфейер
 DC/Text_DesignData_Item_Item_Falchion_3001,Falchion,Фальшфейер
@@ -401,7 +401,7 @@ DC/Text_DesignData_Item_Item_Falchion_5001,Falchion,Фальшфейер
 DC/Text_DesignData_Item_Item_Falchion_6001,Falchion,Фальчіон.
 DC/Text_DesignData_Item_Item_Falchion_7001,Kuma’s Fang,Ікло Куми
 DC/Text_DesignData_Item_Item_FalchionofHonor_5001,Falchion of Honor,Знак пошани
-DC/Text_DesignData_Item_Item_FangsofDeathNecklace_5001,Fangs of Death Necklace,Намисто ‘Ікла смерті
+DC/Text_DesignData_Item_Item_FangsofDeathNecklace_5001,Fangs of Death Necklace,"Намисто ""Ікла смерті"
 DC/Text_DesignData_Item_Item_FeatheredHat_1001,Feathered Hat,Капелюх з пір'ям
 DC/Text_DesignData_Item_Item_FeatheredHat_2001,Feathered Hat,Капелюх з пір'ям
 DC/Text_DesignData_Item_Item_FeatheredHat_3001,Feathered Hat,Капелюх з пір'ям
@@ -672,7 +672,7 @@ DC/Text_DesignData_Item_Item_GoldenLeafHood_5001,Golden Leaf Hood,Золотий
 DC/Text_DesignData_Item_Item_GoldenLeggings_5001,Golden Leggings,Золоті лосини
 DC/Text_DesignData_Item_Item_GoldenPaddedTunic_5001,Golden Padded Tunic,Золота туніка на підкладці
 DC/Text_DesignData_Item_Item_GoldenPlateBoots_5001,Golden Plate Boots,Чоботи на золотих пластинах
-DC/Text_DesignData_Item_Item_GoldenPlatePants_5001,Golden Plate Pants,Штани ‘Золота пластина
+DC/Text_DesignData_Item_Item_GoldenPlatePants_5001,Golden Plate Pants,"Штани ""Золота пластина"
 DC/Text_DesignData_Item_Item_GoldenPlate_5001,Golden Plate,Золоті лати
 DC/Text_DesignData_Item_Item_GoldenRobe_5001,Golden Robe,Золотий халат
 DC/Text_DesignData_Item_Item_GoldenScarf_5001,Golden Scarf,Золотий шарф
@@ -1649,3 +1649,38 @@ DC/Text_DesingData_Item_Item_VisoredSallet_4001,Visored Sallet,Салад з к�
 DC/Text_DesingData_Item_Item_VisoredSallet_5001,Visored Sallet,Салад з козирком
 DC/Text_DesingData_Item_Item_VisoredSallet_6001,Visored Sallet,Салад з козирком
 DC/Text_DesingData_Item_Item_VisoredSallet_7001,Visored Sallet,Салад з козирком
+DC/Text_DesignData_Item_Item_WarlordsArmorShard,Warlord's Armor Shard,
+DC/Text_DesignData_Item_Item_SovereignsGhostblade_5001,Sovereign's Ghostblade,
+DC/Text_DesignData_Item_Item_FrostlightOracleRobe_6001,Frostlight Oracle Robe,
+DC/Text_DesignData_Item_Item_FrostlightCrystalSword_6001,Frostlight Crystal Sword,
+DC/Text_DesignData_Item_Item_FrostlightRunestoneGloves_6001,Frostlight Runestone Gloves,
+DC/Text_DesignData_Item_Item_FrostlightLeatherLeggings_6001,Frostlight Leather Leggings,
+DC/Text_DesignData_Item_Item_FrostlightAketon_6001,Frostlight Aketon,
+DC/Text_DesignData_Item_Item_FrostlightRivetedGloves_6001,Frostlight Riveted Gloves,
+DC/Text_DesignData_Item_Item_FrostlightHood_6001,Frostlight Hood,
+DC/Text_DesignData_Item_Item_BatWing,Bat Wing,
+DC/Text_DesignData_Item_Item_WendigosEntrails,Wendigo's Entrails,
+DC/Text_DesignData_Item_Item_FrostlightWizardHat_6001,Frostlight Wizard Hat,
+DC/Text_DesignData_Item_Item_FrostlightAbyssPlateArmor_6001,Frostlight Abyss Plate Armor,
+DC/Text_DesignData_Item_Item_GiantBatHide,Giant Bat Hide,
+DC/Text_DesignData_Item_Item_GiantBatEar,Giant Bat Ear,
+DC/Text_DesignData_Item_Item_FrostlightLanternShield_6001,Frostlight Lantern Shield,
+DC/Text_DesignData_Item_Item_FrostlightSpear_6001,Frostlight Spear,
+DC/Text_DesignData_Item_Item_FrostlightPlateBoots_6001,Frostlight Plate Boots,
+DC/Text_DesignData_Item_Item_FrostlightCloak_6001,Frostlight Cloak,
+DC/Text_DesignData_Item_Item_FrostlightFeatheredHat_6001,Frostlight Feathered Hat,
+DC/Text_DesignData_Item_Item_WendigosAntlerFragment,Wendigo's Antler Fragment,
+DC/Text_DesignData_Item_Item_SilverSkulltoken,Silver Skull Token,
+DC/Text_DesignData_Item_Item_Icefang_6001,Icefang,
+DC/Text_DesignData_Item_Item_FrostlightRuggedBoots_6001,Frostlight Rugged Boots,
+DC/Text_DesingData_Item_Item_FrostlightNormanNasalHelm_6001,Frostlight Norman Nasal Helm,
+DC/Text_DesignData_Item_Item_FrostlightMysticGloves_6001,Frostlight Mystic Gloves,
+DC/Text_DesignData_Item_Item_GoldenSkulltoken,Golden Skull Token,
+DC/Text_DesingData_Item_Item_FrostlightCrusaderHelm_6001,Frostlight Crusader Helm,
+DC/Text_DesignData_Item_Item_GrimSlayer_5001,Grimslayer,
+DC/Text_DesignData_Item_Item_FrostlightTrousers_6001,Frostlight Trousers,
+DC/Text_DesignData_Item_Item_FrostWyvernsHide,Frost Wyvern's Hide,
+DC/Text_DesignData_Item_Item_FrostlightLightfootBoots_6001,Frostlight Lightfoot Boots,
+DC/Text_DesignData_Item_Item_FrostlightGauntlets_6001,Frostlight Gauntlets,
+DC/Text_DesignData_Item_Item_FrostlightPlatePants_6001,Frostlight Plate Pants,
+DC/Text_DesignData_Item_Item_FrostlightWardenOutfit_6001,Frostlight Warden Outfit,
