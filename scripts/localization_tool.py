@@ -1,30 +1,20 @@
 from shutil import move, copy
 from os import path, listdir
+from pprint import pprint
 import subprocess
-import tempfile
 import csv
 
 
 class Localization:
-    PARSER=path.join("scripts", "UnrealLocres.exe")
-    DATA="data"
+    PARSER = path.join("scripts", "UnrealLocres.exe")
+    DATA = "data"
+    BASE_CSV = path.join(DATA, "!base.csv")
+    OTHER_CSV = path.join(DATA, "~other.csv")
 
     def __init__(self, ignore_warnings: bool = False):
         self.ignore_warnings = ignore_warnings
 
-    @staticmethod
-    def _backup_name(f: str):
-        return f + ".bak"
-
-    @staticmethod
-    def _escape(string:str):
-        if '"' in string:
-            string = string.replace('"', "‘")
-        if "\n" in string or "," in string:
-            return f'"{string}"'
-        return string
-
-    def _export_csv(self, target: str, directory: str):
+    def _export_csv(self, target: str, directory: str = "."):
         """
         Run the UnrealLocres.exe script to obtain a .csv representation of the target.locres file.
         The format of the csv file is: <key>,<value>,<*empty*>
@@ -45,75 +35,81 @@ class Localization:
             raise RuntimeError("Failed to patch the .locres file")
         return csv_file
 
-    def _create_diff(self, old_csv: str, new_csv: str, output: str):
-        """
-        Figure out which fields where added and which where removed in the new patch.
-        Store the keys as a diff.
-        Someone has to add them manually to the ./data/*.csv
-        """
-        keys_old = set()
-        keys_new = set()
-        values = dict()
-        with open(old_csv, encoding="utf-8") as fd_old, \
-             open(new_csv, encoding="utf-8") as fd_new, \
-             open(output, encoding="utf-8", mode="w+", newline="") as out:
-            #
-            reader = csv.DictReader(fd_old)
-            for row in reader:
-                keys_old.add(row["key"])
-                values[row["key"]] = row["source"]
-            reader = csv.DictReader(fd_new)
-            for row in reader:
-                keys_new.add(row["key"])
-                values[row["key"]] = row["source"]
+    @staticmethod
+    def _read_csv(path: str):
+        with open(path, newline="", encoding="utf-8") as csvfile:
+            reader = csv.DictReader(csvfile)
+            return {row["key"]: (row["source"], row["target"]) for row in reader}
 
-            writer = csv.DictWriter(out, fieldnames=["key","source","target"])
-            out.write("<keys added>\n")
-            writer.writerows({"key": key, "source": values[key], "target": ""}
-                             for key in keys_new - keys_old)
-            out.write("\n\n<keys removed>\n")
-            writer.writerows({"key": key, "source": values[key], "target": ""}
-                             for key in keys_old - keys_new)
+    @classmethod
+    def _get_all_csv(cls):
+        csv_list = [path.join(cls.DATA, file) for file in listdir(cls.DATA)
+                    if path.isfile(path.join(cls.DATA, file)) and file.endswith(".csv")]
+        return sorted(csv_list)
+
+    def _update_all_csv(self, source_csv: str):
+        """
+        Update all of .csv files, since the new localization might have some fields updated.
+        Any new keys are added to the end of ~other.csv
+        """
+        move(source_csv, self.BASE_CSV)  # update the base.csv
+        new_loc = self._read_csv(self.BASE_CSV)
+        keys_without_translation = set(new_loc.keys())  # remember which keys were added
+        removed_keys = set()  # remember which keys were removed
+        csv_list = self._get_all_csv()[1:]  # list of all csv files without !base.csv
+
+        for csv_path in csv_list:  # iterate over all csv files
+            old_loc = self._read_csv(csv_path)
+            with open(csv_path, newline="", encoding="utf-8", mode="w") as csv_file:
+                writer = csv.writer(csv_file, lineterminator="\n")
+                writer.writerow(["key", "source", "target"])
+                for key, (source, target) in old_loc.items():
+                    try:
+                        keys_without_translation.remove(key)  # update list of new keys
+                        # write the rows back to the same file,
+                        # but with the source from the new .locres
+                        # python will preserve the key order in the dict
+                        writer.writerow([key, new_loc[key][0], target])
+                    except KeyError:
+                        removed_keys.add(key)  # update list of removed keys
+
+        # write any new keys to the end of ~other.csv
+        # the translation should be added by hand
+        with open(csv_file, newline="", encoding="utf-8", mode="a") as f:
+            writer = csv.writer(f, lineterminator="\n")
+            for key in keys_without_translation:
+                writer.writerow([key, new_loc[key][0], ""])
+
+        if removed_keys:
+            print("WARN: these keys were removed in the latest version:")
+            pprint(removed_keys)
 
     def patch(self, target: str, output: str):
         """
         Use the .csv files to patch the base .locres
         The .csv files are applied in order, so the last .csv will override any previous changes
         """
-        csv_list = [path.join(self.DATA, file) for file in listdir(self.DATA)
-                    if path.isfile(path.join(self.DATA, file)) and file.endswith(".csv")]
-        csv_list.sort()
-        with tempfile.TemporaryDirectory() as temp_dir:
-            locres = path.join(temp_dir, "tmp.locres")
-            copy(target, locres)
-            for csv in csv_list:
-                self._import_csv(locres, csv, locres)
-            move(locres, output)
+        csv_list = self._get_all_csv()
+        locres = "tmp.locres"
+        copy(target, locres)
+        for csv in csv_list:
+            self._import_csv(locres, csv, locres)
+        move(locres, output)
 
-    def migrate(self, target: str, source: str, base_csv: str, diff_location: str):
+    def migrate(self, target_locres: str, source_locres: str):
         """
-        Creates a backup of the target.locres
         Copies the source.locres over the target.locres
-        Updates the base.csv using the new .locres
+        Updates all .csv files using the new .locres
+        Any new keys are added to the end of ~other.csv
         """
         # validate user input
-        if any(not file or not path.isfile(file) for file in [target, source, base_csv]):
-            raise FileNotFoundError("target, source, and base_csv are required")
-        # check that we won't corrupt any backups
-        if any(path.isfile(self._backup_name(file)) for file in [target, base_csv]) and \
-           not self.ignore_warnings:
-            #
-            raise FileExistsError("Please make sure that your backup files are not overriden")
+        if any(not file or not path.isfile(file) for file in [target_locres, source_locres]):
+            raise FileNotFoundError("target and source are required")
 
-        # create a temp dir to store csv files
-        with tempfile.TemporaryDirectory() as temp_dir:
-            source_csv = self._export_csv(source, temp_dir)
-            target_csv = self._export_csv(target, temp_dir)
-            self._create_diff(target_csv, source_csv, diff_location)
-            move(target, self._backup_name(target))  # create a backup
-            move(base_csv, self._backup_name(base_csv))  # create a backup
-            copy(source, target)  # use source as the new target
-            move(source_csv, base_csv)  # update the base.csv
+        source_csv = self._export_csv(source_locres)  # export new locres to csv
+        self._update_all_csv(source_csv)  # update all csv with new original localization
+        copy(source_locres, target_locres)  # use source as the new target
+
 
 if __name__ == "__main__":
     print("Please use the main.py script")
