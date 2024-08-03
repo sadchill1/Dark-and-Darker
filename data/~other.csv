@@ -1643,30 +1643,30 @@ DC/Text_DesignData_Emote_Emote_IDontKnow,I Don’t Know,Я не знаю
 DC/Text_DesignData_Emote_Emote_KickingGround,Kicking Ground,"Земля, що б'є"
 DC/Text_DesignData_Emote_Emote_KnightlyKneel,Knightly Kneel,Лицарське коліно
 DC/Text_DesignData_Emote_Emote_Loser,Loser,Невдаха.
-DC/Text_DesignData_Emote_Emote_MoneyMoneyMoney,Money Money Money,Money Money Money Money
+DC/Text_DesignData_Emote_Emote_MoneyMoneyMoney,Money Money Money,Гроші Гроші Гроші
 DC/Text_DesignData_Emote_Emote_Noob,Noob,Нуб
-DC/Text_DesignData_Emote_Emote_Pointing,Pointing,Пойнтінг
-DC/Text_DesignData_Emote_Emote_PourinOneOut,Pourin One Out,Виливаємо один на один
-DC/Text_DesignData_Emote_Emote_PowerFlex,Power Flex,Гнучкий рух
-DC/Text_DesignData_Emote_Emote_PrayingHands,Praying Hands,"Руки, що моляться"
-DC/Text_DesignData_Emote_Emote_RPS,"Rock, Paper, Scissors","Камінь, папір, ножиці"
-DC/Text_DesignData_Emote_Emote_Salute,Salute,Салют
-DC/Text_DesignData_Emote_Emote_Shh,Shh,Ш-ш-ш.
+DC/Text_DesignData_Emote_Emote_Pointing,Pointing,Вказати Пальцем
+DC/Text_DesignData_Emote_Emote_PourinOneOut,Pourin One Out,Налити
+DC/Text_DesignData_Emote_Emote_PowerFlex,Power Flex,Показати Свою Силу
+DC/Text_DesignData_Emote_Emote_PrayingHands,Praying Hands,Молитва
+DC/Text_DesignData_Emote_Emote_RPS,"Rock, Paper, Scissors",Камінь-Ножиці-Папір
+DC/Text_DesignData_Emote_Emote_Salute,Salute,Віддати Честь
+DC/Text_DesignData_Emote_Emote_Shh,Shh,Ш-ш-ш...
 DC/Text_DesignData_Emote_Emote_Surrender,Surrender,Капітуляція
 DC/Text_DesignData_Emote_Emote_TheCarole,The Carole,Кароль
-DC/Text_DesignData_Emote_Emote_ThumbsDown,Thumbs Down,Великі пальці вниз.
-DC/Text_DesignData_Emote_Emote_ThumbsUp,Thumbs Up,Великий палець вгору.
-DC/Text_DesignData_Emote_Emote_YouCrazy,You Crazy,Ти божевільний.
+DC/Text_DesignData_Emote_Emote_ThumbsDown,Thumbs Down,Великий Палець Вниз
+DC/Text_DesignData_Emote_Emote_ThumbsUp,Thumbs Up,Великий Палець Вгору
+DC/Text_DesignData_Emote_Emote_YouCrazy,You Crazy,Ти божевільний
 DC/Text_DesignData_ItemSkin_ItemSkin_CampfireKitIceFlame,Ice Flame,Крижане полум'я
 DC/Text_DesignData_ItemSkin_ItemSkin_CampfireKitKettle,Kettle,Чайник
-DC/Text_DesignData_ItemSkin_ItemSkin_CampfireKitMoonlight,Moonlight Campfire,Місячне багаття
-DC/Text_DesignData_ItemSkin_ItemSkin_CampfireKitRoastedRabbit,Roasted Rabbit,Смажений кролик
-DC/Text_DesignData_ItemSkin_ItemSkin_FroststoneTorch,Froststone Torch,Смолоскип з крижаного каменю
+DC/Text_DesignData_ItemSkin_ItemSkin_CampfireKitMoonlight,Moonlight Campfire,Місячне Багаття
+DC/Text_DesignData_ItemSkin_ItemSkin_CampfireKitRoastedRabbit,Roasted Rabbit,Смажений Кролик
+DC/Text_DesignData_ItemSkin_ItemSkin_FroststoneTorch,Froststone Torch,Смолоскип Морозного Каменю
 DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleClarityPotion,Frozen Clarity Potion,Заморожене зілля ясності
-DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleHealingPotion,Frozen Healing Potion,Застигле зілля зцілення
-DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleInvisibilityPotion,Frozen Invisibility Potion,Заморожене зілля невидимості
-DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleLuckPotion,Frozen Luck Potion,Заморожене зілля удачі
-DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleLuckPotionGreat,Frozen Large Luck Potion,Заморожене велике зілля удачі
+DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleHealingPotion,Frozen Healing Potion,Заморожене зілля зцілення
+DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleInvisibilityPotion,Frozen Invisibility Potion,Заморожене Зілля Невидимості
+DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleLuckPotion,Frozen Luck Potion,Заморожене Зілля Удачі
+DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleLuckPotionGreat,Frozen Large Luck Potion,Заморожене Велике Зілля Удачі
 DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleMagicProtectionPotion,Frozen Magic Protection Potion,Заморожене магічне зілля захисту
 DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleProtectionPotion,Frozen Protection Potion,Заморожене захисне зілля
 DC/Text_DesignData_ItemSkin_ItemSkin_FrozenBottleTrollBlood,Frozen Troll Blood,Заморожена кров троля
@@ -2157,7 +2157,7 @@ DC/Text_DesignData_Item_Flavor_WolfClaw,The razor-sharp talon of a vanquished Di
 DC/Text_DesignData_Item_Flavor_WolfFang,A gleaming fang torn from the jaws of a Dire Wolf.,"Блискуче ікло, вирване з пащі страшного вовка."
 DC/Text_DesignData_Item_Flavor_WolfHunterLeggings_4001,Heavy Leather Leggings using the pelts acquired from powerful beasts.,"Важкі шкіряні гетри, виготовлені з шкур, здобутих у могутніх звірів."
 DC/Text_DesignData_Item_Flavor_WolfPelt,A robust hide that is covered in thick coarse fur.,"Міцна шкура, вкрита густим грубим хутром."
-DC/Text_DesignData_Item_Flavor_YetisTeeth,Sharpened Yeti Teeth.,Вигострені йеті-зуби.
+DC/Text_DesignData_Item_Flavor_YetisTeeth,Sharpened Yeti Teeth.,Вигострені Зуби Єті.
 DC/Text_DesignData_Item_Flavor_Zweihander_0001,The sheer weight and length of this mighty double-edge blade can be felt pulling on you as you swing.,"Величезна вага і довжина цього могутнього двосічного клинка відчутно тягнеться до вас, коли ви замахуєтесь."
 DC/Text_DesignData_Item_ItemAbility_Activate,Activate Ability,Активувати здатність
 DC/Text_DesignData_Item_ItemAbility_Attack01,Attack 1,Атака 1
@@ -2405,33 +2405,33 @@ DC/Text_DesignData_Monster_Monster_UndeadKnight,Undead Knight,Лицар мер�
 DC/Text_DesignData_Monster_Monster_Wendigo,Wendigo,Вендіґо
 DC/Text_DesignData_Monster_Monster_Wisp,Wisp,Клаптик
 DC/Text_DesignData_Monster_Monster_Wraith,Wraith,Привид
-DC/Text_DesignData_Monster_Monster_Yeti,Yeti,Йеті
+DC/Text_DesignData_Monster_Monster_Yeti,Yeti,Єті
 DC/Text_DesignData_Monster_Monster_Zombie,Zombie,Зомбі
-DC/Text_DesignData_Music_Music_Accelerando,Accelerando,
-DC/Text_DesignData_Music_Music_Allegro,Allegro,
-DC/Text_DesignData_Music_Music_AriaOfAlacrity,Aria of Alacrity,Арія завзяття
-DC/Text_DesignData_Music_Music_BalladOfCourage,Ballad of Courage,Балада про мужність
-DC/Text_DesignData_Music_Music_BansheesHowl,Banshees Howl,Виття Баньши
-DC/Text_DesignData_Music_Music_BeatsOfAlacrity,Beats of Alacrity,Бій азарту
-DC/Text_DesignData_Music_Music_ChaoticDiscord,Chaotic Discord,Хаотичний розбрат
+DC/Text_DesignData_Music_Music_Accelerando,Accelerando,Аччелерандо
+DC/Text_DesignData_Music_Music_Allegro,Allegro,Алегро
+DC/Text_DesignData_Music_Music_AriaOfAlacrity,Aria of Alacrity,Арія Завзяття
+DC/Text_DesignData_Music_Music_BalladOfCourage,Ballad of Courage,Балада про Мужність
+DC/Text_DesignData_Music_Music_BansheesHowl,Banshees Howl,Виття Банші
+DC/Text_DesignData_Music_Music_BeatsOfAlacrity,Beats of Alacrity,Бій Азарту
+DC/Text_DesignData_Music_Music_ChaoticDiscord,Chaotic Discord,Хаотичний Розбрат
 DC/Text_DesignData_Music_Music_ChoraleOfClarity,Chorale of Clarity,Хорал Ясності
-DC/Text_DesignData_Music_Music_DinOfDarkness,Din of Darkness,Гуркіт темряви
-DC/Text_DesignData_Music_Music_HarmonicShield,Harmonic Shield,Гармонійний щит
-DC/Text_DesignData_Music_Music_LamentOfLanguor,Lament of Languor,Плач туги
+DC/Text_DesignData_Music_Music_DinOfDarkness,Din of Darkness,Гуркіт Темряви
+DC/Text_DesignData_Music_Music_HarmonicShield,Harmonic Shield,Гармонійний Щит
+DC/Text_DesignData_Music_Music_LamentOfLanguor,Lament of Languor,Стогін про Втому
 DC/Text_DesignData_Music_Music_Peacemaking,Peacemaking,Миротворчість
-DC/Text_DesignData_Music_Music_PiercingShrill,Piercing Shrill,Пронизливий крик
-DC/Text_DesignData_Music_Music_RousingRhythms,Rousing Rhythms,Підбадьорливі ритми
-DC/Text_DesignData_Music_Music_ShriekOfWeakness,Shriek of Weakness,Крик слабкості
-DC/Text_DesignData_Music_Music_SongOfShadow,Song of Shadow,Пісня тіні
-DC/Text_DesignData_Music_Music_SongOfSilence,Song of Silence,Пісня тиші
+DC/Text_DesignData_Music_Music_PiercingShrill,Piercing Shrill,Пронизливий Крик
+DC/Text_DesignData_Music_Music_RousingRhythms,Rousing Rhythms,Підбадьорливі Ритми
+DC/Text_DesignData_Music_Music_ShriekOfWeakness,Shriek of Weakness,Крик Слабкості
+DC/Text_DesignData_Music_Music_SongOfShadow,Song of Shadow,Пісня Тіні
+DC/Text_DesignData_Music_Music_SongOfSilence,Song of Silence,Пісня Тиші
 DC/Text_DesignData_Music_Music_Tranquility,Tranquility,Спокій
-DC/Text_DesignData_Music_Music_UnchainedHarmony,Unchained Harmony,Розкута гармонія
-DC/Text_DesignData_Perk_Perk_AdrenalineSpike,Adrenaline Spike,Сплеск адреналіну
-DC/Text_DesignData_Perk_Perk_AdvancedHealer,Advanced Healer,Просунутий цілитель
+DC/Text_DesignData_Music_Music_UnchainedHarmony,Unchained Harmony,Розкута Гармонія
+DC/Text_DesignData_Perk_Perk_AdrenalineSpike,Adrenaline Spike,Сплеск Адреналіну
+DC/Text_DesignData_Perk_Perk_AdvancedHealer,Advanced Healer,Просунутий Цілитель
 DC/Text_DesignData_Perk_Perk_Ambush,Ambush,Засідка
-DC/Text_DesignData_Perk_Perk_AnimalKinship,Animal Kinship,Тваринна спорідненість
+DC/Text_DesignData_Perk_Perk_AnimalKinship,Animal Kinship,Тваринна Спорідненість
 DC/Text_DesignData_Perk_Perk_Antimagic,Antimagic,Антимагія
-DC/Text_DesignData_Perk_Perk_ArcaneFeedback,Arcane Feedback,Зворотній зв'язок з арканами
+DC/Text_DesignData_Perk_Perk_ArcaneFeedback,Arcane Feedback,ЗворотнІй Зв'язок з Арканами
 DC/Text_DesignData_Perk_Perk_ArcaneMastery,Arcane Mastery,Магічна майстерність
 DC/Text_DesignData_Perk_Perk_AxeSpecialization,Axe Specialization,Спеціалізація сокири
 DC/Text_DesignData_Perk_Perk_BackAttack,Back Attack,Атака в спину
@@ -3150,39 +3150,39 @@ DC/Text_LeaderboardContentScoreName_Slayer_BossAll,Killing Rate,Частота �
 DC/Text_LeaderboardContentScoreName_Slayer_CaveTroll,Killing Rate,Частота вбивств
 DC/Text_LeaderboardContentScoreName_Slayer_GhostKing,Killing Rate,Частота вбивств
 DC/Text_LeaderboardContentScoreName_Slayer_Lich,Killing Rate,Частота вбивств
-DC/Text_LeaderboardContentScoreName_TreasureCollector,Score,Забити
-DC/Text_LeaderboardContentScoreName_VeteranAdventurer,Score,Забити
+DC/Text_LeaderboardContentScoreName_TreasureCollector,Score,Очки
+DC/Text_LeaderboardContentScoreName_VeteranAdventurer,Score,Очки
 DC/Text_LeaderboardRankGroup_Apprentice,Apprentice,Учень
 DC/Text_LeaderboardRankGroup_Demigod,Demigod,Напівбог
-DC/Text_LeaderboardRankGroup_Exemplar,Exemplar,Зразка
+DC/Text_LeaderboardRankGroup_Exemplar,Exemplar,Еталон
 DC/Text_LeaderboardRankGroup_Neophyte,Neophyte,Неофіт
-DC/Text_LeaderboardRankGroup_Pathfinder,Pathfinder,Обробка контурів
-DC/Text_LeaderboardRankGroup_Voyager,Voyager,Вояджер
-DC/Text_LeaderboardRankGroup_Wanderer,Wanderer,Мандрівник
+DC/Text_LeaderboardRankGroup_Pathfinder,Pathfinder,Слідопит
+DC/Text_LeaderboardRankGroup_Voyager,Voyager,Мандрівник
+DC/Text_LeaderboardRankGroup_Wanderer,Wanderer,Блукач
 DC/Text_LeaderboardRank_Apprentice_I,Apprentice I,Учень І
 DC/Text_LeaderboardRank_Apprentice_II,Apprentice II,Учень ІІ
 DC/Text_LeaderboardRank_Apprentice_III,Apprentice III,Учень ІІІ
 DC/Text_LeaderboardRank_Demigod,Demigod,Напівбог
-DC/Text_LeaderboardRank_Exemplar_I,Exemplar I,Приклад І
-DC/Text_LeaderboardRank_Exemplar_II,Exemplar II,Приклад ІІ
-DC/Text_LeaderboardRank_Exemplar_III,Exemplar III,Приклад ІІІ
+DC/Text_LeaderboardRank_Exemplar_I,Exemplar I,Еталон І
+DC/Text_LeaderboardRank_Exemplar_II,Exemplar II,Еталон ІІ
+DC/Text_LeaderboardRank_Exemplar_III,Exemplar III,Еталон ІІІ
 DC/Text_LeaderboardRank_Neophyte_I,Neophyte I,Неофіт І
 DC/Text_LeaderboardRank_Neophyte_II,Neophyte II,Неофіт ІІ
 DC/Text_LeaderboardRank_Neophyte_III,Neophyte III,Неофіт ІІІ
 DC/Text_LeaderboardRank_Pathfinder_I,Pathfinder I,Слідопит І
 DC/Text_LeaderboardRank_Pathfinder_II,Pathfinder II,Слідопит II
 DC/Text_LeaderboardRank_Pathfinder_III,Pathfinder III,Слідопит III
-DC/Text_LeaderboardRank_Voyager_I,Voyager I,«Вояджер-І»
-DC/Text_LeaderboardRank_Voyager_II,Voyager II,Вояджер II
-DC/Text_LeaderboardRank_Voyager_III,Voyager III,"""Вояджер-III"""
-DC/Text_LeaderboardRank_Wanderer_I,Wanderer I,Мандрівник І
-DC/Text_LeaderboardRank_Wanderer_II,Wanderer II,Мандрівник ІІ
-DC/Text_LeaderboardRank_Wanderer_III,Wanderer III,Мандрівник ІІІ
-DC/Text_Leaderboard_EA_Season02,High-Roller EA Season #2,Хайролери EA Сезон #2
+DC/Text_LeaderboardRank_Voyager_I,Voyager I,Мандрівник І
+DC/Text_LeaderboardRank_Voyager_II,Voyager II,Мандрівник II
+DC/Text_LeaderboardRank_Voyager_III,Voyager III,Мандрівник III
+DC/Text_LeaderboardRank_Wanderer_I,Wanderer I,Блукач І
+DC/Text_LeaderboardRank_Wanderer_II,Wanderer II,Блукач ІІ
+DC/Text_LeaderboardRank_Wanderer_III,Wanderer III,Блукач ІІІ
+DC/Text_Leaderboard_EA_Season02,High-Roller EA Season #2,
 DC/Text_Leaderboard_EA_Season03,High-Roller EA Season #3,
-DC/Text_Leaderboard_EalryAccessSeason01,High-Roller EA Season #1,Хайролери EA Сезон #1
-DC/Text_Leaderboard_NormalSeasonTest,Normal EA Season #Test,Нормальний сезон EA #Test
-DC/Text_Code_DCDataBlueprintLibrary_Type_Item_Rarity_Legend,Legendary,Міф
+DC/Text_Leaderboard_EalryAccessSeason01,High-Roller EA Season #1,
+DC/Text_Leaderboard_NormalSeasonTest,Normal EA Season #Test,
+DC/Text_Code_DCDataBlueprintLibrary_Type_Item_Rarity_Legend,Legendary,Легендарне
 DC/Text_Code_DCDataBlueprintLibrary_Attribute_LightMagicResistance,Light Magic Resistance,Опір магії світла
 DC/Text_Code_DCDataBlueprintLibrary_Data_SetByCaller_LightMagicResistance,Light Magic Resistance,Опір магії світла
 DC/Text_Code_DCDataBlueprintLibrary_Data_SetByCaller_LightMagicalReduction,Light Magical Damage Reduction,Зменшення магічної шкоди від світла
@@ -3484,7 +3484,7 @@ DC/Text_Reward_Rank_Pathfinder,Pathfinder,Слідопит
 DC/Text_Reward_Rank_Pathfinder_Desc,Nightmare Skeleton,Скелет кошмарів
 DC/Text_Reward_Rank_Voyager,Voyager,Мандрівник
 DC/Text_Reward_Rank_Voyager_Desc,Sleeping Bag,Спальний мішок
-DC/Text_Reward_Rank_Wanderer,Wanderer,Мандрівник
+DC/Text_Reward_Rank_Wanderer,Wanderer,Блукач
 DC/Text_Reward_Rank_Wanderer_Desc,Coin Bag,Мішок для монет
 DC/Text_Code_DCDataBlueprintLibrary_Type_Item_Property_Perk_Robust,Robust,Міцний
 DC/Text_Code_DCDataBlueprintLibrary_EDCCharacterClass_Rogue,Rogue,Розбійник
@@ -3855,13 +3855,13 @@ DC/Text_DataAsset_PlayerCharacterTagMessageRelationshipData_TagMessage_RangeAtta
 DC/Text_DataAsset_PlayerCharacterTagMessageRelationshipData_TagMessage_Skill_OnCooldown,Your skill is on cooldown.,Ваше вміння на перезарядці.
 DC/Text_DataAsset_PlayerCharacterTagMessageRelationshipData_TagMessage_Spell_NotEnoughCount,Your spell has been exhausted.,Ваше заклинання вичерпано.
 UMG/5F56402146B1ABCDC9721492C5D275B9,Text Block,Текстовий блок
-DC/Text_Code_ContextOptionListEntryWidgetBase_BanAccount,Ban Account,
+DC/Text_Code_ContextOptionListEntryWidgetBase_BanAccount,Ban Account,Заблокувати Обліковий Запис
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_AccountIsDisabled,Account is disabled.,
 /604611C0426BDBCFDA0A2E9CA57C3594,/,
 /817C03C741997C550C5868A71D4D8A5E,Text_DesignData_ItemSkin_ItemSkin_CampfireKitSeafarersFeast,
 DC/Text_DesignData_ActionSkin_Telescope,Text_DesignData_ActionSkin_Telescope,
 DC/Text_Code_ClientShopSubsystem_RedStornBuyTransactionResponse_Failed,Failed to purchase Redstone Shards.,
-DC/Text_DesignData_Item_Flavor_Icefang_6001,"A blade born of the frozen north, its chilling touch leaves behind frostbitten wounds that are rumored to never thaw.",
+DC/Text_DesignData_Item_Flavor_Icefang_6001,"A blade born of the frozen north, its chilling touch leaves behind frostbitten wounds that are rumored to never thaw.","Клинок, народжений на замерзлій півночі, його холодний дотик залишає по собі обморожені рани, які за чутками ніколи не розтають."
 DC/Text_DesignData_Item_Flavor_FrostlightFeatheredHat_6001,"A charming hat infused with Froststone Powder, merging the perpetual frost of the frozen abyss with the quick-witted finesse of the nimble and clever.",
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_InsufficientFunds,Insufficient funds.,
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_InvalidParameter,Invalid parameter.,
@@ -3906,16 +3906,16 @@ DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_AccountDoesNotExist,A
 DC/FormatQuestRichTextTextQuestHasDamage,<QuestHasDamage>{0}</>,
 DC/FA1E610648EE6E1745F8D69DB6D97C5A,Text_Deliver Items,
 DC/Text_DataAsset_IMC_KBM_PlayerController_Mappings_DisplayName_QuestLog,Quest Log,
-DC/Text_DesignData_Item_Flavor_FrostlightOracleRobe_6001,"A flowing robe imbued with the frost of ancient realms, enhancing the wearer’s mystical presence with an ethereal chill.",
-DC/Text_DataAsset_IMC_KBM_PlayerController_Mappings_DisplayCategory_QuestLog_Secondary,Quest Log,
-DC/Text_DataAsset_PhysicalHealBase_Desc_PhysicalHealBaseDesc,Increases health gained when healing from a physical source like a bandage or campfire.,
-DC/Text_DesignData_Merchant_StockCraft_Conversation_Tailor_Froststone,"You're in luck today. You've brought Froststone, a material worthy of my talents. Let's shape it into a garment that not only meets but exceeds the ordinary—crafted, of course, to my exacting standards.",
-DC/Text_DesignData_Merchant_StockCraft_Conversation_Weaponsmith_Froststone,"Ah, you've ventured into the cold? Supply Froststone, and I'll create weapons as piercing and cold as the frostbite wind.",
-DC/Text_DesignData_Item_Flavor_SilverSkulltoken_7001,"A skull token forged of timeless silver, stained by tales of adventures long past.",
+DC/Text_DesignData_Item_Flavor_FrostlightOracleRobe_6001,"A flowing robe imbued with the frost of ancient realms, enhancing the wearer’s mystical presence with an ethereal chill.","Текуча мантія, просякнута морозом стародавніх вимірів, посилює містичну присутність власника ефірним холодом."
+DC/Text_DataAsset_IMC_KBM_PlayerController_Mappings_DisplayCategory_QuestLog_Secondary,Quest Log,Журнал Завдань
+DC/Text_DataAsset_PhysicalHealBase_Desc_PhysicalHealBaseDesc,Increases health gained when healing from a physical source like a bandage or campfire.,"Збільшує кількість здоров'я, що відновлюється від фізичних джерел, як, наприклад, від багаття."
+DC/Text_DesignData_Merchant_StockCraft_Conversation_Tailor_Froststone,"You're in luck today. You've brought Froststone, a material worthy of my talents. Let's shape it into a garment that not only meets but exceeds the ordinary—crafted, of course, to my exacting standards.","Вам сьогодні пощастило. Ви принесли Морозний Камінь - матеріал, що гідний мого таланту. Давай перетворимо його в одяг, який не лише відповідає, а й перевершує звичайний - все це, звісно, у відповідності із моїми стандартами."
+DC/Text_DesignData_Merchant_StockCraft_Conversation_Weaponsmith_Froststone,"Ah, you've ventured into the cold? Supply Froststone, and I'll create weapons as piercing and cold as the frostbite wind.","А, ви ризикнули вийти на мороз? Принесіть Морозний Камінь, і я створю зброю, таку ж пронизливу і холодну, як і крижаний вітер."
+DC/Text_DesignData_Item_Flavor_SilverSkulltoken_7001,"A skull token forged of timeless silver, stained by tales of adventures long past.","Жетон у вигляді черепа, викований із вічного срібла, заплямований розповідями про давно минулі пригоди."
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_NotTypeSteam,Billing agreement cannot be processed because it is not type STEAM.,
-DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_SkeletonFootman,"Ah, if it isn't my favorite adventurer... Quite a change of scenery from the dungeons, isn't it? Fresh air at last, and just in time for the Anniversary celebration. The powers that be have scattered special tokens throughout the lands. Collect them and exchange them for some festive delights!",
-DC/Text_Code_CharacterSelectCharListWidget_CharacterDelete_Fail_NeedMoreTime,Legendary accounts can delete their characters 24 hours after they are created.,
-DC/Text_Reward_Rank_EA03_Demigod_Desc,Tainted Heart,
+DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_SkeletonFootman,"Ah, if it isn't my favorite adventurer... Quite a change of scenery from the dungeons, isn't it? Fresh air at last, and just in time for the Anniversary celebration. The powers that be have scattered special tokens throughout the lands. Collect them and exchange them for some festive delights!","Ох, невже це мій улюблений авантюрист... Зовсім інша обстановка в порівнянні з підземеллями, чи не так? Нарешті свіже повітря, і якраз вчасно на святкування річниці. Володарі цього світу розкидали спеціальні жетони по цих землях. Збирай та обмінюй їх на святкові подарунки!"
+DC/Text_Code_CharacterSelectCharListWidget_CharacterDelete_Fail_NeedMoreTime,Legendary accounts can delete their characters 24 hours after they are created.,Акаунти із Легендарним статусом можуть видаляти своїх персонажів після 24 годин після їх створення
+DC/Text_Reward_Rank_EA03_Demigod_Desc,Tainted Heart,Забруднене Серце
 DC/Text_DesignData_ActionSkin_ElegantRecline,Elegant Recline,
 DC/Text_DataAsset_HistoryBook_01_Desc,Text_DataAsset_HistoryBook_01_Desc,
 DC/764C991A4636A178984A508A8D8E402D,Text_Fill All Items,
@@ -3924,67 +3924,68 @@ DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_FraudDetection,Transa
 DC/Text_DataAsset_CharacterSkinDescData_Mummy_MummyDesc,"<VigorBase>+[0] #</>
 <AgilityBase>-[0] #</>",
 DC/E8927D3741FE1F8842366F8C9BF5FD96,Text_Blueprint_BP_CommemorativePlaque3_ErrorMsg,
-DC/Text_DesignData_Item_Flavor_FrostlightTrousers_6001,"Woven from light, enchanted fabric, these trousers are permeated with infinite freeze, offering both dexterity and the relentless chill of the glacial depths.",
-DC/Text_DesignData_Item_Flavor_GrimSlayer_5001,Believed to be a cursed blade thirsting for the blood of the living as it seeks to fulfill its master's dark ambitions.,
+DC/Text_DesignData_Item_Flavor_FrostlightTrousers_6001,"Woven from light, enchanted fabric, these trousers are permeated with infinite freeze, offering both dexterity and the relentless chill of the glacial depths.","Зіткані з легкої чарівної тканини, ці штани пронизані нескінченним холодом, дарують одночасно спритність і невблаганний холод льодовикових глибин."
+DC/Text_DesignData_Item_Flavor_GrimSlayer_5001,Believed to be a cursed blade thirsting for the blood of the living as it seeks to fulfill its master's dark ambitions.,"Вважається проклятим клинком, який жадає крові живих і прагне втілити темні амбіції свого господаря."
 DC/Text_DesignData_LobbyEmote_LobbyEmote_DecadentDungeonCrumbleCake,Decadent Dungeon Crumble Cake,
-DC/Text_Code_DCMetaTradeComponent_BanAccount_Success,This account has been successfully banned.,
+DC/Text_Code_DCMetaTradeComponent_BanAccount_Success,This account has been successfully banned.,Цей обліковий запис був успішно заблокований.
 DC/Text_Code_ClientShopSubsystem_AccountNameChangeSucceed,The account name has been successfully changed to {0},
 DC/Text_Code_PlayWidget_CannotReady_PartySizeMismatch,You cannot enter the dungeon because your party size is incorrect.,
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_NotTypeGame,Billing agreement cannot be processed because it is not type GAME.,
-DC/Text_DesignData_Item_Flavor_SovereignsGhostblade_5001,"Its translucent blade dances with the shadows of fallen warriors, each strike evoking memories of its former glory and the commanding presence of its previous owner.",
-DC/Text_DesignData_Item_Flavor_FrostlightLightfootBoots_6001,"Light and durable, these leather boots are imbued with the arcane resilience of froststone, ensuring swift movement through diverse challenges.",
+DC/Text_DesignData_Item_Flavor_SovereignsGhostblade_5001,"Its translucent blade dances with the shadows of fallen warriors, each strike evoking memories of its former glory and the commanding presence of its previous owner.","Цей напівпрозорий клинок танцює з тінями загиблих воїнів, кожен удар викликає спогади про його колишню славу та владну присутність його попереднього власника."
+DC/Text_DesignData_Item_Flavor_FrostlightLightfootBoots_6001,"Light and durable, these leather boots are imbued with the arcane resilience of froststone, ensuring swift movement through diverse challenges.","Легкі та міцні, ці шкіряні черевики наповнені таємничою стійкістю морозного каменю, що забезпечує швидке переміщення через різноманітні випробування."
 DC/Text_DesignData_Merchant_StockCraft_CraftComplete_Weaponsmith_Froststone,"Your weapons stand ready, their Froststone edges sharp enough to carve through bone and blizzard alike.",
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_RestrictedCountry,Transaction has been denied because user is in a restricted country.,
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_DisputeOrChargeback,Billing agreement is on hold due to billing dispute or chargeback.,
-DC/Text_DesignData_Item_Flavor_BatWing,A lightweight souvenir snatched from a startled demon bat.,
-DC/Text_DesignData_Item_Flavor_WendigosAntlerFragment,Wendigo's grotesquely overgrown horns bear the dried blood of countless victims.,
+DC/Text_DesignData_Item_Flavor_BatWing,A lightweight souvenir snatched from a startled demon bat.,"Легкий сувенір, вирваний у зляканого кажана-демона."
+DC/Text_DesignData_Item_Flavor_WendigosAntlerFragment,Wendigo's grotesquely overgrown horns bear the dried blood of countless victims.,"Гротескно зарослі роги Вендіґо вкриті засохлою кров'ю незліченних жертв."
 DC/Text_Reward_Rank_EA03_Pathfinder_Desc,Skeleton Champion,
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_CurrencyDoesNotMatch,Currency does not match user's Steam Account currency.,
-DC/Text_DesignData_Item_Flavor_FrostlightGauntlets_6001,"Forged from mystical Froststone, these gauntlets meld the biting chill of eternal ice with a rugged, battle-ready construction.",
+DC/Text_DesignData_Item_Flavor_FrostlightGauntlets_6001,"Forged from mystical Froststone, these gauntlets meld the biting chill of eternal ice with a rugged, battle-ready construction.","Викувані з містичного Морозного Каменю, ці рукавиці поєднують їдкий холод вічного льоду з міцною, готовою до бою, конструкцією."
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_NotLoggedIn,User is not logged in.,
-DC/Text_DesignData_Item_Flavor_FrostlightWardenOutfit_6001,"An ensemble that blends the resilience of the frozen abyss with the natural agility of the wilderness, offering a balance of strength and flexibility.",
+DC/Text_DesignData_Item_Flavor_FrostlightWardenOutfit_6001,"An ensemble that blends the resilience of the frozen abyss with the natural agility of the wilderness, offering a balance of strength and flexibility.","Композиція, що поєднує в собі стійкість крижаної безодні з природною спритністю дикої природи - справжній баланс сили та гнучкості."
 DC/Text_Code_CommonPopupSWidget_SingleButton_Confirm,OK,
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_InternalError,Internal error.,
 DC/Text_DataAsset_MagicalHealBase_Desc_MagicalHealBaseDesc,Increases health gained when healing from a magical source like a potion or a spell.,
-DC/Text_DesignData_Item_Flavor_FrostlightCrusaderHelm_6001,"An imposing crusader helm crafted from Froststone Ingots, intertwining the chilling touch of the frozen abyss with the enduring might of the noble and the devout.",
+DC/Text_DesignData_Item_Flavor_FrostlightCrusaderHelm_6001,"An imposing crusader helm crafted from Froststone Ingots, intertwining the chilling touch of the frozen abyss with the enduring might of the noble and the devout.","Вражаючий шолом хрестоносців, виготовлений із злитків Морозного Каменю, переплітає холодний дотик крижаної безодні із могутністю благородних та відданих."
 DC/Text_Reward_Rank_EA03_Exemplar,Exemplar,
 /1206376F4256DCD3B10F1E84DFFBC3A3,Check,
 DC/Text_Reward_Rank_EA03_Pathfinder_Flavor,"Once a valiant knight, the Skeleton Champion earned his medal through unmatched prowess and unwavering loyalty to the now, Ghost King. In life, he fought bravely before his sovereign; in death, he remains a spectral warrior, eternally bound to the echoes of his king’s command.",
 DC/Text_Code_PlayWidget_CannotReady_InsufficientGearScore,All party members must have a gear score of <GearScore>{0}</> or higher to enter the High Roller Dungeon.,
 DC/Text_DesignData_Props_Props_HistoryBook_01,Text_DesignData_Props_Props_HistoryBook_01,
-DC/Text_DesignData_Item_Flavor_FrostlightRivetedGloves_6001,"Riveted with enchanted froststone, these gloves offer a seamless blend of the abyss's icy power and rugged durability.",
+DC/Text_DesignData_Item_Flavor_FrostlightRivetedGloves_6001,"Riveted with enchanted froststone, these gloves offer a seamless blend of the abyss's icy power and rugged durability.","Ці рукавички, заклепані з використанням Морозного Каменю, поєднують в собі силу крижаної безодні та неперевершену міцність."
 DC/Text_DesignData_Merchant_StockCraft_Conversation_Leathersmith_Froststone,"Seeking protection with a touch of frost? Provide your Froststone, and I'll incorporate its essence into sturdy leather gear.",
-DC/Text_Reward_Rank_EA03_Voyager_Flavor,"As you rest, you carve a wooden doll, every cut filled with memories of home and the hope of gifting it to a loved one, provided you make it out alive…",
-DC/Text_Reward_Rank_EA03_Voyager_Desc,Whittling Hope,
+DC/Text_Reward_Rank_EA03_Voyager_Flavor,"As you rest, you carve a wooden doll, every cut filled with memories of home and the hope of gifting it to a loved one, provided you make it out alive…","Поки ви відпочиваєте, ви вирізьблюєте дерев'яну ляльку, кожен виріз якої наповнений спогадами про дім та надією подарувати її коханій людині, якщо ви, звісно, виживете..."
+DC/Text_Reward_Rank_EA03_Voyager_Desc,Whittling Hope,Висікання Надії
 DC/Text_Code_ContextOption_BanSelected,"{0}
-Are you sure you want to Ban this account?",
+Are you sure you want to Ban this account?","{0}
+Ви впевнені, що хочете заблокувати цей обліковий запис?"
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_SpendingLimit,Transaction would exceed the spending limit of the billing agreement.,
-DC/Text_DesignData_Item_Flavor_FrostlightAbyssPlateArmor_6001,"A striking set of plate armor forged from a rare ore that pulses with eternal frost, providing both a stalwart defense and an intimidating presence.",
-DC/Text_DesignData_Item_Flavor_FrostlightWizardHat_6001,"An exquisite creation fashioned from Froststone Powder, combining the chilling power of the frozen abyss with arcane elegance.",
-DC/Text_DesignData_Item_Flavor_FrostlightCrystalSword_6001,"Skillfully crafted and imbued with the enduring cold of Froststone, this crystal sword seamlessly integrates magic, transforming into an adept vessel for arcane power.",
-DC/Text_DesignData_Merchant_StockCraft_Conversation_Armourer_Froststone,"Advance and witness the might of Froststone. Deliver your ore, and I will fashion armor as impervious as the eternal ice.",
+DC/Text_DesignData_Item_Flavor_FrostlightAbyssPlateArmor_6001,"A striking set of plate armor forged from a rare ore that pulses with eternal frost, providing both a stalwart defense and an intimidating presence.","Вражаючий комплект латних обладунків, викуваних з рідкісної руди, яка пульсує вічним морозом, забезпечуючи водночас міцний захист і страхітливу присутність."
+DC/Text_DesignData_Item_Flavor_FrostlightWizardHat_6001,"An exquisite creation fashioned from Froststone Powder, combining the chilling power of the frozen abyss with arcane elegance.","Вишукане творіння, виготовлене з Порошку Льодяного Каменю, що поєднує в собі холодну силу крижаної безодні з таємничою елегантністю."
+DC/Text_DesignData_Item_Flavor_FrostlightCrystalSword_6001,"Skillfully crafted and imbued with the enduring cold of Froststone, this crystal sword seamlessly integrates magic, transforming into an adept vessel for arcane power.","Цей кришталевий меч, майстерно виготовлений і просочений стійким холодом Крижаного Каменю, бездоганно поєднує в собі магію, перетворюючись на майстерну посудину для магічної сили."
+DC/Text_DesignData_Merchant_StockCraft_Conversation_Armourer_Froststone,"Advance and witness the might of Froststone. Deliver your ore, and I will fashion armor as impervious as the eternal ice.","Просувайтеся вперед і спостерігайте за могутністю Морозного Каменю. Доставте руду, і я створю броню, таку ж непроникну, як вічний лід."
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_AlreadyBeenCommitted,Transaction has already been committed.,
-DC/Text_Reward_Rank_EA03_Demigod,Demigod,
-DC/Text_Reward_Rank_EA03_Demigod_Flavor,"Pulsating with sinister dark energies that thirst to unleash their malevolent influence, this heart mirrors the corruption that consumed the mighty King of the Forgotten Castle in his pursuit of immortality. What hidden darkness will it awaken in you?",
-DC/Text_DesignData_Item_Flavor_FrostWyvernsHide,"A dense, frost-encrusted layer torn from the icy beast's form. It gleams with the frozen essence of the abyss, a testament to the Wyvern's mastery over the icy expanse.",
-DC/Text_Reward_Rank_EA03_Voyager,Voyager,
-DC/Text_DesignData_Item_Flavor_FrostlightAketon_6001,"A quilted armor pulsing with the cold of the frozen abyss, offering flexible protection that adapts to the wearer's movements.",
-DC/Text_DesignData_CharacterSkin_CharacterSkin_Mummy,Mummy,
-DC/Text_DesignData_Item_Flavor_FrostlightLeatherLeggings_6001,"Crafted from reinforced leather and suffused with timeless cold, these leggings offer agile movement with the glacial strength of the abyss.",
-DC/Text_DesignData_Emote_Emote_Salute2,Salute II,
+DC/Text_Reward_Rank_EA03_Demigod,Demigod,Напівбог
+DC/Text_Reward_Rank_EA03_Demigod_Flavor,"Pulsating with sinister dark energies that thirst to unleash their malevolent influence, this heart mirrors the corruption that consumed the mighty King of the Forgotten Castle in his pursuit of immortality. What hidden darkness will it awaken in you?","Пульсуючи зловісними темними енергіями, які жадають вивільнити свій зловмисний вплив, це серце відображає зіпсованість, яка поглинула могутнього Короля Забутого Замку в його гонитві за безсмертям. Яку приховану темряву воно розбудить у тобі?"
+DC/Text_DesignData_Item_Flavor_FrostWyvernsHide,"A dense, frost-encrusted layer torn from the icy beast's form. It gleams with the frozen essence of the abyss, a testament to the Wyvern's mastery over the icy expanse.","Щільний, вкритий інеєм шар, зірваний з постаті крижаного звіра. Він виблискує замерзлою сутністю безодні, що свідчить про панування Віверни над крижаним простором."
+DC/Text_Reward_Rank_EA03_Voyager,Voyager,Мандрівник
+DC/Text_DesignData_Item_Flavor_FrostlightAketon_6001,"A quilted armor pulsing with the cold of the frozen abyss, offering flexible protection that adapts to the wearer's movements.","Стьобана броня пульсує холодом крижаної безодні та надає гнучкий захист, який підлаштовується до рухів власника."
+DC/Text_DesignData_CharacterSkin_CharacterSkin_Mummy,Mummy,Мумія
+DC/Text_DesignData_Item_Flavor_FrostlightLeatherLeggings_6001,"Crafted from reinforced leather and suffused with timeless cold, these leggings offer agile movement with the glacial strength of the abyss.","Виготовлені з армованої шкіри та просякнуті вічним холодом, ці легінси дозволяють вільно рухатись із силою льодовиковою безодні."
+DC/Text_DesignData_Emote_Emote_Salute2,Salute II,Віддати Честь II
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_NotApproved,User has not approved transaction.,
-DC/Text_DesignData_Item_Flavor_FrostlightLanternShield_6001,This shield emanates an everlasting cold that remains steadfast even in the most intense environments. Its retractable blade and lantern offer invaluable support for combat and exploration.,
+DC/Text_DesignData_Item_Flavor_FrostlightLanternShield_6001,This shield emanates an everlasting cold that remains steadfast even in the most intense environments. Its retractable blade and lantern offer invaluable support for combat and exploration.,"Цей щит випромінює вічний холод, який залишається стійким навіть у найскладніших умовах. Його висувний клинок і ліхтар дають неоціненну підтримку під час бою та дослідження."
 DC/Text_DesignData_Emote_Emote_SaltShaker,Text_DesignData_Emote_Emote_SaltShaker,
-DC/Text_Reward_Rank_EA03_Exemplar_Flavor,"Emitting the colors of the ancient Elven woods, this magical fire fills the air with an irresistible mix of herbal scents and sweet aromas from their revered trees, enchanting every traveler who draws near.",
+DC/Text_Reward_Rank_EA03_Exemplar_Flavor,"Emitting the colors of the ancient Elven woods, this magical fire fills the air with an irresistible mix of herbal scents and sweet aromas from their revered trees, enchanting every traveler who draws near.","Переливаючись кольорами стародавніх ельфійських лісів, цей чарівний вогонь наповнює повітря непереборною сумішшю запахів трав і солодких ароматів шанованих дерев, зачаровуючи кожного мандрівника, який наближається."
 /CFB9D2A3412847B44AC4A6B64E2D496E,0,
-DC/Text_Code_ClientShopSubsystem_AccountNameChangeFailed_NotEnoughCurrency,You currently do not have enough Redstone Shards.,
+DC/Text_Code_ClientShopSubsystem_AccountNameChangeFailed_NotEnoughCurrency,You currently do not have enough Redstone Shards.,Зараз у вас недостатньо Уламків Червоного Каменю.
 /63C2CA1E4278AB1F7784B8BB09A88482,sadasd,
-DC/Text_DesignData_Item_Flavor_FrostlightRunestoneGloves_6001,"These leather gloves, inlaid with froststone facets, offer a perfect blend of flexibility and the frigid power of mystical frozen ice.",
-DC/Text_DesignData_Item_Flavor_FrostlightCloak_6001,"Crafted from fabrics touched by the eternal chill, this cloak offers a serene yet powerful presence, echoing the quiet strength of ancient ice.",
-DC/Text_DesignData_ItemSkin_ItemSkin_CampfireKitBoneKindled,Bone Kindled Campfire,
-DC/Text_DesignData_Item_Flavor_FrostlightSpear_6001,"This spear combines the piercing power of a traditional spear with the icy might of the frozen abyss, making each attack chillingly effective.",
-DC/Text_DesignData_Merchant_StockBuy_Conversation_SkeletonFootman_01,"Well, well, what do we have here? Celebration tokens! Bring them here, and I'll see what goodies I can conjure for you.",
-DC/Text_DesignData_Item_Flavor_WendigosEntrails,"Wendigo's guts, grotesquely exposed outside his body, reek of decay, deterioration, death, and contamination.",
-DC/Text_DesignData_Item_Flavor_GoldenSkulltoken_7001,A skull token whose golden shimmer illuminates the tale of a thousand adventures.,
+DC/Text_DesignData_Item_Flavor_FrostlightRunestoneGloves_6001,"These leather gloves, inlaid with froststone facets, offer a perfect blend of flexibility and the frigid power of mystical frozen ice.","Ці шкіряні рукавиці, інкрустовані гранями з Морозного Каменю, ідеальне поєднують гнучкість та холодну сили містичного замерзлого льоду."
+DC/Text_DesignData_Item_Flavor_FrostlightCloak_6001,"Crafted from fabrics touched by the eternal chill, this cloak offers a serene yet powerful presence, echoing the quiet strength of ancient ice.","Виготовлений із тканин, до яких торкнувся вічний холод, цей плащ дарує спокійну, але потужну присутність, перегукуючись із тихою міцністю стародавнього льоду."
+DC/Text_DesignData_ItemSkin_ItemSkin_CampfireKitBoneKindled,Bone Kindled Campfire,Кістяне Багаття
+DC/Text_DesignData_Item_Flavor_FrostlightSpear_6001,"This spear combines the piercing power of a traditional spear with the icy might of the frozen abyss, making each attack chillingly effective.","Цей спис поєднує в собі пронизливу силу традиційного списа із крижаною могутністю безодні, що робить кожну атаку страшенно ефективною."
+DC/Text_DesignData_Merchant_StockBuy_Conversation_SkeletonFootman_01,"Well, well, what do we have here? Celebration tokens! Bring them here, and I'll see what goodies I can conjure for you.","Ну-ну, що тут у нас? Святкові жетони! Принесіть їх сюди, і я подивлюся, які ласощі зможу для вас начаклувати."
+DC/Text_DesignData_Item_Flavor_WendigosEntrails,"Wendigo's guts, grotesquely exposed outside his body, reek of decay, deterioration, death, and contamination.","Гротескно оголені нутрощі вендіґо від яких смердить гниттям, смертю та заразою."
+DC/Text_DesignData_Item_Flavor_GoldenSkulltoken_7001,A skull token whose golden shimmer illuminates the tale of a thousand adventures.,"Жетон черепа, золоте мерехтіння якого освітлює історію тисячі пригод."
 DC/FormatQuestRichTextTextDefault,<QuestLogDefault>{0}</>,
-DC/Text_DesignData_Emote_Emote_GoblinDance,Goblin Dance,
+DC/Text_DesignData_Emote_Emote_GoblinDance,Goblin Dance,Танок Гоблінів

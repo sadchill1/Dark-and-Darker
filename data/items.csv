@@ -210,8 +210,8 @@ DC/Text_DesignData_Item_Item_CobaltIngots_4001,Cobalt Ingot,Злиток коб�
 DC/Text_DesignData_Item_Item_CobaltLeatherGloves_4001,Cobalt Leather Gloves,Кобальтові шкіряні рукавички
 DC/Text_DesignData_Item_Item_CobaltLightfootBoots_4001,Cobalt Lightfoot Boots,Черевики кобальтові легкі
 DC/Text_DesignData_Item_Item_CobaltOres_4001,Cobalt Ore,Кобальтова руда
-DC/Text_DesignData_Item_Item_CobaltPlateBoots_4001,Cobalt Plate Boots,Черевики з кобальтової пластини
-DC/Text_DesignData_Item_Item_CobaltPlatePants_4001,Cobalt Plate Pants,Штани з кобальтової пластини
+DC/Text_DesignData_Item_Item_CobaltPlateBoots_4001,Cobalt Plate Boots,Латні Чоботи з Кобальту
+DC/Text_DesignData_Item_Item_CobaltPlatePants_4001,Cobalt Plate Pants,Латні Штани з Кобальту
 DC/Text_DesignData_Item_Item_CobaltPowder_4001,Cobalt Powder,Кобальтовий порошок
 DC/Text_DesignData_Item_Item_CobaltRegalGambeson_4001,Cobalt Regal Gambeson,Кобальтовий королівський гамбесон
 DC/Text_DesignData_Item_Item_CobaltTemplarArmor_4001,Cobalt Templar Armor,Кобальтові обладунки тамплієрів
@@ -222,19 +222,19 @@ DC/Text_DesignData_Item_Item_CopperIngots_3001,Copper Ingot,Злиток мід�
 DC/Text_DesignData_Item_Item_CopperOres_3001,Copper Ore,Мідна руда
 DC/Text_DesignData_Item_Item_CopperPowder_3001,Copper Powder,Мідний порошок
 DC/Text_DesignData_Item_Item_CopperlightAttire_3001,Copperlight Attire,Мідне вбрання
-DC/Text_DesignData_Item_Item_CopperlightGauntlets_3001,Copperlight Gauntlets,Рукавиці з міді
-DC/Text_DesignData_Item_Item_CopperlightKettleHat_3001,Copperlight Kettle Hat,Шапка-чайник з міді
-DC/Text_DesignData_Item_Item_CopperlightLeggings_3001,Copperlight Leggings,Легінси з міді
-DC/Text_DesignData_Item_Item_CopperlightLightfootBoots_3001,Copperlight Lightfoot Boots,Чоботи з міді
-DC/Text_DesignData_Item_Item_CopperlightOutfit_3001,Copperlight Outfit,Костюм з міді
-DC/Text_DesignData_Item_Item_CopperlightPants_3001,Copperlight Pants,Штани з міді
-DC/Text_DesignData_Item_Item_CopperlightPlateBoots_3001,Copperlight Plate Boots,Латні черевики з міді
-DC/Text_DesignData_Item_Item_CopperlightPlatePants_3001,Copperlight Plate Pants,Латні штани з міді
-DC/Text_DesignData_Item_Item_CopperlightRivetedGloves_3001,Copperlight Riveted Gloves,Заклепкові рукавиці з міді
-DC/Text_DesignData_Item_Item_CopperlightSanctumPlateArmor_3001,Copperlight Sanctum Plate Armor,Пластинчаста броня з міді
-DC/Text_DesignData_Item_Item_CopperlightShadowHood_3001,Copperlight Shadow Hood,Каптур з міді
-DC/Text_DesignData_Item_Item_CopperlightStrawHat_3001,Copperlight Straw Hat,Солом'яний капелюх з міді
-DC/Text_DesignData_Item_Item_CopperlightTunic_3001,Copperlight Tunic,Туніка з міді
+DC/Text_DesignData_Item_Item_CopperlightGauntlets_3001,Copperlight Gauntlets,Латні Рукавиці з Міді
+DC/Text_DesignData_Item_Item_CopperlightKettleHat_3001,Copperlight Kettle Hat,Шапка-Чайник з Міді
+DC/Text_DesignData_Item_Item_CopperlightLeggings_3001,Copperlight Leggings,Легінси з Міді
+DC/Text_DesignData_Item_Item_CopperlightLightfootBoots_3001,Copperlight Lightfoot Boots,Чоботи з Міді
+DC/Text_DesignData_Item_Item_CopperlightOutfit_3001,Copperlight Outfit,Костюм з Міді
+DC/Text_DesignData_Item_Item_CopperlightPants_3001,Copperlight Pants,Штани з Міді
+DC/Text_DesignData_Item_Item_CopperlightPlateBoots_3001,Copperlight Plate Boots,Латні Чоботи з з Міді
+DC/Text_DesignData_Item_Item_CopperlightPlatePants_3001,Copperlight Plate Pants,Латні Штани з Міді
+DC/Text_DesignData_Item_Item_CopperlightRivetedGloves_3001,Copperlight Riveted Gloves,Клепані Рукавиці з Міді
+DC/Text_DesignData_Item_Item_CopperlightSanctumPlateArmor_3001,Copperlight Sanctum Plate Armor,Пластинчаста Броня з Міді
+DC/Text_DesignData_Item_Item_CopperlightShadowHood_3001,Copperlight Shadow Hood,Каптур з Міді
+DC/Text_DesignData_Item_Item_CopperlightStrawHat_3001,Copperlight Straw Hat,Солом'яний Капелюх з Міді
+DC/Text_DesignData_Item_Item_CopperlightTunic_3001,Copperlight Tunic,Туніка з Міді
 DC/Text_DesignData_Item_Item_CowlofDarkness_4001,Cowl of Darkness,Накидка темряви
 DC/Text_DesignData_Item_Item_Crossbow_1001,Crossbow,Арбалет
 DC/Text_DesignData_Item_Item_Crossbow_2001,Crossbow,Арбалет
@@ -481,8 +481,8 @@ DC/Text_DesignData_Item_Item_FrostAmulet_7001,Frost Amulet,Оберіг від �
 DC/Text_DesignData_Item_Item_FrostStoneIngots_6001,Froststone Ingot,Злиток крижаного каменю
 DC/Text_DesignData_Item_Item_FrostStoneOres_6001,Froststone Ore,Руда крижаного каменю
 DC/Text_DesignData_Item_Item_FrostStonePowder_6001,Froststone Powder,Порошок крижаного каменю
-DC/Text_DesignData_Item_Item_FrostWyvernClaws,Frost Wyvern's Claws,Кігті морозної виверни
-DC/Text_DesignData_Item_Item_FrostWyvernEgg,Frost Wyvern Egg,Яйце морозної виверни
+DC/Text_DesignData_Item_Item_FrostWyvernClaws,Frost Wyvern's Claws,Кігті Льодяної Віверни
+DC/Text_DesignData_Item_Item_FrostWyvernEgg,Frost Wyvern Egg,Яйце Льодяної Віверни
 DC/Text_DesignData_Item_Item_FrozenHeart,Frozen Heart,Замерзле серце
 DC/Text_DesignData_Item_Item_FrozenIronKey,Frozen Iron Key,Заморожений залізний ключ
 DC/Text_DesignData_Item_Item_GemNecklace_1001,Gem Necklace (Cracked),Намисто з самоцвітів (тріснуте)
@@ -671,8 +671,8 @@ DC/Text_DesignData_Item_Item_GoldenKey,Golden Key,Золотий ключ
 DC/Text_DesignData_Item_Item_GoldenLeafHood_5001,Golden Leaf Hood,Золотий капюшон з золотим листям
 DC/Text_DesignData_Item_Item_GoldenLeggings_5001,Golden Leggings,Золоті Легінси
 DC/Text_DesignData_Item_Item_GoldenPaddedTunic_5001,Golden Padded Tunic,Золота туніка на підкладці
-DC/Text_DesignData_Item_Item_GoldenPlateBoots_5001,Golden Plate Boots,Чоботи на золотих пластинах
-DC/Text_DesignData_Item_Item_GoldenPlatePants_5001,Golden Plate Pants,"Штани ""Золота пластина"
+DC/Text_DesignData_Item_Item_GoldenPlateBoots_5001,Golden Plate Boots,Латні Чоботи з Золота
+DC/Text_DesignData_Item_Item_GoldenPlatePants_5001,Golden Plate Pants,Латні Штани з Золота
 DC/Text_DesignData_Item_Item_GoldenPlate_5001,Golden Plate,Золоті лати
 DC/Text_DesignData_Item_Item_GoldenRobe_5001,Golden Robe,Золотий халат
 DC/Text_DesignData_Item_Item_GoldenScarf_5001,Golden Scarf,Золотий шарф
@@ -737,14 +737,14 @@ DC/Text_DesignData_Item_Item_HeavyGambeson_4001,Heavy Gambeson,Важкий га
 DC/Text_DesignData_Item_Item_HeavyGambeson_5001,Heavy Gambeson,Важкий гамбезон
 DC/Text_DesignData_Item_Item_HeavyGambeson_6001,Heavy Gambeson,Важкий гамбезон
 DC/Text_DesignData_Item_Item_HeavyGambeson_7001,Heavy Gambeson,Важкий гамбезон
-DC/Text_DesignData_Item_Item_HeavyGauntlet_1001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_2001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_3001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_4001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_5001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_6001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_7001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_RS,Rubysilver Gauntlets,Важкі рукавиці з рубінового срібла
+DC/Text_DesignData_Item_Item_HeavyGauntlet_1001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_2001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_3001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_4001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_5001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_6001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_7001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_RS,Rubysilver Gauntlets,Важкі Латні Рукавиці З Рубінового Срібла
 DC/Text_DesignData_Item_Item_HeavyLeatherLeggings_1001,Heavy Leather Leggings,Важкі шкіряні легінси
 DC/Text_DesignData_Item_Item_HeavyLeatherLeggings_2001,Heavy Leather Leggings,Важкі шкіряні легінси
 DC/Text_DesignData_Item_Item_HeavyLeatherLeggings_3001,Heavy Leather Leggings,Важкі шкіряні легінси
@@ -882,13 +882,13 @@ DC/Text_DesignData_Item_Item_LightAketon_5001,Light Aketon,Світлий аке
 DC/Text_DesignData_Item_Item_LightAketon_6001,Light Aketon,Світлий акетон
 DC/Text_DesignData_Item_Item_LightAketon_7001,Light Aketon,Світлий акетон
 DC/Text_DesignData_Item_Item_LightBringer_5001,Light Bringer,Світлоносець
-DC/Text_DesignData_Item_Item_LightGauntlets_1001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_2001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_3001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_4001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_5001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_6001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_7001,Light Gauntlets,Легкі рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_1001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_2001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_3001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_4001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_5001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_6001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_7001,Light Gauntlets,Легкі Латні Рукавиці
 DC/Text_DesignData_Item_Item_LightfootBoots_1001,Lightfoot Boots,Легкі чоботи
 DC/Text_DesignData_Item_Item_LightfootBoots_2001,Lightfoot Boots,Легкі чоботи
 DC/Text_DesignData_Item_Item_LightfootBoots_3001,Lightfoot Boots,Легкі чоботи
@@ -1120,22 +1120,22 @@ DC/Text_DesignData_Item_Item_Pickaxe_4001,Pickaxe,Кайло
 DC/Text_DesignData_Item_Item_Pickaxe_5001,Pickaxe,Кайло
 DC/Text_DesignData_Item_Item_Pickaxe_6001,Pickaxe,Кайло
 DC/Text_DesignData_Item_Item_Pickaxe_7001,Pickaxe,Кайло
-DC/Text_DesignData_Item_Item_PlateBoots_1001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_2001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_3001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_4001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_5001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_6001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_7001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_RS,Rubysilver Plate Boots,Латні чоботи з рубінового срібла
-DC/Text_DesignData_Item_Item_PlatePants_1001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_2001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_3001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_4001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_5001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_6001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_7001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_RS,Rubysilver Plate Pants,Латні штани з рубінового срібла
+DC/Text_DesignData_Item_Item_PlateBoots_1001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_2001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_3001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_4001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_5001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_6001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_7001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_RS,Rubysilver Plate Boots,Латні Чоботи з Рубінового Срібла
+DC/Text_DesignData_Item_Item_PlatePants_1001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_2001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_3001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_4001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_5001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_6001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_7001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_RS,Rubysilver Plate Pants,Латні Штани з Рубінового Срібла
 DC/Text_DesignData_Item_Item_Poupoint_1001,Pourpoint,Дублет
 DC/Text_DesignData_Item_Item_Poupoint_2001,Pourpoint,Дублет
 DC/Text_DesignData_Item_Item_Poupoint_3001,Pourpoint,Дублет
@@ -1538,7 +1538,7 @@ DC/Text_DesignData_Item_Item_Wardweed_4001,Wardweed,Бур'ян
 DC/Text_DesignData_Item_Item_Wardweed_5001,Wardweed,Бур'ян
 DC/Text_DesignData_Item_Item_Wardweed_6001,Wardweed,Бур'ян
 DC/Text_DesignData_Item_Item_Wardweed_7001,Wardweed,Бур'ян
-DC/Text_DesignData_Item_Item_WarlordsBrokenSwordBlade,Warlord's Broken Sword Blade,Зламане лезо меча воєначальника
+DC/Text_DesignData_Item_Item_WarlordsBrokenSwordBlade,Warlord's Broken Sword Blade,Зламане Лезо Меча Воєначальника
 DC/Text_DesignData_Item_Item_WatchmanCloak_1001,Watchman Cloak,Плащ Вартового
 DC/Text_DesignData_Item_Item_WatchmanCloak_2001,Watchman Cloak,Плащ Вартового
 DC/Text_DesignData_Item_Item_WatchmanCloak_3001,Watchman Cloak,Плащ Вартового
@@ -1585,7 +1585,7 @@ DC/Text_DesignData_Item_Item_WolfClaw,Wolf Claw,Вовчий кіготь
 DC/Text_DesignData_Item_Item_WolfFang,Wolf Fang,Вовче ікло
 DC/Text_DesignData_Item_Item_WolfHunterLeggings_4001,Wolf Hunter Leggings,Лосини мисливця на вовків
 DC/Text_DesignData_Item_Item_WolfPelt,Wolf Pelt,Вовча шкура
-DC/Text_DesignData_Item_Item_YetisTeeth,Yeti's Teeth,Зуби Йеті
+DC/Text_DesignData_Item_Item_YetisTeeth,Yeti's Teeth,Зуби Єті
 DC/Text_DesignData_Item_Item_Zweihander_1001,Zweihander,Цвайхандер
 DC/Text_DesignData_Item_Item_Zweihander_2001,Zweihander,Цвайхандер
 DC/Text_DesignData_Item_Item_Zweihander_3001,Zweihander,Цвайхандер
@@ -1649,38 +1649,38 @@ DC/Text_DesingData_Item_Item_VisoredSallet_4001,Visored Sallet,Салад з к�
 DC/Text_DesingData_Item_Item_VisoredSallet_5001,Visored Sallet,Салад з козирком
 DC/Text_DesingData_Item_Item_VisoredSallet_6001,Visored Sallet,Салад з козирком
 DC/Text_DesingData_Item_Item_VisoredSallet_7001,Visored Sallet,Салад з козирком
-DC/Text_DesignData_Item_Item_WarlordsArmorShard,Warlord's Armor Shard,
-DC/Text_DesignData_Item_Item_SovereignsGhostblade_5001,Sovereign's Ghostblade,
-DC/Text_DesignData_Item_Item_FrostlightOracleRobe_6001,Frostlight Oracle Robe,
-DC/Text_DesignData_Item_Item_FrostlightCrystalSword_6001,Frostlight Crystal Sword,
-DC/Text_DesignData_Item_Item_FrostlightRunestoneGloves_6001,Frostlight Runestone Gloves,
-DC/Text_DesignData_Item_Item_FrostlightLeatherLeggings_6001,Frostlight Leather Leggings,
-DC/Text_DesignData_Item_Item_FrostlightAketon_6001,Frostlight Aketon,
-DC/Text_DesignData_Item_Item_FrostlightRivetedGloves_6001,Frostlight Riveted Gloves,
-DC/Text_DesignData_Item_Item_FrostlightHood_6001,Frostlight Hood,
-DC/Text_DesignData_Item_Item_BatWing,Bat Wing,
-DC/Text_DesignData_Item_Item_WendigosEntrails,Wendigo's Entrails,
-DC/Text_DesignData_Item_Item_FrostlightWizardHat_6001,Frostlight Wizard Hat,
-DC/Text_DesignData_Item_Item_FrostlightAbyssPlateArmor_6001,Frostlight Abyss Plate Armor,
-DC/Text_DesignData_Item_Item_GiantBatHide,Giant Bat Hide,
-DC/Text_DesignData_Item_Item_GiantBatEar,Giant Bat Ear,
-DC/Text_DesignData_Item_Item_FrostlightLanternShield_6001,Frostlight Lantern Shield,
-DC/Text_DesignData_Item_Item_FrostlightSpear_6001,Frostlight Spear,
-DC/Text_DesignData_Item_Item_FrostlightPlateBoots_6001,Frostlight Plate Boots,
-DC/Text_DesignData_Item_Item_FrostlightCloak_6001,Frostlight Cloak,
-DC/Text_DesignData_Item_Item_FrostlightFeatheredHat_6001,Frostlight Feathered Hat,
-DC/Text_DesignData_Item_Item_WendigosAntlerFragment,Wendigo's Antler Fragment,
-DC/Text_DesignData_Item_Item_SilverSkulltoken,Silver Skull Token,
-DC/Text_DesignData_Item_Item_Icefang_6001,Icefang,
-DC/Text_DesignData_Item_Item_FrostlightRuggedBoots_6001,Frostlight Rugged Boots,
-DC/Text_DesingData_Item_Item_FrostlightNormanNasalHelm_6001,Frostlight Norman Nasal Helm,
-DC/Text_DesignData_Item_Item_FrostlightMysticGloves_6001,Frostlight Mystic Gloves,
-DC/Text_DesignData_Item_Item_GoldenSkulltoken,Golden Skull Token,
-DC/Text_DesingData_Item_Item_FrostlightCrusaderHelm_6001,Frostlight Crusader Helm,
-DC/Text_DesignData_Item_Item_GrimSlayer_5001,Grimslayer,
-DC/Text_DesignData_Item_Item_FrostlightTrousers_6001,Frostlight Trousers,
-DC/Text_DesignData_Item_Item_FrostWyvernsHide,Frost Wyvern's Hide,
-DC/Text_DesignData_Item_Item_FrostlightLightfootBoots_6001,Frostlight Lightfoot Boots,
-DC/Text_DesignData_Item_Item_FrostlightGauntlets_6001,Frostlight Gauntlets,
-DC/Text_DesignData_Item_Item_FrostlightPlatePants_6001,Frostlight Plate Pants,
-DC/Text_DesignData_Item_Item_FrostlightWardenOutfit_6001,Frostlight Warden Outfit,
+DC/Text_DesignData_Item_Item_WarlordsArmorShard,Warlord's Armor Shard,Уламок Броні Воєначальника
+DC/Text_DesignData_Item_Item_SovereignsGhostblade_5001,Sovereign's Ghostblade,Примарний Клинок Володаря
+DC/Text_DesignData_Item_Item_FrostlightOracleRobe_6001,Frostlight Oracle Robe,Льодяна Мантія Оракула
+DC/Text_DesignData_Item_Item_FrostlightCrystalSword_6001,Frostlight Crystal Sword,Льодяний Кришталевий Меч
+DC/Text_DesignData_Item_Item_FrostlightRunestoneGloves_6001,Frostlight Runestone Gloves,Льодяні Рунічні Рукавиці
+DC/Text_DesignData_Item_Item_FrostlightLeatherLeggings_6001,Frostlight Leather Leggings,Льодяні Шкіряні Легінси
+DC/Text_DesignData_Item_Item_FrostlightAketon_6001,Frostlight Aketon,Льодяний Акетон
+DC/Text_DesignData_Item_Item_FrostlightRivetedGloves_6001,Frostlight Riveted Gloves,Льодяні Клепані Рукавиці
+DC/Text_DesignData_Item_Item_FrostlightHood_6001,Frostlight Hood,Льодяний Капюшон
+DC/Text_DesignData_Item_Item_BatWing,Bat Wing,Крило Кажана
+DC/Text_DesignData_Item_Item_WendigosEntrails,Wendigo's Entrails,Нутрощі Вендіґо
+DC/Text_DesignData_Item_Item_FrostlightWizardHat_6001,Frostlight Wizard Hat,Льодяний Капелюх Чарівника
+DC/Text_DesignData_Item_Item_FrostlightAbyssPlateArmor_6001,Frostlight Abyss Plate Armor,Латні Обладунки Льодяної Безодні
+DC/Text_DesignData_Item_Item_GiantBatHide,Giant Bat Hide,Шкура Велетенського Кажана
+DC/Text_DesignData_Item_Item_GiantBatEar,Giant Bat Ear,Вухо Велетенського Кажана
+DC/Text_DesignData_Item_Item_FrostlightLanternShield_6001,Frostlight Lantern Shield,Льодяний Щит з Ліхтарем
+DC/Text_DesignData_Item_Item_FrostlightSpear_6001,Frostlight Spear,Льодяний Спис
+DC/Text_DesignData_Item_Item_FrostlightPlateBoots_6001,Frostlight Plate Boots,Льодяні Латні Чоботи
+DC/Text_DesignData_Item_Item_FrostlightCloak_6001,Frostlight Cloak,Льодяний Плащ
+DC/Text_DesignData_Item_Item_FrostlightFeatheredHat_6001,Frostlight Feathered Hat,Льодяний Капелюх З Пір'ям
+DC/Text_DesignData_Item_Item_WendigosAntlerFragment,Wendigo's Antler Fragment,Уламок Рогів Вендіґо
+DC/Text_DesignData_Item_Item_SilverSkulltoken,Silver Skull Token,Символ Срібного Черепа
+DC/Text_DesignData_Item_Item_Icefang_6001,Icefang,Льодяне Ікло
+DC/Text_DesignData_Item_Item_FrostlightRuggedBoots_6001,Frostlight Rugged Boots,Льодяні Міцні Черевики
+DC/Text_DesingData_Item_Item_FrostlightNormanNasalHelm_6001,Frostlight Norman Nasal Helm,Льодяний Нормандський Носовий Шолом
+DC/Text_DesignData_Item_Item_FrostlightMysticGloves_6001,Frostlight Mystic Gloves,Льодяні Містичні Рукавички
+DC/Text_DesignData_Item_Item_GoldenSkulltoken,Golden Skull Token,Символ Золотого Черепа
+DC/Text_DesingData_Item_Item_FrostlightCrusaderHelm_6001,Frostlight Crusader Helm,Льодяний Шолом Хрестоносців
+DC/Text_DesignData_Item_Item_GrimSlayer_5001,Grimslayer,Мраковбивця
+DC/Text_DesignData_Item_Item_FrostlightTrousers_6001,Frostlight Trousers,Льодяні Штани
+DC/Text_DesignData_Item_Item_FrostWyvernsHide,Frost Wyvern's Hide,Шкура Льодяної Віверни
+DC/Text_DesignData_Item_Item_FrostlightLightfootBoots_6001,Frostlight Lightfoot Boots,Льодяні Легкі Чоботи
+DC/Text_DesignData_Item_Item_FrostlightGauntlets_6001,Frostlight Gauntlets,Льодяні Латні Рукавиці
+DC/Text_DesignData_Item_Item_FrostlightPlatePants_6001,Frostlight Plate Pants,Льодяні Латні Штани
+DC/Text_DesignData_Item_Item_FrostlightWardenOutfit_6001,Frostlight Warden Outfit,Льодяна Форма Наглядача

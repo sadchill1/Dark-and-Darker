@@ -796,7 +796,7 @@ DC/Text_UI_WB_MenuOptions_Video,Video,Відео
 DC/Text_UI_WB_Menu_CharacterSelectOff_CharacterSelect,CHARACTER SELECT,ВИБІР ПЕРСОНАЖА
 DC/Text_UI_WB_Menu_ContinueBtnOff_Return,RETURN,ПОВЕРНУТИСЯ
 DC/Text_UI_WB_Menu_ExitBtnOff_ExitGame,EXIT GAME,ВИЙТИ З ГРИ
-DC/Text_UI_WB_Menu_LobbyBtnOff_Exit2Lobby,EXIT TO LOBBY,ВИХІД У ЛОБІ
+DC/Text_UI_WB_Menu_LobbyBtnOff_Exit2Lobby,EXIT TO LOBBY,ВИХІД ДО ЛОБІ
 DC/Text_UI_WB_Menu_OptionBtnOff_Options,OPTIONS,ПАРАМЕТРИ
 DC/Text_UI_WB_Menu_OptionBtnOn_Options,OPTIONS,ПАРАМЕТРИ
 DC/Text_UI_WB_MerchantItemBase_NotInteresting,Not Interested In Buying,Не зацікавлені в покупці
@@ -805,18 +805,18 @@ DC/Text_UI_WB_PlayUserInfo_CharacterSelect,Character Select,Вибір перс�
 DC/Text_UI_WB_PlayUserInfo_Class,Class,Клас
 DC/Text_UI_WB_PlayUserInfo_Customize,Customize,Кастомізація
 DC/Text_UI_WB_PlayUserInfo_Dungeon,Dungeon,Темниця
-DC/Text_UI_WB_PlayUserInfo_LeaderBoard,Leaderboard,Таблиця лідерів
+DC/Text_UI_WB_PlayUserInfo_LeaderBoard,Leaderboard,Таблиця Лідерів
 DC/Text_UI_WB_PlayUserInfo_Lobby,Lobby,Лобі
 DC/Text_UI_WB_PlayUserInfo_Merchant,Merchant,Купець
 DC/Text_UI_WB_PlayUserInfo_Offline,Offline,Не в мережі
 DC/Text_UI_WB_PlayUserInfo_Ready,Ready,Готовий
-DC/Text_UI_WB_PlayUserInfo_Shop,Shop,Цех
-DC/Text_UI_WB_PlayUserInfo_Stash,Stash,Збирати
+DC/Text_UI_WB_PlayUserInfo_Shop,Shop,Магазин
+DC/Text_UI_WB_PlayUserInfo_Stash,Stash,Сховок
 DC/Text_UI_WB_PlayUserInfo_Trade,Trade,Торгівля
 DC/Text_UI_WB_Play_Cancel,Cancel,Скасувати
 DC/Text_UI_WB_Play_ClassChange,"Class
-Change","Зміна класу
-"
+Change","Зміна
+Класу"
 DC/Text_UI_WB_Play_ExitParty,Exit Party,Вийти з лобі
 DC/Text_UI_WB_Play_FameAndKarma,Karma & Fame,Карма і слава
 DC/Text_UI_WB_Play_Ready,Ready,Готовий
@@ -825,20 +825,20 @@ Server","Виберіть
 сервер"
 DC/Text_UI_WB_Play_Start,Start,Почати
 DC/Text_UI_WB_Play_UserList,"Player
-List","Список гравців
-"
+List","Список
+Гравців"
 DC/Text_UI_WB_QuestLog_Back,[ESC] Back,[ESC] Назад
-DC/Text_UI_WB_ReportPlayerChecklistSlot_ReportedItem,This has already been reported.,Про це вже повідомлялося.
-DC/Text_UI_WB_ReportPlayerResultPopup_ProcessingDate,Processing Date:,Дата обробки:
-DC/Text_UI_WB_ReportPlayer_ReportPlayerTitle,Report Player,Поскаржитися на гравця
-DC/Text_UI_WB_ReportPlayer_ReportPlayer_AnnounceText,Please tell us what happened with this player,"Розкажіть, будь ласка, що сталося з цим плеєром"
+DC/Text_UI_WB_ReportPlayerChecklistSlot_ReportedItem,This has already been reported.,Про це вже повідомили.
+DC/Text_UI_WB_ReportPlayerResultPopup_ProcessingDate,Processing Date:,Дата Обробки:
+DC/Text_UI_WB_ReportPlayer_ReportPlayerTitle,Report Player,Поскаржитися На Гравця
+DC/Text_UI_WB_ReportPlayer_ReportPlayer_AnnounceText,Please tell us what happened with this player,"Розкажіть, будь ласка, що сталося з цим гравцем"
 DC/Text_UI_WB_ShopItemSlot_AlreadyOwned,Owned,Належать
-DC/Text_UI_WB_TavernStartTimer_TimeDesc_00,Next adventure starts in,Наступна пригода починається
-DC/Text_UI_WB_TavernStartTimer_TimeDesc_01,or as soon as the basecamp is full,або як тільки базовий табір заповниться
-DC/Text_UI_WB_TradeBox_Sec, s,
-DC/Text_UI_WB_TradeBox_TotalGold,Gold : ,Золото:
-DC/Text_UI_WB_TradeChannelList_SelectChannel,Select a Channel,Виберіть канал
-DC/Text_UI_WB_TradeChat_PrivateTradingRoom,Private Trading Room,Приватний торговий зал
+DC/Text_UI_WB_TavernStartTimer_TimeDesc_00,Next adventure starts in,Наступна пригода починається через
+DC/Text_UI_WB_TavernStartTimer_TimeDesc_01,or as soon as the basecamp is full,або як тільки табір заповниться
+DC/Text_UI_WB_TradeBox_Sec, s, с
+DC/Text_UI_WB_TradeBox_TotalGold,Gold : ,Золото :
+DC/Text_UI_WB_TradeChannelList_SelectChannel,Select a Channel,Виберіть Канал
+DC/Text_UI_WB_TradeChat_PrivateTradingRoom,Private Trading Room,Приватний Торговий Зал
 DC/Text_UI_WB_TradeInfo_TradingMasterDesc,"We know that trading items in
 the dungeon is an extremely
 risky endeavor. The trader's
@@ -847,24 +847,24 @@ quick and safe trade
 environment... for a price.","Ми знаємо, що торгівля предметами в
 підземеллі – надзвичайно
 ризикована справа.
-Гільдія трейдерів прагне сприяти
+Гільдія торговців прагне сприяти
 швидкому та безпечному
 торговому середовищу... за певну ціну."
-DC/Text_UI_WB_TradeInfo_TradingMasterName,Trading Master,Майстер трейдингу
-DC/Text_UI_WB_TradeMembershipSubscriptionGroup_InitiationFee,Initiation Fee:,Вступний внесок:
+DC/Text_UI_WB_TradeInfo_TradingMasterName,Trading Master,Майстер Трейдингу
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_InitiationFee,Initiation Fee:,Вступний Внесок:
 DC/Text_UI_WB_TradeMembershipSubscriptionGroup_RequirementsTitle,Requirements,Вимоги
 DC/Text_UI_WB_TradeMembershipSubscriptionGroup_RulesTitle,Rules,Правила
 DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_00,"1. The guild accepts members of all classes, races, and alignments. Don’t be a jerk in the Trading Post Channel. No profanity, racists, and exclusionary language in chat.","1. Гільдія приймає членів усіх класів, рас і розкладів. Не будьте придурком у каналі Trading Post. У чаті немає нецензурної лексики, расистських висловлювань і нецензурної лексики."
-DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_01,2. No personal attacks on other traders.,2. Відсутність персональних нападок на інших трейдерів.
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_01,2. No personal attacks on other traders.,2. Жодних образ в сторону інших торговців.
 DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_02,3. No NSFW content.,3. Відсутність контенту NSFW.
-DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_03,4. Your account will be banned from the Early Access for breaking the rules.,4. Ваш обліковий запис буде заблоковано в дочасному доступі за порушення правил.
-DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Title,Traders Guild Membership,Членство в Гільдії трейдерів
-DC/Text_UI_WB_TradeMembershipSubscriptionGroup_TradeCost,Cost per trade: ,Вартість угоди:
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_03,4. Your account will be banned from the Early Access for breaking the rules.,4. Ваш обліковий запис буде заблоковано від дочасного доступу за порушення правил.
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Title,Traders Guild Membership,Членство в Гільдії Торговців
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_TradeCost,Cost per trade: ,"Вартість угоди: "
 DC/Text_UI_WB_TradingPhaseConfirm_FinalAnnouncement,Trade Confirmation! Please check ALL trade items! All trades are final!,"Підтвердження торгівлі! Будь ласка, перевірте ВСІ предмети торгівлі! Усі угоди є остаточними!"
 DC/Text_UI_WB_TradingPhaseConfirm_Gold,gold,золото
 DC/Text_UI_WB_TradingPhaseConfirm_TradeFee,Trade Fee,Комісія за торгівлю
 DC/Text_UI_WB_TradingPhaseConfirm_TradingPhase,Trading Phase,Фаза торгівлі
-DC/Text_UI_WB_TradingPhaseDeal_Announcement,Once both traders have approved the items we will advance to the trade confirmation stage.,"Після того, як обидва трейдери схвалять елементи, ми перейдемо до етапу підтвердження угоди."
+DC/Text_UI_WB_TradingPhaseDeal_Announcement,Once both traders have approved the items we will advance to the trade confirmation stage.,"Після того, як обидва продавці схвалять предмети, ми перейдемо до етапу підтвердження угоди."
 DC/Text_UI_WB_TradingPhaseDeal_TradeFeeTitle,Trade Fee,Комісія за торгівлю
 DC/Text_UI_WB_TradingPhaseDeal_TradingPhase,Trading Phase,Фаза торгівлі
 DC/Text_UI_WB_UnEquipMusicTypeListItem_Type,Type,Тип
@@ -878,13 +878,13 @@ DC/Text_UI_WB_VideoOptionSlot_Epic,Epic,Епічне
 DC/Text_UI_WB_VideoOptionSlot_High,High,Високе
 DC/Text_UI_WB_VideoOptionSlot_Low,Low,Низьке
 DC/Text_UI_WB_VideoOptionSlot_Medium,Medium,Середнє
-DC/Text_UI_v2_WB_ItemTooltip_AbilityItem_Desc,This is the Abililty Description.,Це опис Abililty.
-DC/Text_UI_v2_WB_ItemTooltip_Info_ArmorType,Armor Type,Тип броні
-DC/Text_UI_v2_WB_ItemTooltip_Info_HandType,Hand Type,Тип руки
-DC/Text_UI_v2_WB_ItemTooltip_Info_SlotType,Slot Type,Тип слота
-DC/Text_UI_v2_WB_ItemTooltip_Info_UtilityType,Utility Type,Тип допоміжного предмета
-DC/Text_UI_v2_WB_ItemTooltip_Info_WeaponType,Weapon Type,Тип зброї
-DC/Text_UI_v2_WB_ItemTooltip_Requirement_RequiredClass,Required Class,Обов'язковий клас
+DC/Text_UI_v2_WB_ItemTooltip_AbilityItem_Desc,This is the Abililty Description.,Це опис Вміння.
+DC/Text_UI_v2_WB_ItemTooltip_Info_ArmorType,Armor Type,Тип Броні
+DC/Text_UI_v2_WB_ItemTooltip_Info_HandType,Hand Type,Тип Руки
+DC/Text_UI_v2_WB_ItemTooltip_Info_SlotType,Slot Type,Тип Слота
+DC/Text_UI_v2_WB_ItemTooltip_Info_UtilityType,Utility Type,Тип Допоміжного Предмета
+DC/Text_UI_v2_WB_ItemTooltip_Info_WeaponType,Weapon Type,Тип Зброї
+DC/Text_UI_v2_WB_ItemTooltip_Requirement_RequiredClass,Required Class,Необхідний Клас
 DC/Text_UI_v2_WB_Loadout_Desc_00,[Alt + L Drag] Divide items,[Alt + L перетягування] Розділення елементів
 DC/Text_UI_v2_WB_Loadout_Desc_01,[Alt + R Click] Send one by one,[Alt + R клацання] Надсилайте по черзі
 DC/Text_UI_v2_WB_Loadout_Desc_02,[Shift + R Click] Send all at once,[Shift + R клацання] Надіслати все відразу
