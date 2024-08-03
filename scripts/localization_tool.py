@@ -1,5 +1,6 @@
 from shutil import move, copy
 from os import path, listdir
+from typing import Callable
 from pprint import pprint
 import subprocess
 import csv
@@ -84,17 +85,18 @@ class Localization:
             print("WARN: these keys were removed in the latest version:")
             pprint(removed_keys)
 
-    def patch(self, target: str, output: str):
+    def patch(self, target: str, output: str, filter_csv: Callable[[str], bool] = None):
         """
         Use the .csv files to patch the base .locres
         The .csv files are applied in order, so the last .csv will override any previous changes
         """
         csv_list = self._get_all_csv()
-        locres = "tmp.locres"
-        copy(target, locres)
+        if filter_csv is not None:
+            csv_list = filter(filter_csv, csv_list)
+
+        copy(target, output)
         for csv in csv_list:
-            self._import_csv(locres, csv, locres)
-        move(locres, output)
+            self._import_csv(output, csv, output)
 
     def migrate(self, target_locres: str, source_locres: str):
         """

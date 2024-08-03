@@ -31,13 +31,28 @@ def parse_args():
     return parser.parse_args()
 
 
+def format_out_name(name: str):
+    *suffix, file_type = name.split(".")
+    if not suffix:
+        suffix = [file_type]
+        file_type = "locres"
+    return name, ".".join(suffix) + f"_no_items.{file_type}"
+
+
 def main():
     args = parse_args()
     try:
         if args.action == ACTION_MIGRATE:
             Localization().migrate(args.target, args.source)
         if args.action == ACTION_PATCH:
-            Localization().patch(args.target, args.output)
+            patched_locres, no_items_locres = format_out_name(args.output)
+            item_path = path.join(Localization.DATA, "items.csv")
+            # create one .locres with all fields translated
+            Localization().patch(args.target, patched_locres)
+            # and one .locres with original names for the items
+            Localization().patch(args.target, no_items_locres, lambda f: f != item_path)
+
+            print(f"\nCreated patched files:\n{patched_locres}\n{no_items_locres}")
     except (ValueError, FileNotFoundError, FileExistsError) as e:
         print("ERROR:")
         print(str(e))
