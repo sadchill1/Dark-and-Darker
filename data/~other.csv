@@ -333,7 +333,7 @@ DC/Text_DataAsset_BloodPact_Desc_BloodPactDesc,"Take the form of your contracted
 
 Left-Click: Use equipped item. If no item is equipped, then performs bare-handed attack. Perform up to 4 combo attacks using both hands.
 
-Right-Click: Use equipped item. If no item is equipped, then fires a bolt of darkness.","Асимілює зв'язаного демона, отримуючи додатково <MaxHealthAdd>[0] _</>, <ArmorRating>[0] _</> і <MagicResistance>[0] _</>. Все ваше тіло охоплює Безодня полум'я, завдаючи <Exec.AddHealthByMaxHealthRatio>[2]%</> шкоди на секунду і наносячи <Exec.MagicalDamageBase>[3] _</> на секунду персонажам, що знаходяться поблизу. Після активації ефект не може бути зупинений до завершення контракту. Крім того, споживаючи Осколки Темряви, ви отримуєте ефекти <AllAttributes>+[1] _</> за кожен спожитий Осколок Темряви. Коли ви стаєте демоном, ваші вміння змінюються на вміння лише демонів.
+Right-Click: Use equipped item. If no item is equipped, then fires a bolt of darkness.","Перетворитись на демона, отримуючи додатково <MaxHealthAdd>[0] _</>, <ArmorRating>[0] _</> і <MagicResistance>[0] _</>. Все ваше тіло охоплює Пекельне полум'я, завдаючи <Exec.AddHealthByMaxHealthRatio>[2]%</> шкоди на секунду і наносячи <Exec.MagicalDamageBase>[3] _</> на секунду персонажам, що знаходяться поблизу. Після активації ефект не може бути зупинений до завершення контракту. Крім того, споживаючи Уламки Темряви, ви отримуєте ефекти <AllAttributes>+[1] _</> за кожен спожитий Уламок Темряви. Коли ви стаєте демоном, ваші вміння змінюються на вміння лише демонів.
 
 Ліва кнопка миші: Атака голими руками. Виконайте до 4 комбінованих атак обома руками.
 
@@ -422,13 +422,13 @@ DC/Text_Code_Marketplace_InvalidListItem_NotAllowToListing,This item cannot be s
 DC/Text_Code_DCMetaTradeComponent_CannotRemoveItemFromDealTable,Can not remove item from deal table.,Неможливо видалити предмет з таблиці угод.
 DC/Text_Code_GameMusicSelectGroupWidget_CapacityOverloaded,Capacity Overloaded,Ємність перевантажено
 DC/Text_DataAsset_Hellfire_Desc_HellfireDesc,Cast eternal hellfire and blast it towards the targets. Deal <Exec.MagicalDamageBase>[0] _</> per second to any target within the area of effect. The hellfire does not dissipate when it reaches a target.,"Киньте вічний пекельний вогонь і спрямуйте його на цілі. Завдає <Exec.MagicalDamageBase>[0] _</> в секунду будь-якій цілі в зоні дії. Пекельний вогонь не розсіюється, коли досягає цілі."
-DC/Text_DataAsset_Light_Desc_LightDesc,Cast spheres of floating light to brightly illuminate your surroundings. Can force Rogues out of hiding.,"Кидайте сфери плаваючого світла, щоб яскраво освітлювати навколишнє середовище."
+DC/Text_DataAsset_Light_Desc_LightDesc,Cast spheres of floating light to brightly illuminate your surroundings. Can force Rogues out of hiding.,"Створює сфери зі світла, щоб яскраво освітлювати навколишнє середовище. Розсіює невидимість."
 DC/Text_DataAsset_ImmortalLament_Desc_ImmortalLamentDesc,Casting spells will no longer take you below 1 health.,Накладання заклинань більше не буде коштувати вам менше 1 здоров'я.
 DC/Text_Code_DCDataBlueprintLibrary_EDCPlatform_Chaf,Chaf Games,
 DC/Text_DataAsset_ShapeshiftMastery_Desc_ShapeshiftMasteryDesc,Changes form instantly without casting time.,"Зміни формуються миттєво, без часу на розкадровку."
 DC/Text_DataAsset_RayOfDarkness_Desc_RayOfDarknessDesc,Channel a dark beam dealing <Exec.MagicalDamageBase>[0] _</> per second to any target the beam touches. Moving and aiming are possible while channeling.,"Спрямовує темний промінь, що завдає <Exec.MagicalDamageBase>[0] _</> в секунду на будь-яку ціль, якої торкнеться промінь. Під час спрямування променя можна пересуватися і прицілюватися."
-DC/Text_DataAsset_LocustsSwarm_Desc_LocustsSwarmDesc,"Channel a swarm of locusts in a <Spell Type=""AreaRadius"">[0]m radius</> over <Spell Type=""ChannelingDuration"">[0] seconds</>. Any target within the area is dealt <Exec.MagicalDamageBase>[0] divine _</> per 1 second. The target also suffers reduced <MagicalHealingReceiveMod>_ by [1]%</> and <PhysicalHealingReceiveMod>_ by [1]%</>.","Направити рій сарани в радіусі <Spell Type=""AreaRadius"">[0]м</> протягом <Spell Type=""ChannelingDuration"">[0] секунд</>. Будь-яка ціль в межах області отримує <Exec.MagicalDamageBase>[0] божественних _</> за 0.1 секунди."
-DC/Text_DataAsset_Earthquake_Desc_EarthquakeDesc,"Channel an earthquake in a <Spell Type=""AreaRadius"">[0]m radius</> over <Spell Type=""ChannelingDuration"">[0] seconds</>. Any target within the area is dealt <Exec.MagicalDamageBase>[1] _</> per step and receives <MoveSpeedMod>[0]% _</> reduction.","Направити землетрус в радіусі <Spell Type=""AreaRadius"">[0]м</> протягом <Spell Type=""ChannelingDuration"">[0] секунд</>. Будь-яка ціль в межах області отримує <Exec.MagicalDamageBase>[1] _</> за крок і зменшує <MoveSpeedMod>[0]% _</> швидкості пересування."
+DC/Text_DataAsset_LocustsSwarm_Desc_LocustsSwarmDesc,"Channel a swarm of locusts in a <Spell Type=""AreaRadius"">[0]m radius</> over <Spell Type=""ChannelingDuration"">[0] seconds</>. Any target within the area is dealt <Exec.MagicalDamageBase>[0] divine _</> per 1 second. The target also suffers reduced <MagicalHealingReceiveMod>_ by [1]%</> and <PhysicalHealingReceiveMod>_ by [1]%</>.","Викликає рій сарани в <Spell Type=""AreaRadius"">радіусі [0]м</> протягом <Spell Type=""ChannelingDuration"">[0] секунд</>. Усі цілі в межах області отримують <Exec.MagicalDamageBase>[0] Божественної _</> за 1 секунду. У цілі також зменшуються <MagicalHealingReceiveMod>_ на [1]%</> и <PhysicalHealingReceiveMod>_ на [1]%</>."
+DC/Text_DataAsset_Earthquake_Desc_EarthquakeDesc,"Channel an earthquake in a <Spell Type=""AreaRadius"">[0]m radius</> over <Spell Type=""ChannelingDuration"">[0] seconds</>. Any target within the area is dealt <Exec.MagicalDamageBase>[1] _</> per step and receives <MoveSpeedMod>[0]% _</> reduction.","Викликає землетрус в <Spell Type=""AreaRadius"">радіусі [0]м</> протягом <Spell Type=""ChannelingDuration"">[0] секунд</>. Усі цілі в межах області отримують <Exec.MagicalDamageBase>[1] _</> за крок та зменшує <MoveSpeedMod>[0]% _</> швидкості пересування."
 DC/Text_DataAsset_EvilEye_Desc_EvilEyeDesc,"Channel for <Spell Type=""CastingTime"">[0] seconds</> and summon an evil eye that can be possessed by the caster for <Spell Type=""ChannelingDuration"">[0] seconds</>.","Канал для <Spell Type=""CastingTime"">[0] секунд</> і викликати пристріт, яким може володіти заклинатель протягом <Тип заклинання = ""ChannelingDuration"">[0] секунд</>."
 DC/Text_DataAsset_LifeDrain_Desc_LifeDrainDesc,"Channel for <Spell Type=""ChannelingDuration"">[0] seconds</>, dealing <Exec.MagicalDamageBase>[0] _</> to the target per second. Convert a portion of the damage dealt into health for the caster.","Заклинання триває <Spell Type=""ChannelingDuration"">[0] секунд</>, завдаючи <Exec.MagicalDamageBase>[0] _</> цілі за секунду. Перетворює частину завданої шкоди на здоров'я заклинача."
 DC/Text_DataAsset_Sanctuary_Desc_SanctuaryDesc,"Channel for <Spell Type=""ChannelingDuration"">[0] seconds</>, healing all targets within <Spell Type=""Range"">[0]m</> for <Exec.MagicalHealBase>[0]</> per second and deals <Exec.MagicalDamageBase>[1] divine _</> per second to the undead.","Канал для <Spell Type=""ChannelingDuration"">[0] секунд</>, зцілення всіх цілей у межах <Spell Type=""Range"">[0]m</> для <Exec.MagicalHealBase>[0]</> за секунду та завдає <Exec.MagicalDamageBase>[1] божественного _</> за секунду нежиті."
@@ -617,7 +617,7 @@ Restore previous setting in: {ReplaceValue} seconds","Ви впевнені, щ�
 DC/Text_Code_GameMenuWidget_VideoOptionWidget_DisplayApplyPopup_LeftButton,Apply,Застосовувати
 DC/Text_Code_GameMenuWidget_VideoOptionWidget_DisplayApplyPopup_RightButton,Revert,Повернутися
 DC/Text_Code_CharacterCreateWidget_FailInvalidCharacterFound,"Nickname is not allowed. Your nickname should contain only letters (a-z, A-Z) and numbers (0-9).","Нікнейм не допускаються. Ваш нік повинен містити лише літери (a-z, A-Z) та цифри (0-9)."
-DC/Text_Code_InventoryComponent_NotEnoughItem,You do not have enough items.,Вам не вистачає предмета.
+DC/Text_Code_InventoryComponent_NotEnoughItem,You do not have enough items.,Вам не вистачає предметів.
 DC/Text_Code_InventoryComponent_NotEnoughSpace,Not enough space.,Недостатньо місця.
 DC/Text_Code_InvitePartyWidget_InviteParty_Fail_Already_Party,Player is already in a party.,Гравець вже в групі.
 DC/Text_Code_InvitePartyWidget_InviteParty_Fail_Duplicate_Request,The other party has not responded yet.,Інша сторона поки що не відповіла.
@@ -728,15 +728,19 @@ DC/Text_Code_PlayWidget_Warning_Check_HighRollerFee,"My lord, I’m afraid the p
 
 To deter the unqualified, they ask for <Gold>{0}</><img id=""gold""></> to enter this dungeon. Are you ready to embark on this journey?
 
-Should you require more time, I can assist in arranging your base gear. We can attend to it right now, if you wish.","Мілорде, боюся, що сильні світу цього вимагають плату за вхід до підземель <Gold>High Roller</>. Вони кажуть, що занадто багато шукачів пригод поклали свої життя, спокусившись на високі винагороди.
+Should you require more time, I can assist in arranging your base gear. We can attend to it right now, if you wish.","Мілорде, боюся, що сильні світу цього вимагають плату за вхід до підземель <Gold>High Roller</>. Вони кажуть, що занадто багато шукачів пригод поклали свої життя, спокусившись на багатства.
 
-Щоб відлякати некваліфікованих, вони просять за вхід до цього підземелля <Gold>{0} золота</>. Чи готові ви вирушити в цю подорож?"
+Щоб відлякати некваліфікованих, вони просять за вхід до цього підземелля <Gold>{0}</><img id=""gold""></>. Чи готові ви вирушити в цю подорож?
+
+Якщо вам потрібно більше часу, я можу допомогти з підбором базового спорядження. Якщо ви бажаєте, можемо зайнятись цим просто зараз."
 DC/Text_Code_PlayWidget_Warning_Check_Normal,"Pardon me lord, did you check your loadout? You’ll be placed into a dungeon based on the gear scores of your party members. If a member of your team has a gear score of <GearScore>{0}</> or higher you will enter a more dangerous dungeon. Are you ready to enter the dungeons?
 
-Should you require more time, I can assist in arranging your base gear. We can attend to it right now, if you wish.","Перепрошую, мілорде, ви перевірили своє спорядження? Ви потрапите до підземелля залежно від рівня спорядження членів вашої команди. Якщо член вашої команди має показник спорядження <GearScore>{0}</> або вище, ви потрапите до більш небезпечного підземелля. Ви готові увійти в підземелля?"
-DC/Text_Code_RecruitComponent_Invite_Fail_Already_Party,The player is already in party.,Гравець вже в партії.
+Should you require more time, I can assist in arranging your base gear. We can attend to it right now, if you wish.","Перепрошую, мілорде, ви перевірили своє спорядження? Ви потрапите до підземелля залежно від рівня спорядження членів вашої команди. Якщо член вашої команди має показник спорядження <GearScore>{0}</> або вище, ви потрапите до більш небезпечного підземелля. Ви готові увійти в підземелля?
+
+Якщо вам потрібно більше часу, я можу допомогти з підбором базового спорядження. Якщо ви бажаєте, можемо зайнятись цим просто зараз."
+DC/Text_Code_RecruitComponent_Invite_Fail_Already_Party,The player is already in party.,Гравець вже в групі.
 DC/Text_Code_RecruitComponent_Invite_Fail_Duplicate_Request,The player has not responded yet.,Гравець ще не відповів.
-DC/Text_Code_RecruitComponent_Invite_Fail_Member_Full,Party members are full.,Члени партії заповнені.
+DC/Text_Code_RecruitComponent_Invite_Fail_Member_Full,Party members are full.,Група повна.
 DC/Text_Code_RecruitComponent_Invite_Fail_No_Lobby,The player is not in the lobby.,Гравця немає в лобі.
 DC/Text_Code_RecruitComponent_Invite_Fail_Offline,The player is no longer online.,Гравець більше не в мережі.
 DC/Text_Code_RecruitComponent_Invite_Fail_Target_Block,The player is already blocked.,Гравець вже заблокований.
@@ -770,9 +774,9 @@ DC/Text_Code_DCDataBlueprintLibrary_Type_Monster_Grade_Common,Common Grade,Зв�
 DC/Text_Code_DCGiftCodeRewardPopupBase_ConfirmButton,Confirm,Підтвердити
 DC/Text_DataAsset_SpellPredation_Desc_SpellPredationDesc,"Consume up to all removable magical buffs from the enemy and gain 1 Darkness Shard per effect.
 
-Darkness Shard : Each Darkness Shard grants a <MagicalDarkDamageMod>[0]% _</> and can store up to 5. This effect is consumed when casting a dark spell.","Споживає всі можливі змінні магічні бафи від ворога і отримуйте 1 Осколок Темряви за ефект.
+Darkness Shard : Each Darkness Shard grants a <MagicalDarkDamageMod>[0]% _</> and can store up to 5. This effect is consumed when casting a dark spell.","Споживає всі можливі змінні магічні бафи від ворога і отримуйте 1 Уламок Темряви за ефект.
 
-Осколок Темряви : Кожен Осколок Темряви дає <MagicalDarkDamageMod>[0]% _</> і може зберігати до 10. Цей ефект витрачається під час застосування темного заклинання."
+Уламок Темряви : Кожен Уламок Темряви дає <MagicalDarkDamageMod>[0]% _</> і може зберігати до 10. Цей ефект витрачається під час застосування темного заклинання."
 DC/Text_Code_DCDataBlueprintLibrary_Type_Item_Property_Effect_CooldownReductionBonus,Cooldown Reduction Bonus,Бонус зменшення перезарядки
 DC/Text_Code_DCDataBlueprintLibrary_Attribute_CooldownReductionMod,Cooldown Reduction Bonus,Бонус зменшення перезарядки
 DC/Text_Code_DCDataBlueprintLibrary_Data_SetByCaller_CooldownReductionMod,Cooldown Reduction Bonus,Бонус зменшення перезарядки
@@ -787,7 +791,7 @@ DC/Text_Code_DCDataBlueprintLibrary_Data_SetByCaller_DarkMagicalReduction,Dark M
 DC/Text_Code_DCDataBlueprintLibrary_Attribute_DarkMagicalReductionMod,Dark Magical Damage Reduction,Зменшення шкоди від темної магії
 DC/Text_Code_DCDataBlueprintLibrary_Data_SetByCaller_DarkMagicalReductionMod,Dark Magical Damage Reduction,Зменшення шкоди від темної магії
 DC/Text_DataAsset_ActionSpeed_Desc_ActionSpeedDesc,Increases the speed of your physical attacks and blocks.,Збільшує швидкість ваших фізичних атак і блоків.
-DC/Text_DataAsset_Agility_Desc_AgilityDesc,Increases your move speed and regular interaction speed. Slightly increases your action speed.,Збільшує швидкість звичайної взаємодії та швидкість пересування вашого персонажа. Трохи збільшує швидкість дії вашого персонажа.
+DC/Text_DataAsset_Agility_Desc_AgilityDesc,Increases your move speed and regular interaction speed. Slightly increases your action speed.,Збільшує вашу швидкість звичайної взаємодії та швидкість пересування. Трохи збільшує вашу швидкість дії.
 DC/Text_DataAsset_AirMagicReduction_Desc_AirMagicReductionDesc,The degree to which the damage of Air-type magic is reduced.,"Ступінь, на який зменшується шкода від магії типу ""Повітря""."
 DC/Text_DataAsset_ArcaneMagicReduction_Desc_ArcaneMagicReductionDesc,The degree to which the damage of Arcane-type magic is reduced.,"Ступінь, на який зменшується шкода від магії типу Arcane."
 DC/Text_DataAsset_ArmorPenetration_Desc_ArmorPenetrationDesc,Determines the percentage of target's physical damage reduction that you ignore.,"Визначає, на скільки ви зменшуєте фізичну шкоду цілі."
@@ -834,7 +838,7 @@ DC/Text_DataAsset_Bard_Dialog_BardDialog,"‘The Magical Minstrel’
 Lift up the spirits!","'Чарівний менестрель'
 Підніміть настрій!"
 DC/Text_DataAsset_BuffDurationMod_Desc_BuffDurationModDesc,How much longer/shorter a buff lasts on you.,На скільки довше/коротше діє на вас бафф.
-DC/Text_DataAsset_ChaoticDiscord_Desc_ChaoticDiscordDesc,Excites nearby monsters to attack the nearest target except the performer.,"Спонукає монстрів, що знаходяться поблизу, атакувати найближчу ціль, окрім виконавця."
+DC/Text_DataAsset_ChaoticDiscord_Desc_ChaoticDiscordDesc,Excites nearby monsters to attack the nearest target except the performer.,"Змушує монстрів, що знаходяться поблизу, атакувати найближчу ціль, окрім виконавця."
 DC/Text_DataAsset_ClarityPotion_Desc_ClarityPotionDesc,Restores spell memory for a certain period of time.,Відновлює пам'ять заклинань на певний час.
 DC/Text_DataAsset_Cleric_ClassInfo_ClericClassInfo,"The Cleric is a soldier of immense faith. The Cleric uses his sacred bonds to his gods to call forth the protective powers of light and to vanquish the forces of dark.
 
@@ -865,7 +869,7 @@ DC/Text_DataAsset_Cleric_Dialog_ClericDialog,"'A Guardian Angel'
 DC/Text_DataAsset_CooldownReductionMod_Desc_CooldownReductionModDesc,Determines the degree to which a skill or perk cooldown is reduced.,"Визначає ступінь, на який зменшується перезарядка вміння або перка."
 DC/Text_DataAsset_DarkMagicReduction_Desc_DarkMagicReductionDesc,The degree to which the damage of Dark-type magic is reduced.,"Ступінь, на який зменшується шкода від магії темного типу."
 DC/Text_DataAsset_DebuffDurationMod_Desc_DebuffDurationModDesc,How much longer/shorter a debuff lasts on you.,Наскільки довше/коротше на вас діє дебафф.
-DC/Text_DataAsset_Dexterity_Desc_DexterityDesc,Increases your action speed and manual dexterity. Increases item equip speed.,Збільшує швидкість дій і спритність ручної дії вашого персонажа. Збільшує швидкість екіпіровки предмета вашого персонажа.
+DC/Text_DataAsset_Dexterity_Desc_DexterityDesc,Increases your action speed and manual dexterity. Increases item equip speed.,Збільшує вашу Швидкість Дії і Вправність Рук. Збільшує вашу швидкість екіпірування предметів.
 DC/Text_DataAsset_DivineMagicReduction_Desc_DivineMagicReductionDesc,The degree to which the damage of Divine-type magic is reduced.,Ступінь зменшення шкоди від магії Божественного типу.
 DC/Text_DataAsset_Druid_ClassInfo_DruidClassInfo,"The Druid is a spirit mage with a deep connection to nature. Able to wield the powers of the wilderness, they can even transform their bodies to mimic the powers of beasts.
 
@@ -1290,7 +1294,20 @@ Weapon of choice - Daggers
 
 - Low Health.
 - Low damage bonus.
-- Low magic resistance.","Розбійник - майстер обману, здатний безшумно прослизати між тінями, щоб здійснювати свої підступні справи. Його спритні руки дозволяють йому швидко грабувати багатства, зламувати замки і виводити з ладу різні пастки. "
+- Low magic resistance.","Розбійник - майстер обману, здатний безшумно прослизати між тінями, щоб здійснювати свої підступні справи. Його спритні руки дозволяють йому швидко грабувати багатства, зламувати замки і виводити з ладу різні пастки.
+
+Weapon of choice - Daggers
+
++ High movement speed.
++ Quick attack speed.
++ Quickly interact with objects.
++ Can pick locks without a lock pick.
++ Can detect & disable traps.
++ Moves more silently.
+
+- Low Health.
+- Low damage bonus.
+- Low magic resistance."
 DC/Text_DataAsset_Rogue_Dialog_RogueDialog,"'The Sly Assassin'
  Move within the shadows!","'Хитрий вбивця'
  Пересувайтеся в тіні!"
@@ -1354,7 +1371,7 @@ DC/Text_DataAsset_Wizard_Dialog_WizardDialog,"'The Almighty Sorcerer'
 DC/Text_DataAsset_IceBolt_Desc_IceBoltDesc,Deal <Exec.MagicalDamageBase>[0] _</> and reduce the target's <MoveSpeedMod>_ by [1]%</> and <ActionSpeed>_ by [1]%</> for <Duration>[1] second</>.,Нанести <Exec.MagicalDamageBase>[0]_</> і зменшити <MoveSpeedMod>_ на [1]%</> і <ActionSpeed>_ на [1]%</> цілі на <Duration>[1] секунду</>.
 DC/Text_DataAsset_HolyStrike_Desc_HolyStrikeDesc,"Deal <Exec.MagicalDamageBase>[0] divine _</> to all targets in an area, blinding them for <Duration>[1] seconds</>.","Нанести <Exec.MagicalDamageBase>[0] божественна _</> всім цілям в області, засліпивши їх на <Duration>[1] секунд</>."
 DC/Text_DataAsset_CurseofPain_Desc_CurseofPain,"Deal <Exec.MagicalDamageBase>[0] _</> to the target instantly. Additionally, deal <Exec.MagicalDamageBase>[1] _</> distributed over <Duration>[1] seconds</>.","Миттєво завдає <Exec.MagicalDamageBase>[0] _</> цілі. Додатково наносить <Exec.MagicalDamageBase>[1] _</>, розподілено на <Duration>[1] секунд</>."
-DC/Text_DataAsset_DinOfDarkness_Desc_DinOfDarknessDesc,"Deal <Exec.MagicalDamageBase>[0]/[1]/[2] _</> to all enemies in an area around the performer, based on performance.","Завдає <Exec.MagicalDamageBase>[0]/[1]/[2] _</> усім ворогам у зоні навколо виконавця, залежно від ефективності."
+DC/Text_DataAsset_DinOfDarkness_Desc_DinOfDarknessDesc,"Deal <Exec.MagicalDamageBase>[0]/[1]/[2] _</> to all enemies in an area around the performer, based on performance.","Завдає <Exec.MagicalDamageBase>[0]/[1]/[2] _</> усім ворогам у зоні навколо виконавця, залежно від виконання."
 DC/Text_DataAsset_PiercingShrill_Desc_PiercingShrillDesc,Deal <Exec.PhysicalDamageBase>[0]/[1]/[2] _</> to a target. Causes the echo sound effect on player targets for <Duration>[3] seconds</>.,Завдає <Exec.PhysicalDamageBase>[0]/[1]/[2] _</> цілі. Спричиняє ефект відлуння на цілі гравця протягом <Duration>[3] секунд</>.
 DC/Text_DataAsset_ExploitationStrike_Desc_ExploitationStrikeDesc,"Deal an additional <Exec.MagicalDamageBase>[0] _</> to all the enemies you hit with a physical attack within <Duration>[0] seconds</> and heals the caster by <Constant Type=""Float"" Format=""FromZero"">[0]%</> of the target's maximum health.","Наносить додаткову <Exec.MagicalDamageBase>[0] _</> всім ворогам, яких ви вразили фізичною атакою протягом <Duration>[0] секунд</>, і зцілює заклинателя на <Constant Type=""Float"" Format=""FromZero"">[0]%</> від максимального рівня здоров'я цілі."
 DC/Text_DataAsset_Smite_Desc_SmiteDesc,Deal an additional <Exec.MagicalDamageBase>[1] #</> to all enemies you hit within <Duration>[0] seconds</>. Only when melee attacking.,"Наносить додаткову <Exec.MagicalDamageBase>[1] #</> усім ворогам, яких ви вразите протягом <Duration>[0] секунд</>. Тільки під час атаки ближнього бою."
@@ -1380,7 +1397,7 @@ DC/Text_DesignData_Aoe_Aoe_EntanglingVines,Entangling Vines,Обплутуван
 DC/Text_DesignData_Aoe_Aoe_ExplosionSpell,Explosion Spell,Заклинання вибуху
 DC/Text_DesignData_Aoe_Aoe_ExplosiveBottleArea,Explosive Bottle,Вибухова пляшка
 DC/Text_DesignData_Aoe_Aoe_FlameWalker,Flame Walker,Полум'яний ходок
-DC/Text_DesignData_Aoe_Aoe_LocustsSwarm,Locust Swarm,Рой сарани
+DC/Text_DesignData_Aoe_Aoe_LocustsSwarm,Locust Swarm,Рій сарани
 DC/Text_DesignData_Aoe_Aoe_MendingGrove,Mending Grove,Лікувальний гай
 DC/Text_DesignData_Aoe_Aoe_MovableWall,Movable Wall,Рухома стіна
 DC/Text_DesignData_Aoe_Aoe_Quarterstaff_Unique_PoisonCloud,Poison Cloud,Отруйна хмара
@@ -2182,7 +2199,7 @@ DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_GoblinMerchantGreeting,Gam
 DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Leathersmith,"Welcome, traveler. Looking for quality leather gear? Each piece is crafted with care. Perhaps you'll find something that suits your adventures.","Ласкаво просимо, мандрівнику. Шукаєш якісне шкіряне спорядження? Кожна річ виготовлена з турботою. Можливо, ви знайдете щось, що підійде для ваших пригод."
 DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_PumpkinMan,"Oh my head, that's a long story. By the way, I'd be looking for some nice treats. Lil bits of orange, yellow, and white. Makes a nice match with my noggin. I promise I won't trick ya.","Ох, моя голова, це довга історія. До речі, я б не відмовився від смаколиків. Трохи помаранчевого, жовтого і білого. Гарно пасує до моєї голови. Обіцяю, я тебе не обману."
 DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Santa,"Ho Ho Ho, Adventurer! You may not know me but I know you. My friend here Mookia, the winter Strix, has a sweet tooth. Bring me back candy canes and I will exchange gifts. Be swift!","Хо-хо-хо, шукач пригод! Ти можеш не знати мене, але я знаю тебе. Моя подруга Мукія, зимова Стрікс, дуже любить солодке. Принеси мені цукерки, і ми обміняємося подарунками. Поквапся!"
-DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Squire,Select the items you want to as your base gear. I’ll have your base gear ready whenever you need to quickly enter a dungeon. Please be sure to ‘set’ your base gear if you make any changes to your kit.​,Текст_ДизайнДані_Купець_Купець_Купець_Купець_Купець_Привітання_Привітання_Привітання
+DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Squire,Select the items you want to as your base gear. I’ll have your base gear ready whenever you need to quickly enter a dungeon. Please be sure to ‘set’ your base gear if you make any changes to your kit.​,"Виберіть предмети, які ви хочете використовувати у якості базового спорядження. Воно буде готове до використання кожен раз коли вам потрібно буде швидко увійти до підземелля. Не забудьте «встановити» ваше базове спорядження, якщо внесете будь-які зміни до вашого комплекту.​"
 DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Surgeon,Your health is my concern.,Ваше здоров'я - моя турбота.
 DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Tailor,Come take a look at my exquisite works!,Заходьте поглянути на мої вишукані роботи!
 DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_TavernMaster,"Welcome to the Tavern. Here, we have good ale and sturdy chairs. Make yourself at home, just don't cause any trouble.","Ласкаво просимо до таверни. Тут у нас є добрий ель і міцні стільці. Почувайтеся як вдома, тільки не завдавайте клопоту."
@@ -2548,9 +2565,9 @@ DC/Text_DesignData_Projectile_Projectile_OilLantern,Oil Lantern,Масляний
 DC/Text_DesignData_Projectile_Projectile_SurvivalBowArrow,Survival Bow Arrow,Стріла з лука для виживання
 DC/Text_DesignData_Projectile_Projectile_ThrowingKnife,Throwing Knife,Метальний ніж
 DC/Text_DesignData_Projectile_Projectile_Torch,Torch,Смолоскип
-DC/Text_DesignData_Projectile_Projectile_WindlassCrossbowBolt,Windlass Bolt,Болт лебідки
+DC/Text_DesignData_Projectile_Projectile_WindlassCrossbowBolt,Windlass Bolt,Болт до арбалета з лебідкою
 DC/Text_DesignData_Props_PropsInteract_BookshelfBook_Activate,Activate,Активувати
-DC/Text_DesignData_Props_PropsInteract_BookshelfBook_Activating,Activating...,Активую...
+DC/Text_DesignData_Props_PropsInteract_BookshelfBook_Activating,Activating...,Активація...
 DC/Text_DesignData_Props_PropsInteract_BookshelfBook_Deactivate,Deactivate,Деактивувати
 DC/Text_DesignData_Props_PropsInteract_BookshelfBook_Deactivating,Deactivating...,Деактивація...
 DC/Text_DesignData_Props_PropsInteract_Close,Close,Закрити
@@ -2563,33 +2580,33 @@ DC/Text_DesignData_Props_PropsInteract_GetItem,Get Item,Отримати пре�
 DC/Text_DesignData_Props_PropsInteract_Getting,Obtaining...,Отримання...
 DC/Text_DesignData_Props_PropsInteract_GoldenDoorUnlock,Unlock,Розблокувати
 DC/Text_DesignData_Props_PropsInteract_GoldenDoorUnlocking,Unlocking...,Розблокування...
-DC/Text_DesignData_Props_PropsInteract_Harvesting,Harvesting,Збирання врожаю
+DC/Text_DesignData_Props_PropsInteract_Harvesting,Harvesting,Збирання
 DC/Text_DesignData_Props_PropsInteract_HoardLoot,Loot Hoard,Скарбниця здобичі
 DC/Text_DesignData_Props_PropsInteract_LeverActivate,Activate Lever,Активувати важіль
 DC/Text_DesignData_Props_PropsInteract_LeverActivating,Activating...,Активувати...
 DC/Text_DesignData_Props_PropsInteract_LeverBroken,Lever Broken,Важіль зламано
 DC/Text_DesignData_Props_PropsInteract_LeverDeactivate,Deactivate Lever,Деактивувати важіль
 DC/Text_DesignData_Props_PropsInteract_LeverDeactivating,Deactivating...,Деактивація...
-DC/Text_DesignData_Props_PropsInteract_Loot,Loot,Мародерство
+DC/Text_DesignData_Props_PropsInteract_Loot,Loot,Обшукати
 DC/Text_DesignData_Props_PropsInteract_Mining,Mining,Видобуток
 DC/Text_DesignData_Props_PropsInteract_NPCInteract_Otto_Pat,Pet,Погладити
-DC/Text_DesignData_Props_PropsInteract_NPCInteract_Otto_Patting,Petting...,Погладжування...
-DC/Text_DesignData_Props_PropsInteract_Open,Open,Відкриття
+DC/Text_DesignData_Props_PropsInteract_NPCInteract_Otto_Patting,Petting...,Гладимо...
+DC/Text_DesignData_Props_PropsInteract_Open,Open,Відкрити
 DC/Text_DesignData_Props_PropsInteract_Opening,Opening...,Відкриття...
 DC/Text_DesignData_Props_PropsInteract_PedestalPortalScroll,Open Portal,Відкрити портал
-DC/Text_DesignData_Props_PropsInteract_PedestalPortalScroll_Open,Opening...,Текст_Документ_Дані_Документи_Документи_Документи_Взаємодія_П'єдестал_Портал_Прокрутити_Відкрити
+DC/Text_DesignData_Props_PropsInteract_PedestalPortalScroll_Open,Opening...,Відкриття...
 DC/Text_DesignData_Props_PropsInteract_PickLock,Pick Lock,Відімкнути замок
-DC/Text_DesignData_Props_PropsInteract_PickingLock,Picking Lock...,Відкриваю замок...
+DC/Text_DesignData_Props_PropsInteract_PickingLock,Picking Lock...,Відмикаєм замок...
 DC/Text_DesignData_Props_PropsInteract_PlayerInteract_Checking,Inspecting...,Оглядаю...
 DC/Text_DesignData_Props_PropsInteract_PlayerInteract_EquipmentCheck,Inspect,Оглянути
-DC/Text_DesignData_Props_PropsInteract_PlayerInteract_Pickpocket,Steal,Викрасти
+DC/Text_DesignData_Props_PropsInteract_PlayerInteract_Pickpocket,Steal,Вкрасти
 DC/Text_DesignData_Props_PropsInteract_PlayerInteract_Stealing,Stealing,Крадіжка.
 DC/Text_DesignData_Props_PropsInteract_Praying,Praying...,Молитва...
-DC/Text_DesignData_Props_PropsInteract_RemoveTrap,Disarm Trap,Знешкодити пастку.
-DC/Text_DesignData_Props_PropsInteract_Removing,Disarming...,Зняття з озброєння...
-DC/Text_DesignData_Props_PropsInteract_Return,Revert,Повернути назад.
+DC/Text_DesignData_Props_PropsInteract_RemoveTrap,Disarm Trap,Знешкодити пастку
+DC/Text_DesignData_Props_PropsInteract_Removing,Disarming...,Роззброєння...
+DC/Text_DesignData_Props_PropsInteract_Return,Revert,Повернути назад
 DC/Text_DesignData_Props_PropsInteract_Returning,Reverting,Повернути назад
-DC/Text_DesignData_Props_PropsInteract_Rope,Climb,Підйом.
+DC/Text_DesignData_Props_PropsInteract_Rope,Climb,Підйом
 DC/Text_DesignData_Props_PropsInteract_Searching,Searching...,Пошук...
 DC/Text_DesignData_Props_PropsInteract_SkullStoneDoorOpen,Unlock,Розблокування
 DC/Text_DesignData_Props_PropsInteract_SkullStoneDoorOpening,Unlocking...,Розблокування...
@@ -2597,11 +2614,11 @@ DC/Text_DesignData_Props_PropsInteract_TestInteracting,Interacting...,Взаєм
 DC/Text_DesignData_Props_PropsInteract_TestInteraction,Interact,Взаємодія
 DC/Text_DesignData_Props_PropsInteract_TurnOff,Turn Off,Вимкнути
 DC/Text_DesignData_Props_PropsInteract_TurnOn,Turn On,Увімкнути
-DC/Text_DesignData_Props_PropsInteract_TurningOff,Turning Off...,Вимкнення...
-DC/Text_DesignData_Props_PropsInteract_TurningOn,Turning On...,Увімкнути...
-DC/Text_DesignData_Props_PropsInteract_UninstallPavise,Uninstall,Видалити
+DC/Text_DesignData_Props_PropsInteract_TurningOff,Turning Off...,Гасимо...
+DC/Text_DesignData_Props_PropsInteract_TurningOn,Turning On...,Запалюємо...
+DC/Text_DesignData_Props_PropsInteract_UninstallPavise,Uninstall,Забрати
 DC/Text_DesignData_Props_PropsInteract_UninstallTrap,Uninstall Trap,Видалити пастку
-DC/Text_DesignData_Props_PropsInteract_Uninstalling,Uninstalling...,Видалення...
+DC/Text_DesignData_Props_PropsInteract_Uninstalling,Uninstalling...,Збираєм...
 DC/Text_DesignData_Props_PropsInteract_UseShrine,Use Shrine,Використати
 DC/Text_DesignData_Props_PropsInteract_View,View,Перегляд
 DC/Text_DesignData_Props_PropsInteract_Viewing,Viewing,Перегляд
@@ -2927,8 +2944,8 @@ Please check your invitation","Ви вже отримали запрошення
 DC/Text_Code_DCDataBlueprintLibrary_FAIL_FRIEND_ALREADY_SENT_INVITATION,You have already sent a friend invitation,Ви вже надіслали запрошення другу
 DC/Text_Code_DCDataBlueprintLibrary_FAIL_FRIEND_LIMIT_INVITE_RECEIVE,The target player can no longer receive friend invites.,Цільовий гравець більше не може отримувати запрошення друзів.
 DC/Text_Code_DCDataBlueprintLibrary_FAIL_FRIEND_LIMIT_TO_BE_FRIEND,"You cannot accept any more friends
-Consider deleting a friend If you need to add someone else.","Ви більше не можете прийняти запрошення
-Будь ласка, видаліть існуючого друга"
+Consider deleting a friend If you need to add someone else.","Ви більше не можете приймати запрошення
+Будь ласка, видаліть існуючого друга, якщо ви хочете добавити когось іншого"
 DC/Text_Code_DCDataBlueprintLibrary_FAIL_FRIEND_LIMIT_TO_INVITE,"You cannot invite more friends
 Please cancel the sent invitation","Ви не можете запросити більше друзів
 Будь ласка, скасуйте надіслане запрошення"
@@ -2965,7 +2982,7 @@ DC/Text_Code_DCDataBlueprintLibrary_Data_SetByCaller_FireMagicalReductionMod,Fir
 DC/Text_Code_DCDataBlueprintLibrary_Type_Item_Property_Spell_Fireball,Fireball,Болід
 DC/93039BB94B2EA574D9CC37A90EAEAD78,Text_Fires a bolt that deals <Exec.MagicalDamageBase>[0] #</> to the target.,"Text_Fires болт, який завдає <Exec.MagicalDamageBase>[0] #</> цілі."
 DC/Text_DataAsset_BoltofDarkness_Desc_BoltofDarknessDesc,Fires a bolt that deals <Exec.MagicalDamageBase>[0] _</> to the target.,"Стріляє болтом, який завдає <Exec.MagicalDamageBase>[0] _</> цілі."
-DC/Text_DataAsset_Creep_Desc_CreepDesc,"While crouch walking, reduce the volume of footsteps significantly.",Кроки більше не видають звуку під час ходьби навпочіпки.
+DC/Text_DataAsset_Creep_Desc_CreepDesc,"While crouch walking, reduce the volume of footsteps significantly.",Значно зменшує гучність кроків навпочіпки.
 DC/Text_Code_DCRecruitChannelListWidget_JoinMinLevelDesc,For at least level {0} or higher player only.,Лише для гравця принаймні {0} або вищого рівня.
 DC/Text_Code_DCMerchantDealTablePurchaseWidget_DungeonRecoveries_WellcomeText,Found these goodies on a poor soul left to rot in the dungeon. Kind of reminded me of you. I'll be willing to let them go for a pretty penny. I won't be able to hold onto these for too long.,"Знайшов ці смаколики на бідній душі, залишеній гнити в підземеллі. Чимось нагадав мені про тебе. Я буду готовий відпустити їх за копієчку. Я не зможу тримати їх занадто довго."
 DC/Text_Code_DCShopDataAsset_SalesChannelType_FoundersPack,Founder's Edition : Hold the Line,Видання засновника: Тримайте лінію
@@ -3019,7 +3036,7 @@ DC/Text_DataAsset_DemonArmor_Desc_DemonArmorDesc,Gain the ability to equip plate
 DC/Text_DataAsset_HandCrossbowMastery_Desc_HandCrossbowMasteryDesc,"Gain the ability to equip the Hand Crossbow, while using it gain <PhysicalDamageWeaponSecondary>+[0] _</>.","Отримуйте можливість екіпірувати ручний арбалет, при цьому використовуючи його, отримуйте <PhysicalDamageWeaponSecondary>+[0] _</>."
 DC/Text_DataAsset_SpellMemory2_Desc_SpellMemory2Desc,Gain the ability to memorize additional spells to use in the dungeon.,Отримайте здатність запам'ятовувати додаткові заклинання для використання в підземеллі.
 DC/Text_DataAsset_SpellMemory1_Desc_SpellMemory1Desc,Gain the ability to memorize spells to use in the dungeon.,Отримайте здатність запам'ятовувати заклинання для використання в підземеллі.
-DC/Text_DataAsset_WeaponMastery_Desc_WeaponMasteryDesc,Gain the ability to use any weapon.,"Отримай вміння користуватися будь-якою зброєю. Використовуючи нерідну зброю для свого класу, втрачайте <PhysicalDamageMod>[0]% _</> зброї."
+DC/Text_DataAsset_WeaponMastery_Desc_WeaponMasteryDesc,Gain the ability to use any weapon.,Дозволяє користуватися будь-якою зброєю.
 DC/Text_Code_DCDataBlueprintLibrary_StatisticsTypeText_GamePlay,Games Played,"Ігри, в які грають"
 DC/Text_Code_GameMenuOptionsPlatformWidget_GetLinkCodeButton,Get Link-Code,Отримати посилання-код
 DC/Text_Code_CommonPopupSWidget_TwoButtonGetRedstoneShard,Get Redstone Shards,Отримайте уламки Redstone
@@ -3538,8 +3555,8 @@ DC/Text_Code_MetaMerchantActor_Mindwipe_Fail_Impossible,The mindwipe is impossib
 DC/Text_DataAsset_Encore_Desc_EncoreDesc,The next song will automatically play at maximum speed and will be played perfectly.,Наступна пісня буде автоматично відтворена на максимальній швидкості і буде відтворена бездоганно.
 DC/Text_Code_CharacterCreateWidget_SquireCharacterCount,You have reached the maximum number of characters allowed for your account. Upgrade your account to Legendary status for more character slots.,"Ви досягли максимальної кількості символів, дозволеної для вашого акаунта. Оновіть свій акаунт до статусу Легендарний, щоб мати більше слотів для персонажів."
 DC/Text_Code_Marketplace_Request_Failed_ExpiredTransfer,"The payment transfer period has expired, and the payment has been destroyed.","Період переказу платежу закінчився, і платіж було знищено."
-DC/Text_DataAsset_AriaOfAlacrity_Desc_AriaOfAlacrityDesc,The performer gains <ActionSpeed>[0]/[1]/[2]% _</> for <Duration>[0]/[1]/[2] seconds</>. Song does not stack on itself.,Виконавець отримує <ActionSpeed>[0]/[1]/[2]% _</> на <Duration>[0]/[1]/[2] секунд</>. Пісня не накладається сама на себе.
-DC/Text_DataAsset_BeatsOfAlacrity_Desc_BeatsOfAlacrityDesc,The performer gains <MoveSpeedAdd>[0]/[1]/[2] _</> for <Duration>[0]/[1]/[2] seconds</>. Song does not stack on itself.,Виконавець отримує <MoveSpeedAdd>[0]/[1]/[2] _</> впродовж <Duration>[0]/[1]/[2] секунд</>. Пісня не накладається сама на себе.
+DC/Text_DataAsset_AriaOfAlacrity_Desc_AriaOfAlacrityDesc,The performer gains <ActionSpeed>[0]/[1]/[2]% _</> for <Duration>[0]/[1]/[2] seconds</>. Song does not stack on itself.,Виконавець отримує <ActionSpeed>[0]/[1]/[2]% _</> на <Duration>[0]/[1]/[2] секунд</>. Ефект пісні не сумується.
+DC/Text_DataAsset_BeatsOfAlacrity_Desc_BeatsOfAlacrityDesc,The performer gains <MoveSpeedAdd>[0]/[1]/[2] _</> for <Duration>[0]/[1]/[2] seconds</>. Song does not stack on itself.,Виконавець отримує <MoveSpeedAdd>[0]/[1]/[2] _</> впродовж <Duration>[0]/[1]/[2] секунд</>. Ефект пісні не сумується.
 DC/Text_Code_DCCrossPlatformLinkManager_LinkResult_Fail_DuplicatePlatform,That account was already linked to another account using this platform.,Цей обліковий запис вже був пов'язаний з іншим обліковим записом за допомогою цієї платформи.
 DC/Text_Code_Marketplace_Request_Failed_Buy_PeriodExpired,This item has expired.,Термін дії цього елемента закінчився.
 DC/Text_Code_PlayWidget_AutoMatchRegisterFail_RegionLatencyLimit,Your latency to this server is too high. Please select a different server region.,"Занадто велика затримка з'єднання з цим сервером. Будь ласка, виберіть інший регіон сервера."
@@ -3705,7 +3722,7 @@ DC/Text_DataAsset_SpiritMagicMastery_Desc_SpiritMagicMasteryDesc,"When you cast 
 DC/Text_DataAsset_StilettoDaggerUniqueEffect_Desc_StilettoDaggerUniqueEffectDesc,"When you deal damage to a target, cause a death flower to bloom. After 3 have bloomed, the death blossoms explode, dealing <Exec.MagicalDamageBase>[0] _</>.","Коли ви завдаєте шкоди цілі, змусьте квітку смерті розпуститися. Після того, як 3 відцвітуть, квіти смерті вибухають, завдаючи <Exec.MagicalDamageBase>[0] _</>."
 DC/Text_DataAsset_QuarterstaffUniqueEffect_Desc_QuarterstaffUniqueEffectDesc,"When you deal damage to a target, gain <Constant Type=""Float"" Format=""FromZero"">[0]%</> chance to emit a poison cloud for <Constant Type=""Integer"">[1] seconds</>, dealing <Exec.MagicalDamageBase>[0] _</> every second to enemies within its area. Up to <Constant Type=""Integer"">[2]</> poison clouds can exist at a time and the wielder is immune to damage from poison clouds.","Коли ви завдаєте шкоди ворогу, отримайте шанс випустити отруйну хмару протягом 35 секунд, завдаючи <Exec.MagicalDamageBase>[0] _</> кожні 2 секунди, перебуваючи в цій області. Володар цієї палиці несприйнятливий до пошкоджень отруйними хмарами."
 DC/Text_DataAsset_ArcaneFeedback_Desc_ArcaneFeedbackDesc,"When you deal damage with an arcane spell, gain a stacking bonus granting <SpellCastingSpeed>[0]% _</> and <MagicalArcaneDamageMod>[0]% _</> per stack for <Duration>[0] seconds</>. This skill can stack up to 5 times and the duration resets with each successful stack.","Коли ви завдаєте шкоди таємним заклинанням за допомогою таємничого заклинання, отримуйте бонус до накопичення, що дає <SpellCastingSpeed>[0]% _</> та <MagicalArcaneDamageMod>[0]% _</> за заряд протягом <Duration>[0] секунд</>. Ця навичка може накопичуватися до 5 разів, а тривалість обнуляється з кожним успішним стеком."
-DC/Text_DataAsset_SoulCollector_Desc_SoulCollectorDesc,"When you deal the final blow to an enemy, one darkness shard is collected. Gain <MagicalDarkDamageMod>[0]% _</> for each shard collected, up to a maximum of 5 shards. When a dark magic spell is cast, consume all collected shards.","Коли ви завдаєте фінального удару ворогу, збирається один уламок темряви. Підсилення <MagicalDarkDamageMod>[0]% _</> за кожен зібраний уламок, максимум до 10 уламків. Коли буде застосовано заклинання темної магії, з'їжте всі зібрані осколки."
+DC/Text_DataAsset_SoulCollector_Desc_SoulCollectorDesc,"When you deal the final blow to an enemy, one darkness shard is collected. Gain <MagicalDarkDamageMod>[0]% _</> for each shard collected, up to a maximum of 5 shards. When a dark magic spell is cast, consume all collected shards.","Коли ви завдаєте фінального удару ворогу, збирається один уламок темряви. Підсилення <MagicalDarkDamageMod>[0]% _</> за кожен зібраний уламок, максимум до 5 уламків. Коли буде застосовано заклинання темної магії, з'їжте всі зібрані осколки."
 DC/Text_DataAsset_Brewmaster_Desc_BrewmasterDesc,"When you drink alcohol, you no longer exhibit the detrimental drunk effects and gain <StrengthBase>[0] _</>.","Коли ви вживаєте алкоголь, ви більше не проявляєте згубного впливу алкоголю і отримуєте <StrengthBase>[0] _</>."
 DC/Text_DataAsset_ForceOfNature_Desc_ForceOfNatureDesc,"When you heal a target, the target gains <PhysicalPower>[0] _</> for <Duration>[0] seconds</>.","Коли ви лікуєте ціль, ціль отримує <PhysicalPower>[0] _</> протягом <Duration>[0] секунд</>."
 DC/Text_DataAsset_HalberdUniqueEffect_Desc_HalberdUniqueEffectDesc,"When you hit an enemy, deal an additional <Exec.MagicalDamageBase>[0] _</> and burn the target for <Duration>[1] seconds</>.","Коли ви влучаєте у ворога, завдайте додатковий <Exec.MagicalDamageBase>[0] _</> і спалюйте ціль протягом <Duration>[1] секунд</>."
