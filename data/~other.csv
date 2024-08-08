@@ -1493,20 +1493,20 @@ DC/Text_DesignData_Dungeon_DungeonModule_Forest_A,Forest A,Ліс А
 DC/Text_DesignData_Dungeon_DungeonModule_Forest_B,Forest B,Ліс B
 DC/Text_DesignData_Dungeon_DungeonModule_Forest_C,Forest C,Ліс С
 DC/Text_DesignData_Dungeon_DungeonModule_Four_Rooms,Four Rooms,Чотири кімнати
-DC/Text_DesignData_Dungeon_DungeonModule_Gated_Rooms,Gated Rooms,Закриті номери
-DC/Text_DesignData_Dungeon_DungeonModule_GoblinCave_Bridge,Goblin Caves Bridge,Міст до печер Гоблінів
-DC/Text_DesignData_Dungeon_DungeonModule_GoblinCave_Hall,Goblin Caves Hall,Зал Печер Гоблінів
-DC/Text_DesignData_Dungeon_DungeonModule_GoblinPrisons_A,Goblin Prisons A,Гоблінські в'язниці A
-DC/Text_DesignData_Dungeon_DungeonModule_GoblinPrisons_B,Goblin Prisons B,Гоблінські в'язниці B
-DC/Text_DesignData_Dungeon_DungeonModule_GoblinPrisons_C,Goblin Prisons C,Гоблінські в'язниці C
+DC/Text_DesignData_Dungeon_DungeonModule_Gated_Rooms,Gated Rooms,Закриті Кімнати
+DC/Text_DesignData_Dungeon_DungeonModule_GoblinCave_Bridge,Goblin Caves Bridge,Міст Печери Гоблінів
+DC/Text_DesignData_Dungeon_DungeonModule_GoblinCave_Hall,Goblin Caves Hall,Зал Печери Гоблінів
+DC/Text_DesignData_Dungeon_DungeonModule_GoblinPrisons_A,Goblin Prisons A,В'язниця Гоблінів A
+DC/Text_DesignData_Dungeon_DungeonModule_GoblinPrisons_B,Goblin Prisons B,В'язниця Гоблінів B
+DC/Text_DesignData_Dungeon_DungeonModule_GoblinPrisons_C,Goblin Prisons C,В'язниця Гоблінів C
 DC/Text_DesignData_Dungeon_DungeonModule_Goblin_Bandits,Goblin Bandits,Гоблінські розбійники
-DC/Text_DesignData_Dungeon_DungeonModule_Goblin_Maze,Goblin Maze,Гоблінський лабіринт
-DC/Text_DesignData_Dungeon_DungeonModule_Goblin_Mine,Goblin Mine,Гоблінська шахта
-DC/Text_DesignData_Dungeon_DungeonModule_Goblin_Rooms,Goblin Rooms,Гоблінські кімнати
-DC/Text_DesignData_Dungeon_DungeonModule_Goblin_Town,Goblin Town,Гоблінське місто
+DC/Text_DesignData_Dungeon_DungeonModule_Goblin_Maze,Goblin Maze,Гоблінський Лабіринт
+DC/Text_DesignData_Dungeon_DungeonModule_Goblin_Mine,Goblin Mine,Гоблінська Шахта
+DC/Text_DesignData_Dungeon_DungeonModule_Goblin_Rooms,Goblin Rooms,Кімнати Гоблінів
+DC/Text_DesignData_Dungeon_DungeonModule_Goblin_Town,Goblin Town,Місто Гоблінів
 DC/Text_DesignData_Dungeon_DungeonModule_Graveyard,Graveyard,Цвинтар
-DC/Text_DesignData_Dungeon_DungeonModule_Greathall,Greathall,Грейтхолл
-DC/Text_DesignData_Dungeon_DungeonModule_Guard_Posts,Guard Posts,Вартові пости
+DC/Text_DesignData_Dungeon_DungeonModule_Greathall,Greathall,Головний Зал
+DC/Text_DesignData_Dungeon_DungeonModule_Guard_Posts,Guard Posts,Вартовий Пост
 DC/Text_DesignData_Dungeon_DungeonModule_Hall_A,Hall A,Зал А
 DC/Text_DesignData_Dungeon_DungeonModule_Hall_B,Hall B,Зал B
 DC/Text_DesignData_Dungeon_DungeonModule_Hall_C,Hall C,Зал C
@@ -1521,7 +1521,7 @@ DC/Text_DesignData_Dungeon_DungeonModule_IceAbyss_Pillars,Pillars,Стовпи
 DC/Text_DesignData_Dungeon_DungeonModule_IceAbyss_ReversedPyramid,Reversed Pyramid,Перевернута піраміда
 DC/Text_DesignData_Dungeon_DungeonModule_IceAbyss_ShallowValley,Shallow Valley,Неглибока долина
 DC/Text_DesignData_Dungeon_DungeonModule_IceAbyss_StaircaseHill,Staircase Hill,Сходовий пагорб
-DC/Text_DesignData_Dungeon_DungeonModule_IceAbyss_WyvernLair,Wyvern Lair,Лігво Виверна
+DC/Text_DesignData_Dungeon_DungeonModule_IceAbyss_WyvernLair,Wyvern Lair,Лігво Віверни
 DC/Text_DesignData_Dungeon_DungeonModule_IceCave_Altar,Altar,Вівтар
 DC/Text_DesignData_Dungeon_DungeonModule_IceCave_Barricade,Barricade,Барикада
 DC/Text_DesignData_Dungeon_DungeonModule_IceCave_Bridge,Bridge,Міст
@@ -1581,7 +1581,7 @@ DC/Text_DesignData_Dungeon_DungeonModule_Storeroom,Storeroom,Комора
 DC/Text_DesignData_Dungeon_DungeonModule_Swamp,Swamp,Болото
 DC/Text_DesignData_Dungeon_DungeonModule_Tombs,Tombs,Могили
 DC/Text_DesignData_Dungeon_DungeonModule_Tower_Bridge,Tower Bridge,Тауерський міст
-DC/Text_DesignData_Dungeon_DungeonModule_Trap_Hall,Trap Hall,Пасткова зала
+DC/Text_DesignData_Dungeon_DungeonModule_Trap_Hall,Trap Hall,Зал з Пастками
 DC/Text_DesignData_Dungeon_DungeonModule_Treasure_Room,Treasure Room,Кімната скарбів
 DC/Text_DesignData_Dungeon_DungeonModule_Twin_Cemeteries,Twin Cemeteries,Кладовища-близнюки
 DC/Text_DesignData_Dungeon_DungeonModule_Underground_Altar,Underground Altar,Підземний вівтар
@@ -1697,15 +1697,15 @@ DC/Text_DesignData_LobbyEmote_LobbyEmote_Defeat,Defeat,Поразка
 DC/Text_DesignData_LobbyEmote_LobbyEmote_ThumbsUp,Thumbs Up,Підніміть великі пальці вгору
 DC/Text_DesignData_LobbyEmote_LobbyEmote_WeWantFood,We Want Food!,Ми хочемо їсти!
 DC/Text_DesignData_Marketplace_Name_GoldCoin,Marketplace,Маркетплейс
-DC/Text_DesignData_Merchant_MerchantAffinity_Friendly,Friendly,Дружній
-DC/Text_DesignData_Merchant_MerchantAffinity_Hated,Hated,Ненавиджу
-DC/Text_DesignData_Merchant_MerchantAffinity_Loved,Loved,Коханий
+DC/Text_DesignData_Merchant_MerchantAffinity_Friendly,Friendly,Дружба
+DC/Text_DesignData_Merchant_MerchantAffinity_Hated,Hated,Зневага
+DC/Text_DesignData_Merchant_MerchantAffinity_Loved,Loved,Повага
 DC/Text_DesignData_Merchant_MerchantAffinity_Neutral,Neutral,Нейтральний
-DC/Text_DesignData_Merchant_MerchantAffinity_Unfriendly,Unfriendly,Недружній
+DC/Text_DesignData_Merchant_MerchantAffinity_Unfriendly,Unfriendly,Недовіра
 DC/Text_DesignData_Merchant_Merchant_Alchemist,Alchemist,Алхімік
 DC/Text_DesignData_Merchant_Merchant_Armourer,Armourer,Коваль
-DC/Text_DesignData_Merchant_Merchant_FortuneTeller,Fortune Teller,Ворожбит
-DC/Text_DesignData_Merchant_Merchant_GoblinMerchant,Goblin Merchant,Гоблінський торговець
+DC/Text_DesignData_Merchant_Merchant_FortuneTeller,Fortune Teller,Ворожка
+DC/Text_DesignData_Merchant_Merchant_GoblinMerchant,Goblin Merchant,Гоблін Торговець
 DC/Text_DesignData_Merchant_Merchant_Leathersmith,Leathersmith,Шкіряник
 DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Alchemist,Why don't you try out one of my concoctions. It's a blast!,Чому б тобі не спробувати щось з мого варива. Це вибух!
 DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Armourer,"Welcome, in search of armor? You've come to the right place. Here, we focus on strength and durability. Let's get you fitted for the journey ahead.","Ласкаво просимо, в пошуках обладунків? Ви прийшли в потрібне місце. Тут ми робимо ставку на міцність і довговічність. Давай підготуємо тебе до майбутньої подорожі."
@@ -1723,8 +1723,8 @@ DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Treasurer,Gold and silver 
 DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Valentine,"Greetings adventurer, I am traveling far and wide to spread the message of love. Go forth and bring back these sweet colorful treats to exchange for other lovely delights.","Вітаю тебе, шукач пригод, я подорожую далеко і широко, щоб поширювати послання любові. Іди і принеси ці солодкі барвисті ласощі, щоб обміняти їх на інші чудові подарунки."
 DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Weaponsmith,"So many adventurers, so little time. I need to bust out these weapons as fast as I can.","Так багато шукачів пригод, так мало часу. Мені потрібно дістати цю зброю якнайшвидше."
 DC/Text_DesignData_Merchant_Merchant_MerchantGreeting_Woodsman,"If you intend to survive below, you've come to the right person.","Якщо ви маєте намір вижити внизу, ви прийшли до потрібної людини."
-DC/Text_DesignData_Merchant_Merchant_PumpkinMan,Jack O' Lantern,Джек Ліхтарник
-DC/Text_DesignData_Merchant_Merchant_Santa,Nicholas,Ніколас
+DC/Text_DesignData_Merchant_Merchant_PumpkinMan,Jack O' Lantern,Джек-Ліхтар
+DC/Text_DesignData_Merchant_Merchant_Santa,Nicholas,Миколай
 DC/Text_DesignData_Merchant_Merchant_Squire,Squire,Зброєносець
 DC/Text_DesignData_Merchant_Merchant_Surgeon,Surgeon,Хірург
 DC/Text_DesignData_Merchant_Merchant_Tailor,Tailor,Кравець
@@ -3384,7 +3384,7 @@ DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_TimeLimitFinalization
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_PendingTransaction,User has a pending transaction that must be completed before beginning a new transaction.,
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_AccountIsNotAllowedToPurchase,Account is not allowed to purchase.,
 DC/Text_DataAsset_IMC_KBM_PlayerController_Mappings_DisplayName_QuestLog_Secondary,Quest Log,
-DC/Text_DesignData_Merchant_Merchant_SkeletonFootman,Skeleton,
+DC/Text_DesignData_Merchant_Merchant_SkeletonFootman,Skeleton,"~ Скелет ~"
 DC/Text_DesignData_ItemSkin_ItemSkin_GCXTorch_2024,GCX 2024 Torch,
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_OperationFailed,The operation failed.,
 DC/Text_DesignData_Props_PropsInteract_Modify,Invoke,
