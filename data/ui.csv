@@ -182,8 +182,8 @@ DC/Text_UI_WB_LegendaryStatusPopup_ComingSoon,Available for purchase soon.,Не�
 DC/Text_UI_WB_ShopAccountStatusUpgrade_ComingSoon,Available for purchase soon.,Незабаром буде доступний для покупки.
 DC/Text_UI_WB_LeaderBoard_Score,Score,Оцінка
 DC/Text_UI_WB_Credit_BackBtn,Back,Назад
-DC/Text_UI_v2_WB_MerchantPage_BaseGear,Base Gear,Базове спорядження
-DC/Text_UI_WB_MerchantDealTableBaseGear_SubTitle,Base Gear Set,Базовий комплект екіпіровки
+DC/Text_UI_v2_WB_MerchantPage_BaseGear,Base Gear,Базове Спорядження
+DC/Text_UI_WB_MerchantDealTableBaseGear_SubTitle,Base Gear Set,Набір Базового Спорядження
 DC/Text_UI_Text_UI_WB_LegendaryStatusBenefitSlot_Desc_03,Unlocks {0}hrs after ‘Legendary’ status is activated.,"Стає доступним через {0} годин після активації статусу ""Легендарний""."
 DC/Text_UI_WB_InviteParty_Menu_Blocked,Blocked,Заблоковано
 DC/Text_UI_WB_ViewMarketSlot_ButtonBuy,Buy,Купити
@@ -255,7 +255,7 @@ DC/Text_UI_WB_TavernStartTimer_TimeLeft1,Enjoy your adventure,Насолоджу
 DC/Text_UI_WB_CrossPlatformLinkPopup_EnterCodeHint,Enter Code,Введіть код
 DC/Text_UI_WB_MerchantFilter_EnterTextToFind,Enter text to find,"Введіть текст, щоб знайти"
 DC/Text_UI_WB_ViewMarketFilter_EnterTextToFind,Enter text to find,"Введіть текст, щоб знайти"
-DC/Text_UI_WB_MerchantDealTableBaseGear_BtnEquip,Equip Base Gear,Обладнайте базове спорядження
+DC/Text_UI_WB_MerchantDealTableBaseGear_BtnEquip,Equip Base Gear,Одягнути Базове Спорядження
 DC/Text_UI_WB_DungeonResult_AP_EscapeMod,Escape Multiplier,Множник втечі
 DC/Text_UI_WB_MarketplaceSellTable_Expired,Expired,Минув
 DC/Text_UI_WB_SellItemSlot_Expired,Expired,Минув
@@ -494,7 +494,7 @@ DC/Text_UI_WB_TrainingLearningTokensPanel_SelectedClassMaster,Selected Class Mas
 DC/Text_UI_WB_TrainingPopupRedeemCheckLearning_Title,Selected Class Master,Обраний майстер класу
 DC/Text_UI_WB_MarketplaceSellTable_SellingPrice,Selling Price,Ціна продажу
 DC/Text_UI_WB_InviteParty_Menu_Sendaninvite,Sent Invitations,Надіслані запрошення
-DC/Text_UI_WB_MerchantDealTableBaseGear_BtnSet,Set Base Gear,Встановити базову передачу
+DC/Text_UI_WB_MerchantDealTableBaseGear_BtnSet,Set Base Gear,Зберегти Базове Спорядження
 DC/Text_UI_WB_LoginVoipInitializePopup_Setting,Setting,Налаштування
 DC/Text_UI_WB_ClassGroup_ShapeShift,Shapeshift,Зміна форми
 DC/Text_UI_WB_ClassShapeShiftEquippedGroup_ShapeShiftMemoryRequired,Shapeshift Memory Required,Потрібна пам'ять для перемикання форми

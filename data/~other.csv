@@ -262,7 +262,7 @@ DC/Text_Code_DCPlayerController_VoipModePartyOnly,VoIP - Party Only,VoIP - Ті�
 DC/Text_Code_DCPlayerController_VoipModeProximity,VoIP - Proximity,VoIP - Поблизу
 DC/Text_Code_RecruitChannelWidget_RemainTime,Please wait {0} second(s) before chatting.,"Будь ласка, зачекайте {0} секунд перед тим, як почати чат."
 DC/Text_Code_PlayerInventoryWidget_Title,Inventory,Інвентар
-DC/Text_Code_MetaMerchantActor_Squire_Fail_NoDirtyItem,This is already set as the base gear.,Це вже встановлено як базова комплектація.
+DC/Text_Code_MetaMerchantActor_Squire_Fail_NoDirtyItem,This is already set as the base gear.,Це вже збережене як базове спорядження.
 DC/Text_Code_DCShopItemInfo_RedstoneShardPriceFormat,${0} USD,
 DC/Text_Code_UDCMetaTradeComponent_SuppliedItemsNotAllowed,'Supplied' status items can not be linked or traded.,"Предмети зі статусом ""У наявності"" не можна зв'язати або продати."
 DC/Text_DataAsset_CharacterSkinDescData_FrostWalker_FrostWalkerDesc,"<ActionSpeed>-[0]% #</>
@@ -2475,7 +2475,7 @@ DC/Text_Code_Marketplace_Cancel_Fail,Failed to Cancel Listing Item. error code :
 DC/Text_Code_ClientAccountSubsystem_KnightLink_Fail,Failed to Knight Link. error code : {0},Не вдалося Лицареві Лінку. Код помилки : {0}
 DC/Text_Code_Marketplace_Register_Fail,Failed to Listing Item. error code : {0},Не вдалося перерахувати товар. Код помилки : {0}
 DC/Text_Code_Marketplace_Transfer_Fail,Failed to Transfer Item. error code : {0},Не вдалося передати товар. Код помилки : {0}
-DC/Text_Code_MetaMerchantActor_EquipBaseGear_Fail,Failed to equip base gears. error code : {0},Не вдалося оснастити базові шестерні. Код помилки : {0}
+DC/Text_Code_MetaMerchantActor_EquipBaseGear_Fail,Failed to equip base gears. error code : {0},Не вдалося одягти базове спорядження. Код помилки : {0}
 DC/Text_Code_ClientAccountSubsystem_PlatformLinkCodeGenResponse_Fail,Failed to get the link code. Error Code: {0},Не вдалося отримати код посилання. Код помилки: {0}
 DC/Text_Code_DCCrossPlatformLinkManager_LinkResult_Fail_General,Failed to link cross platform. error code : {0},Не вдалося зв'язати кросплатформність. Код помилки : {0}
 DC/Text_Code_ClientAccountSubsystem_Mindwipe_Fail,Failed to mindwipe. error code : {0},Не зміг витерти розум. Код помилки : {0}
@@ -2484,7 +2484,7 @@ DC/Text_Code_Training_RedeemLearningToken_Failed,Failed to request Redeem learni
 DC/Text_Code_Training_ReceiveReward_Failed,Failed to request receive reward. error code : {0},Не зміг запросити винагороду. Код помилки : {0}
 DC/Text_Code_Training_ReceiveClassAbility_Failed,Failed to request receive ability. error code : {0},Не вдалося запросити можливість отримання. Код помилки : {0}
 DC/Text_Code_Training_RedeemRewardToken_Failed,Failed to request redeem reward token. error code : {0},Не вдалося надіслати запит на активацію токена винагороди. Код помилки : {0}
-DC/Text_Code_MetaMerchantActor_SaveBaseGear_Fail,Failed to set base gears. error code : {0},Не вдалося встановити базові шестерні. Код помилки : {0}
+DC/Text_Code_MetaMerchantActor_SaveBaseGear_Fail,Failed to set base gears. error code : {0},Не вдалося зберегти базове спорядження. Код помилки : {0}
 DC/Text_Code_Marketplace_Request_Failed_ItemTransferFailed,Failed to transfer the item.,Не вдалося передати товар.
 DC/Text_Fame_Tablist_Name,Fame,Слава
 DC/Text_Code_DCDataBlueprintLibrary_EDCCharacterClass_Fighter,Fighter,Боєць
@@ -2841,7 +2841,7 @@ DC/Text_DataAsset_ShriekOfWeakness_Desc_ShriekOfWeaknessDesc,Nearby enemies lose
 DC/Text_Code_PlayWidget_AutoMatchRegisterFail_Shortage_Enterance_Level,You need level {0} or higher to start.,Для початку вам потрібен рівень {0} або вище.
 DC/Text_Code_PlayWidget_FailPartyReady_Shoratage_Entrance_Level,You need level {0} or higher to ready.,"Щоб підготуватися, вам потрібен рівень {0} або вище."
 DC/Text_Code_DCDataBlueprintLibrary_Type_Monster_Grade_Nightmare,Nightmare Grade,Оцінка кошмару
-DC/Text_Code_MerchantComponent_BaseGear_NoEligibleBaseGearSlots,No eligible Base Gear slots​.,Немає відповідних слотів Base Gear.
+DC/Text_Code_MerchantComponent_BaseGear_NoEligibleBaseGearSlots,No eligible Base Gear slots​.,Немає відповідних слотів для спорядження.
 DC/Text_Code_DCInventoryTask_SetMoveTargetInfo_FindEmptyIndex,No empty slots found.,Порожніх слотів не знайдено.
 DC/Text_DataAsset_AbilityBlockedReason_Interactable_NotHavePermission,You cannot get this item yet.,Отримати цей предмет поки що не можна.
 DC/Text_Code_Marketplace_Request_Failed_NoSpaceRetrieve,The storage space for retrieving the registered items is insufficient.,Місця для зберігання зареєстрованих товарів недостатньо.
@@ -3079,7 +3079,7 @@ DC/Text_Code_Training_Request_Failed_NotMasterClass,The selected character is no
 DC/Text_Code_LearnTrainingTokenWidget_CannotSelect_NotMaster,The selected character is not a master.,Обраний персонаж не є майстром.
 DC/Text_DataAsset_NaturesTouch_Desc_NaturesTouchDesc,The target gains <Exec.AddRecoverableHealth>[0] _</>. Also healed <Exec.MagicalHealBase>[1] _</> over <Duration>[1] seconds</>. Casts instantly and casts on yourself if no target is found.,"Ціль отримує <Exec.AddRecoverableHealth>[0] _</>. Також зцілюється <Exec.MagicalHealBase>[1] _</> протягом <Duration>[1] секунд</>. Кастується миттєво і кастується на себе, якщо ціль не знайдено."
 DC/Text_Code_DCAccountStatusUpgradeShopWidget_AlreadyUpgraded,The upgrade has already been completed.,Оновлення вже завершено.
-DC/Text_Code_Merchant_EquipBaseGears_Success_NotAll,There are base gears that could not be supplied due to occupied slots.,"Існує базове спорядження, яке не може бути поставлене через зайняті слоти."
+DC/Text_Code_Merchant_EquipBaseGears_Success_NotAll,There are base gears that could not be supplied due to occupied slots.,"Неможливо одягнути деяке базове спорядження, оскільки деяки слоти зайняті."
 DC/Text_Code_DCCrossPlatformLinkManager_LinkResult_Fail_HasPaymentHistory,We cannot link to this platform account as it would overwrite all purchases. Please create a new account on this platform.,"Ми не можемо прив'язати акаунт до цієї платформи, оскільки це призведе до перезапису всіх покупок. Будь ласка, створіть новий обліковий запис на цій платформі."
 DC/Text_Code_DCCrossPlatformLinkManager_LinkResult_Fail_AlreadyLinked,This platform has already been linked.,Ця платформа вже підключена.
 DC/Text_Code_Merchant_EquipBaseGears_Failed_CannotEquip,There is an item that cannot be equipped.,"Існує предмет, який не може бути екіпірований."
