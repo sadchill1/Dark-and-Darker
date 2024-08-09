@@ -1,26 +1,26 @@
 key,source,target
-DC/Text_DesignData_Item_Item_AdventurerBoots_1001,Adventurer Boots,Черевики шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerBoots_2001,Adventurer Boots,Черевики шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerBoots_3001,Adventurer Boots,Черевики шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerBoots_4001,Adventurer Boots,Черевики шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerBoots_5001,Adventurer Boots,Черевики Adventurer
-DC/Text_DesignData_Item_Item_AdventurerBoots_6001,Adventurer Boots,Черевики Adventurer
-DC/Text_DesignData_Item_Item_AdventurerBoots_7001,Adventurer Boots,Черевики авантюриста
-DC/Text_DesignData_Item_Item_AdventurerBoots_RS,Rubysilver Adventurer Boots,Черевики Adventurer Rubysilver
-DC/Text_DesignData_Item_Item_AdventurerCloak_1001,Adventurer Cloak,Плащ шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerCloak_2001,Adventurer Cloak,Плащ шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerCloak_3001,Adventurer Cloak,Плащ шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerCloak_4001,Adventurer Cloak,Плащ шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerCloak_5001,Adventurer Cloak,Плащ шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerCloak_6001,Adventurer Cloak,Плащ шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerCloak_7001,Adventurer Cloak,Плащ шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerTunic_1001,Adventurer Tunic,Туніка шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerTunic_2001,Adventurer Tunic,Туніка шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerTunic_3001,Adventurer Tunic,Туніка шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerTunic_4001,Adventurer Tunic,Туніка шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerTunic_5001,Adventurer Tunic,Туніка шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerTunic_6001,Adventurer Tunic,Туніка шукача пригод
-DC/Text_DesignData_Item_Item_AdventurerTunic_7001,Adventurer Tunic,Туніка шукача пригод
+DC/Text_DesignData_Item_Item_AdventurerBoots_1001,Adventurer Boots,Черевики Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerBoots_2001,Adventurer Boots,Черевики Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerBoots_3001,Adventurer Boots,Черевики Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerBoots_4001,Adventurer Boots,Черевики Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerBoots_5001,Adventurer Boots,Черевики Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerBoots_6001,Adventurer Boots,Черевики Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerBoots_7001,Adventurer Boots,Черевики Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerBoots_RS,Rubysilver Adventurer Boots,Черевики Авантюриста з Рубінового Срібла
+DC/Text_DesignData_Item_Item_AdventurerCloak_1001,Adventurer Cloak,Плащ Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerCloak_2001,Adventurer Cloak,Плащ Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerCloak_3001,Adventurer Cloak,Плащ Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerCloak_4001,Adventurer Cloak,Плащ Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerCloak_5001,Adventurer Cloak,Плащ Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerCloak_6001,Adventurer Cloak,Плащ Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerCloak_7001,Adventurer Cloak,Плащ Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerTunic_1001,Adventurer Tunic,Туніка Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerTunic_2001,Adventurer Tunic,Туніка Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerTunic_3001,Adventurer Tunic,Туніка Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerTunic_4001,Adventurer Tunic,Туніка Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerTunic_5001,Adventurer Tunic,Туніка Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerTunic_6001,Adventurer Tunic,Туніка Авантюриста
+DC/Text_DesignData_Item_Item_AdventurerTunic_7001,Adventurer Tunic,Туніка Авантюриста
 DC/Text_DesignData_Item_Item_Ale_1001,Ale,Ель
 DC/Text_DesignData_Item_Item_Ale_2001,Ale,Ель
 DC/Text_DesignData_Item_Item_Ale_3001,Ale,Ель
@@ -41,7 +41,7 @@ DC/Text_DesignData_Item_Item_ArmingSword_3001,Arming Sword,Піхотний ме
 DC/Text_DesignData_Item_Item_ArmingSword_4001,Arming Sword,Піхотний меч
 DC/Text_DesignData_Item_Item_ArmingSword_5001,Arming Sword,Піхотний меч
 DC/Text_DesignData_Item_Item_ArmingSword_6001,Arming Sword,Піхотний меч
-DC/Text_DesignData_Item_Item_ArmingSword_7001,Kuma’s Claw,Піхотний меч
+DC/Text_DesignData_Item_Item_ArmingSword_7001,Kuma’s Claw,Кіготь Куми
 DC/Text_DesignData_Item_Item_Arrow_2001,Arrow,Стріла
 DC/Text_DesignData_Item_Item_AxeOfRighteousness_3001,Axe of Righteousness,Сокира Праведності
 DC/Text_DesignData_Item_Item_BadgerPendant_3001,Badger Pendant,Підвіска борсука
@@ -81,13 +81,13 @@ DC/Text_DesignData_Item_Item_Bardiche_7001,Bardiche,Бердиш
 DC/Text_DesignData_Item_Item_BareHandRight,Bare Hand Right,Голі руки направо
 DC/Text_DesignData_Item_Item_BareHands,Bare Hands,Голі руки
 DC/Text_DesignData_Item_Item_BatClaw,Bat Claw,Кажанячий кіготь
-DC/Text_DesignData_Item_Item_BattleAxe_1001,Battle Axe,Бойова сокира
-DC/Text_DesignData_Item_Item_BattleAxe_2001,Battle Axe,Бойова сокира
-DC/Text_DesignData_Item_Item_BattleAxe_3001,Battle Axe,Бойова сокира
-DC/Text_DesignData_Item_Item_BattleAxe_4001,Battle Axe,Бойова сокира
-DC/Text_DesignData_Item_Item_BattleAxe_5001,Battle Axe,Бойова сокира
-DC/Text_DesignData_Item_Item_BattleAxe_6001,Battle Axe,Бойова сокира
-DC/Text_DesignData_Item_Item_BattleAxe_7001,Echo of Screams,Відлуння криків
+DC/Text_DesignData_Item_Item_BattleAxe_1001,Battle Axe,Бойова Сокира
+DC/Text_DesignData_Item_Item_BattleAxe_2001,Battle Axe,Бойова Сокира
+DC/Text_DesignData_Item_Item_BattleAxe_3001,Battle Axe,Бойова Сокира
+DC/Text_DesignData_Item_Item_BattleAxe_4001,Battle Axe,Бойова Сокира
+DC/Text_DesignData_Item_Item_BattleAxe_5001,Battle Axe,Бойова Сокира
+DC/Text_DesignData_Item_Item_BattleAxe_6001,Battle Axe,Бойова Сокира
+DC/Text_DesignData_Item_Item_BattleAxe_7001,Echo of Screams,Відлуння Криків
 DC/Text_DesignData_Item_Item_BearPendant_3001,Bear Pendant,Ведмежий кулон
 DC/Text_DesignData_Item_Item_BearPendant_4001,Bear Pendant,Ведмежий кулон
 DC/Text_DesignData_Item_Item_BearPendant_5001,Bear Pendant,Ведмежий кулон
@@ -96,13 +96,13 @@ DC/Text_DesignData_Item_Item_BearPendant_7001,Bear Pendant,Підвіска з �
 DC/Text_DesignData_Item_Item_BeetleWings,Beetle Wings,Крила жука
 DC/Text_DesignData_Item_Item_BladeOfRighteousness_3001,Blade of Righteousness,Клинок Праведності
 DC/Text_DesignData_Item_Item_BlueEyeballs,Blue Eyeballs,Блакитні очні яблука
-DC/Text_DesignData_Item_Item_BlueSapphire_1001,Blue Sapphire (Cracked),Синій сапфір (тріснутий)
-DC/Text_DesignData_Item_Item_BlueSapphire_2001,Blue Sapphire (Flawed),Блакитний сапфір (з дефектами)
-DC/Text_DesignData_Item_Item_BlueSapphire_3001,Blue Sapphire (Normal),Блакитний сапфір (нормальний)
-DC/Text_DesignData_Item_Item_BlueSapphire_4001,Blue Sapphire (Exquisite),Блакитний сапфір (вишуканий)
-DC/Text_DesignData_Item_Item_BlueSapphire_5001,Blue Sapphire (Perfect),Блакитний сапфір (досконалий)
-DC/Text_DesignData_Item_Item_BlueSapphire_6001,Blue Sapphire (Royal),Блакитний сапфір (королівський)
-DC/Text_DesignData_Item_Item_BlueSapphire_7001,Blue Sapphire (Ultimate),Блакитний сапфір (найвищого ґатунку)
+DC/Text_DesignData_Item_Item_BlueSapphire_1001,Blue Sapphire (Cracked),Блакитний Сапфір (Тріснутий)
+DC/Text_DesignData_Item_Item_BlueSapphire_2001,Blue Sapphire (Flawed),Блакитний Сапфір (Зіпсований)
+DC/Text_DesignData_Item_Item_BlueSapphire_3001,Blue Sapphire (Normal),Блакитний Сапфір (Звичайний)
+DC/Text_DesignData_Item_Item_BlueSapphire_4001,Blue Sapphire (Exquisite),Блакитний Сапфір (Вишуканий)
+DC/Text_DesignData_Item_Item_BlueSapphire_5001,Blue Sapphire (Perfect),Блакитний Сапфір (Досконалий)
+DC/Text_DesignData_Item_Item_BlueSapphire_6001,Blue Sapphire (Royal),Блакитний Сапфір (Королівський)
+DC/Text_DesignData_Item_Item_BlueSapphire_7001,Blue Sapphire (Ultimate),Блакитний Сапфір (Надзвичайний)
 DC/Text_DesignData_Item_Item_Bolt_2001,Bolt,Болт
 DC/Text_DesignData_Item_Item_Bone,Bone,Кістка
 DC/Text_DesignData_Item_Item_Boneshaper_5001,Boneshaper,Костоправ
@@ -117,40 +117,40 @@ DC/Text_DesignData_Item_Item_BuckledBoots_4001,Buckled Boots,Чоботи з п�
 DC/Text_DesignData_Item_Item_BuckledBoots_5001,Buckled Boots,Чоботи з пряжками
 DC/Text_DesignData_Item_Item_BuckledBoots_6001,Buckled Boots,Чоботи з пряжками
 DC/Text_DesignData_Item_Item_BuckledBoots_7001,Buckled Boots,Чоботи з пряжками
-DC/Text_DesignData_Item_Item_Buckler_1001,Buckler,Буклер
-DC/Text_DesignData_Item_Item_Buckler_2001,Buckler,Буклер
-DC/Text_DesignData_Item_Item_Buckler_3001,Buckler,Буклер
-DC/Text_DesignData_Item_Item_Buckler_4001,Buckler,Буклер
-DC/Text_DesignData_Item_Item_Buckler_5001,Buckler,Буклер
-DC/Text_DesignData_Item_Item_Buckler_6001,Buckler,Буклер
-DC/Text_DesignData_Item_Item_Buckler_7001,Delirium,Буклер
-DC/Text_DesignData_Item_Item_BugShell,Bug Shell,Мушля Жук
-DC/Text_DesignData_Item_Item_CampfireKit_1001,Campfire Kit,Набір для розведення багаття
-DC/Text_DesignData_Item_Item_CampfireKit_2001,Campfire Kit,Набір для розведення багаття
-DC/Text_DesignData_Item_Item_CampfireKit_3001,Campfire Kit,Набір для розведення багаття
-DC/Text_DesignData_Item_Item_CampfireKit_4001,Campfire Kit,Набір для розведення багаття
-DC/Text_DesignData_Item_Item_CampfireKit_5001,Campfire Kit,Набір для розведення багаття
-DC/Text_DesignData_Item_Item_CampfireKit_6001,Campfire Kit,Набір для розведення багаття
-DC/Text_DesignData_Item_Item_CampfireKit_7001,Campfire Kit,Набір для розведення багаття
+DC/Text_DesignData_Item_Item_Buckler_1001,Buckler,Баклер
+DC/Text_DesignData_Item_Item_Buckler_2001,Buckler,Баклер
+DC/Text_DesignData_Item_Item_Buckler_3001,Buckler,Баклер
+DC/Text_DesignData_Item_Item_Buckler_4001,Buckler,Баклер
+DC/Text_DesignData_Item_Item_Buckler_5001,Buckler,Баклер
+DC/Text_DesignData_Item_Item_Buckler_6001,Buckler,Баклер
+DC/Text_DesignData_Item_Item_Buckler_7001,Delirium,Марево
+DC/Text_DesignData_Item_Item_BugShell,Bug Shell,Панцир Жука
+DC/Text_DesignData_Item_Item_CampfireKit_1001,Campfire Kit,Набір для Розведення Багаття
+DC/Text_DesignData_Item_Item_CampfireKit_2001,Campfire Kit,Набір для Розведення Багаття
+DC/Text_DesignData_Item_Item_CampfireKit_3001,Campfire Kit,Набір для Розведення Багаття
+DC/Text_DesignData_Item_Item_CampfireKit_4001,Campfire Kit,Набір для Розведення Багаття
+DC/Text_DesignData_Item_Item_CampfireKit_5001,Campfire Kit,Набір для Розведення Багаття
+DC/Text_DesignData_Item_Item_CampfireKit_6001,Campfire Kit,Набір для Розведення Багаття
+DC/Text_DesignData_Item_Item_CampfireKit_7001,Campfire Kit,Набір для Розведення Багаття
 DC/Text_DesignData_Item_Item_CandyCane,Candy Cane,Цукрова тростина
 DC/Text_DesignData_Item_Item_CandyCorns,Candy Corn,Цукрова кукурудза
 DC/Text_DesignData_Item_Item_CapturedManaFlakes,Captured Mana Flakes,Захоплені пластівці мани
-DC/Text_DesignData_Item_Item_CastillonDagger_1001,Castillon Dagger,Кастильський кинджал
-DC/Text_DesignData_Item_Item_CastillonDagger_2001,Castillon Dagger,Кастильський кинджал
-DC/Text_DesignData_Item_Item_CastillonDagger_3001,Castillon Dagger,Кастильський кинджал
-DC/Text_DesignData_Item_Item_CastillonDagger_4001,Castillon Dagger,Кастильський кинджал
-DC/Text_DesignData_Item_Item_CastillonDagger_5001,Castillon Dagger,Кастильський кинджал
-DC/Text_DesignData_Item_Item_CastillonDagger_6001,Castillon Dagger,Кастильський кинджал
-DC/Text_DesignData_Item_Item_CastillonDagger_7001,Castillon Dagger,Кастильський кинджал
-DC/Text_DesignData_Item_Item_CentaurHoof,Centaur Hoof,Копито кентавра
-DC/Text_DesignData_Item_Item_CentaurMadness_5001,Centaur's Madness,Божевілля кентавра
-DC/Text_DesignData_Item_Item_CeremonialDagger_1001,Ceremonial Dagger (Cracked),Церемоніальний кинджал (Тріснутий)
-DC/Text_DesignData_Item_Item_CeremonialDagger_2001,Ceremonial Dagger (Flawed),Церемоніальний кинджал (зіпсований)
-DC/Text_DesignData_Item_Item_CeremonialDagger_3001,Ceremonial Dagger (Normal),Церемоніальний кинджал (звичайний)
-DC/Text_DesignData_Item_Item_CeremonialDagger_4001,Ceremonial Dagger (Exquisite),Церемоніальний кинджал (Вишуканий)
-DC/Text_DesignData_Item_Item_CeremonialDagger_5001,Ceremonial Dagger (Perfect),Церемоніальний кинджал (Досконалий)
-DC/Text_DesignData_Item_Item_CeremonialDagger_6001,Ceremonial Dagger (Royal),Церемоніальний кинджал (Королівський)
-DC/Text_DesignData_Item_Item_CeremonialDagger_7001,Ceremonial Dagger (Ultimate),Церемоніальний кинджал (Досконалий)
+DC/Text_DesignData_Item_Item_CastillonDagger_1001,Castillon Dagger,Кастильський Кинджал
+DC/Text_DesignData_Item_Item_CastillonDagger_2001,Castillon Dagger,Кастильський Кинджал
+DC/Text_DesignData_Item_Item_CastillonDagger_3001,Castillon Dagger,Кастильський Кинджал
+DC/Text_DesignData_Item_Item_CastillonDagger_4001,Castillon Dagger,Кастильський Кинджал
+DC/Text_DesignData_Item_Item_CastillonDagger_5001,Castillon Dagger,Кастильський Кинджал
+DC/Text_DesignData_Item_Item_CastillonDagger_6001,Castillon Dagger,Кастильський Кинджал
+DC/Text_DesignData_Item_Item_CastillonDagger_7001,Castillon Dagger,Кастильський Кинджал
+DC/Text_DesignData_Item_Item_CentaurHoof,Centaur Hoof,Копито Кентавра
+DC/Text_DesignData_Item_Item_CentaurMadness_5001,Centaur's Madness,Божевілля Кентавра
+DC/Text_DesignData_Item_Item_CeremonialDagger_1001,Ceremonial Dagger (Cracked),Церемоніальний Кинджал (Тріснутий)
+DC/Text_DesignData_Item_Item_CeremonialDagger_2001,Ceremonial Dagger (Flawed),Церемоніальний Кинджал (Зіпсований)
+DC/Text_DesignData_Item_Item_CeremonialDagger_3001,Ceremonial Dagger (Normal),Церемоніальний Кинджал (Звичайний)
+DC/Text_DesignData_Item_Item_CeremonialDagger_4001,Ceremonial Dagger (Exquisite),Церемоніальний Кинджал (Вишуканий)
+DC/Text_DesignData_Item_Item_CeremonialDagger_5001,Ceremonial Dagger (Perfect),Церемоніальний Кинджал (Досконалий)
+DC/Text_DesignData_Item_Item_CeremonialDagger_6001,Ceremonial Dagger (Royal),Церемоніальний Кинджал (Королівський)
+DC/Text_DesignData_Item_Item_CeremonialDagger_7001,Ceremonial Dagger (Ultimate),Церемоніальний Кинджал (Надзвичайний)
 DC/Text_DesignData_Item_Item_CeremonialStaff_1001,Ceremonial Staff,Церемоніальний посох
 DC/Text_DesignData_Item_Item_CeremonialStaff_2001,Ceremonial Staff,Церемоніальний посох
 DC/Text_DesignData_Item_Item_CeremonialStaff_3001,Ceremonial Staff,Церемоніальний посох
@@ -210,8 +210,8 @@ DC/Text_DesignData_Item_Item_CobaltIngots_4001,Cobalt Ingot,Злиток коб�
 DC/Text_DesignData_Item_Item_CobaltLeatherGloves_4001,Cobalt Leather Gloves,Кобальтові шкіряні рукавички
 DC/Text_DesignData_Item_Item_CobaltLightfootBoots_4001,Cobalt Lightfoot Boots,Черевики кобальтові легкі
 DC/Text_DesignData_Item_Item_CobaltOres_4001,Cobalt Ore,Кобальтова руда
-DC/Text_DesignData_Item_Item_CobaltPlateBoots_4001,Cobalt Plate Boots,Черевики з кобальтової пластини
-DC/Text_DesignData_Item_Item_CobaltPlatePants_4001,Cobalt Plate Pants,Штани з кобальтової пластини
+DC/Text_DesignData_Item_Item_CobaltPlateBoots_4001,Cobalt Plate Boots,Латні Чоботи з Кобальту
+DC/Text_DesignData_Item_Item_CobaltPlatePants_4001,Cobalt Plate Pants,Латні Штани з Кобальту
 DC/Text_DesignData_Item_Item_CobaltPowder_4001,Cobalt Powder,Кобальтовий порошок
 DC/Text_DesignData_Item_Item_CobaltRegalGambeson_4001,Cobalt Regal Gambeson,Кобальтовий королівський гамбесон
 DC/Text_DesignData_Item_Item_CobaltTemplarArmor_4001,Cobalt Templar Armor,Кобальтові обладунки тамплієрів
@@ -222,52 +222,52 @@ DC/Text_DesignData_Item_Item_CopperIngots_3001,Copper Ingot,Злиток мід�
 DC/Text_DesignData_Item_Item_CopperOres_3001,Copper Ore,Мідна руда
 DC/Text_DesignData_Item_Item_CopperPowder_3001,Copper Powder,Мідний порошок
 DC/Text_DesignData_Item_Item_CopperlightAttire_3001,Copperlight Attire,Мідне вбрання
-DC/Text_DesignData_Item_Item_CopperlightGauntlets_3001,Copperlight Gauntlets,Рукавиці з міді
-DC/Text_DesignData_Item_Item_CopperlightKettleHat_3001,Copperlight Kettle Hat,Шапка-чайник з міді
-DC/Text_DesignData_Item_Item_CopperlightLeggings_3001,Copperlight Leggings,Легінси з міді
-DC/Text_DesignData_Item_Item_CopperlightLightfootBoots_3001,Copperlight Lightfoot Boots,Чоботи з міді
-DC/Text_DesignData_Item_Item_CopperlightOutfit_3001,Copperlight Outfit,Костюм з міді
-DC/Text_DesignData_Item_Item_CopperlightPants_3001,Copperlight Pants,Штани з міді
-DC/Text_DesignData_Item_Item_CopperlightPlateBoots_3001,Copperlight Plate Boots,Латні черевики з міді
-DC/Text_DesignData_Item_Item_CopperlightPlatePants_3001,Copperlight Plate Pants,Латні штани з міді
-DC/Text_DesignData_Item_Item_CopperlightRivetedGloves_3001,Copperlight Riveted Gloves,Заклепкові рукавиці з міді
-DC/Text_DesignData_Item_Item_CopperlightSanctumPlateArmor_3001,Copperlight Sanctum Plate Armor,Пластинчаста броня з міді
-DC/Text_DesignData_Item_Item_CopperlightShadowHood_3001,Copperlight Shadow Hood,Каптур з міді
-DC/Text_DesignData_Item_Item_CopperlightStrawHat_3001,Copperlight Straw Hat,Солом'яний капелюх з міді
-DC/Text_DesignData_Item_Item_CopperlightTunic_3001,Copperlight Tunic,Туніка з міді
+DC/Text_DesignData_Item_Item_CopperlightGauntlets_3001,Copperlight Gauntlets,Латні Рукавиці з Міді
+DC/Text_DesignData_Item_Item_CopperlightKettleHat_3001,Copperlight Kettle Hat,Шапка-Чайник з Міді
+DC/Text_DesignData_Item_Item_CopperlightLeggings_3001,Copperlight Leggings,Легінси з Міді
+DC/Text_DesignData_Item_Item_CopperlightLightfootBoots_3001,Copperlight Lightfoot Boots,Чоботи з Міді
+DC/Text_DesignData_Item_Item_CopperlightOutfit_3001,Copperlight Outfit,Костюм з Міді
+DC/Text_DesignData_Item_Item_CopperlightPants_3001,Copperlight Pants,Штани з Міді
+DC/Text_DesignData_Item_Item_CopperlightPlateBoots_3001,Copperlight Plate Boots,Латні Чоботи з з Міді
+DC/Text_DesignData_Item_Item_CopperlightPlatePants_3001,Copperlight Plate Pants,Латні Штани з Міді
+DC/Text_DesignData_Item_Item_CopperlightRivetedGloves_3001,Copperlight Riveted Gloves,Клепані Рукавиці з Міді
+DC/Text_DesignData_Item_Item_CopperlightSanctumPlateArmor_3001,Copperlight Sanctum Plate Armor,Пластинчаста Броня з Міді
+DC/Text_DesignData_Item_Item_CopperlightShadowHood_3001,Copperlight Shadow Hood,Каптур з Міді
+DC/Text_DesignData_Item_Item_CopperlightStrawHat_3001,Copperlight Straw Hat,Солом'яний Капелюх з Міді
+DC/Text_DesignData_Item_Item_CopperlightTunic_3001,Copperlight Tunic,Туніка з Міді
 DC/Text_DesignData_Item_Item_CowlofDarkness_4001,Cowl of Darkness,Накидка темряви
 DC/Text_DesignData_Item_Item_Crossbow_1001,Crossbow,Арбалет
 DC/Text_DesignData_Item_Item_Crossbow_2001,Crossbow,Арбалет
 DC/Text_DesignData_Item_Item_Crossbow_3001,Crossbow,Арбалет
 DC/Text_DesignData_Item_Item_Crossbow_4001,Crossbow,Арбалет
-DC/Text_DesignData_Item_Item_Crossbow_5001,Crossbow,Арбалет!
-DC/Text_DesignData_Item_Item_Crossbow_6001,Crossbow,Арбалет!
-DC/Text_DesignData_Item_Item_Crossbow_7001,Crossbow,Арбалет!
-DC/Text_DesignData_Item_Item_CrusaderArmor_1001,Crusader Armor,Обладунки хрестоносців
-DC/Text_DesignData_Item_Item_CrusaderArmor_2001,Crusader Armor,Обладунки хрестоносців
-DC/Text_DesignData_Item_Item_CrusaderArmor_3001,Crusader Armor,Обладунки хрестоносців
-DC/Text_DesignData_Item_Item_CrusaderArmor_4001,Crusader Armor,Обладунки хрестоносців
-DC/Text_DesignData_Item_Item_CrusaderArmor_5001,Crusader Armor,Обладунки хрестоносців
-DC/Text_DesignData_Item_Item_CrusaderArmor_6001,Crusader Armor,Обладунки хрестоносців
-DC/Text_DesignData_Item_Item_CrusaderArmor_7001,Crusader Armor,Обладунки хрестоносців
+DC/Text_DesignData_Item_Item_Crossbow_5001,Crossbow,Арбалет
+DC/Text_DesignData_Item_Item_Crossbow_6001,Crossbow,Арбалет
+DC/Text_DesignData_Item_Item_Crossbow_7001,Crossbow,Арбалет
+DC/Text_DesignData_Item_Item_CrusaderArmor_1001,Crusader Armor,Обладунки Хрестоносця
+DC/Text_DesignData_Item_Item_CrusaderArmor_2001,Crusader Armor,Обладунки Хрестоносця
+DC/Text_DesignData_Item_Item_CrusaderArmor_3001,Crusader Armor,Обладунки Хрестоносця
+DC/Text_DesignData_Item_Item_CrusaderArmor_4001,Crusader Armor,Обладунки Хрестоносця
+DC/Text_DesignData_Item_Item_CrusaderArmor_5001,Crusader Armor,Обладунки Хрестоносця
+DC/Text_DesignData_Item_Item_CrusaderArmor_6001,Crusader Armor,Обладунки Хрестоносця
+DC/Text_DesignData_Item_Item_CrusaderArmor_7001,Crusader Armor,Обладунки Хрестоносця
 DC/Text_DesignData_Item_Item_CrystalBall_1001,Crystal Ball,Кришталева куля
 DC/Text_DesignData_Item_Item_CrystalBall_2001,Crystal Ball,Кришталева куля
 DC/Text_DesignData_Item_Item_CrystalBall_3001,Crystal Ball,Кришталева куля
 DC/Text_DesignData_Item_Item_CrystalBall_4001,Crystal Ball,Кришталева куля
 DC/Text_DesignData_Item_Item_CrystalBall_5001,Crystal Ball,Кришталева куля
 DC/Text_DesignData_Item_Item_CrystalBall_6001,Crystal Ball,Кришталева куля
-DC/Text_DesignData_Item_Item_CrystalBall_7001,Zirkzi’s Eye,Око Зіркі
-DC/Text_DesignData_Item_Item_CrystalSword_1001,Crystal Sword,Кришталевий меч
-DC/Text_DesignData_Item_Item_CrystalSword_2001,Crystal Sword,Кришталевий меч
-DC/Text_DesignData_Item_Item_CrystalSword_3001,Crystal Sword,Кришталевий меч
-DC/Text_DesignData_Item_Item_CrystalSword_4001,Crystal Sword,Кришталевий меч
-DC/Text_DesignData_Item_Item_CrystalSword_5001,Crystal Sword,Кришталевий меч
-DC/Text_DesignData_Item_Item_CrystalSword_6001,Crystal Sword,Кришталевий меч
-DC/Text_DesignData_Item_Item_CrystalSword_7001,Crystal Sword,Кришталевий меч
+DC/Text_DesignData_Item_Item_CrystalBall_7001,Zirkzi’s Eye,Око Зіркзі
+DC/Text_DesignData_Item_Item_CrystalSword_1001,Crystal Sword,Кришталевий Меч
+DC/Text_DesignData_Item_Item_CrystalSword_2001,Crystal Sword,Кришталевий Меч
+DC/Text_DesignData_Item_Item_CrystalSword_3001,Crystal Sword,Кришталевий Меч
+DC/Text_DesignData_Item_Item_CrystalSword_4001,Crystal Sword,Кришталевий Меч
+DC/Text_DesignData_Item_Item_CrystalSword_5001,Crystal Sword,Кришталевий Меч
+DC/Text_DesignData_Item_Item_CrystalSword_6001,Crystal Sword,Кришталевий Меч
+DC/Text_DesignData_Item_Item_CrystalSword_7001,Crystal Sword,Кришталевий Меч
 DC/Text_DesignData_Item_Item_CursedCrown,Cursed Crown,Проклята корона
-DC/Text_DesignData_Item_Item_CyclopsClub,Cyclops’s Club,Клуб циклопів
-DC/Text_DesignData_Item_Item_CyclopsEye,Cyclops Eye,Око циклопа
-DC/Text_DesignData_Item_Item_CyclopsRags,Cyclops Rags,Лахміття циклопа
+DC/Text_DesignData_Item_Item_CyclopsClub,Cyclops’s Club,Дубина Циклопа
+DC/Text_DesignData_Item_Item_CyclopsEye,Cyclops Eye,Око Циклопа
+DC/Text_DesignData_Item_Item_CyclopsRags,Cyclops Rags,Ганчірки Циклопа
 DC/Text_DesignData_Item_Item_CyclopsVisionCrystal_5001,Cyclops Vision Crystal,Кришталь Зору Циклопа
 DC/Text_DesignData_Item_Item_DaggerOfRighteousness_3001,Dagger of Righteousness,Кинджал Праведності
 DC/Text_DesignData_Item_Item_DarkCuirass_1001,Dark Cuirass,Темна Кіраса
@@ -276,7 +276,7 @@ DC/Text_DesignData_Item_Item_DarkCuirass_3001,Dark Cuirass,Темна Кірас
 DC/Text_DesignData_Item_Item_DarkCuirass_4001,Dark Cuirass,Темна Кіраса
 DC/Text_DesignData_Item_Item_DarkCuirass_5001,Dark Cuirass,Темна Кіраса
 DC/Text_DesignData_Item_Item_DarkCuirass_6001,Dark Cuirass,Темна Кіраса
-DC/Text_DesignData_Item_Item_DarkCuirass_7001,Dark Cuirass,Темна кіраса
+DC/Text_DesignData_Item_Item_DarkCuirass_7001,Dark Cuirass,Темна Кіраса
 DC/Text_DesignData_Item_Item_DarkLeatherLeggings_1001,Dark Leather Leggings,Темні Шкіряні Легінси
 DC/Text_DesignData_Item_Item_DarkLeatherLeggings_2001,Dark Leather Leggings,Темні Шкіряні Легінси
 DC/Text_DesignData_Item_Item_DarkLeatherLeggings_3001,Dark Leather Leggings,Темні Шкіряні Легінси
@@ -326,26 +326,26 @@ DC/Text_DesignData_Item_Item_DemonGripGloves_4001,Demon Grip Gloves,Рукави
 DC/Text_DesignData_Item_Item_DemoncladLeggings_4001,Demonclad Leggings,Легінси з демонічним озброєнням
 DC/Text_DesignData_Item_Item_DemonsGlee_5001,Demon's Glee,Демонічний хор
 DC/Text_DesignData_Item_Item_Diamond_1001,Diamond (Cracked),Діамант (Тріснутий)
-DC/Text_DesignData_Item_Item_Diamond_2001,Diamond (Flawed),Діамант (зіпсований)
-DC/Text_DesignData_Item_Item_Diamond_3001,Diamond (Normal),Діамант (нормальний)
+DC/Text_DesignData_Item_Item_Diamond_2001,Diamond (Flawed),Діамант (Зіпсований)
+DC/Text_DesignData_Item_Item_Diamond_3001,Diamond (Normal),Діамант (Звичайний)
 DC/Text_DesignData_Item_Item_Diamond_4001,Diamond (Exquisite),Діамант (Вишуканий)
 DC/Text_DesignData_Item_Item_Diamond_5001,Diamond (Perfect),Діамант (Досконалий)
-DC/Text_DesignData_Item_Item_Diamond_6001,Diamond (Royal),Діамант (королівський)
-DC/Text_DesignData_Item_Item_Diamond_7001,Diamond (Ulitmate),Діамант (Улітмат)
-DC/Text_DesignData_Item_Item_DivineAxe_4001,Divine Axe,Божественна сокира
-DC/Text_DesignData_Item_Item_DivineBlade_4001,Divine Blade,Божественний клинок
-DC/Text_DesignData_Item_Item_DivineBow_4001,Divine Bow,Божественний лук
-DC/Text_DesignData_Item_Item_DivineDagger_4001,Divine Dagger,Божественний кинджал
-DC/Text_DesignData_Item_Item_DivineRod_4001,Divine Rod,Божественний жезл
-DC/Text_DesignData_Item_Item_DivineShortSword_4001,Divine Short Sword,Божественний короткий меч
-DC/Text_DesignData_Item_Item_DivineStaff_4001,Divine Staff,Божественний посох
+DC/Text_DesignData_Item_Item_Diamond_6001,Diamond (Royal),Діамант (Королівський)
+DC/Text_DesignData_Item_Item_Diamond_7001,Diamond (Ulitmate),Діамант (Надзвичайний)
+DC/Text_DesignData_Item_Item_DivineAxe_4001,Divine Axe,Божественна Сокира
+DC/Text_DesignData_Item_Item_DivineBlade_4001,Divine Blade,Божественний Клинок
+DC/Text_DesignData_Item_Item_DivineBow_4001,Divine Bow,Божественний Лук
+DC/Text_DesignData_Item_Item_DivineDagger_4001,Divine Dagger,Божественний Кинджал
+DC/Text_DesignData_Item_Item_DivineRod_4001,Divine Rod,Божественний Жезл
+DC/Text_DesignData_Item_Item_DivineShortSword_4001,Divine Short Sword,Божественний Короткий Меч
+DC/Text_DesignData_Item_Item_DivineStaff_4001,Divine Staff,Божественний Посох
 DC/Text_DesignData_Item_Item_DogCollar,Dog Collar,Собачий нашийник
-DC/Text_DesignData_Item_Item_DoubleAxe_1001,Double Axe,Подвійна сокира
-DC/Text_DesignData_Item_Item_DoubleAxe_2001,Double Axe,Подвійна сокира.
-DC/Text_DesignData_Item_Item_DoubleAxe_3001,Double Axe,Дворучна сокира
-DC/Text_DesignData_Item_Item_DoubleAxe_4001,Double Axe,Подвійна сокира.
-DC/Text_DesignData_Item_Item_DoubleAxe_5001,Double Axe,Подвійна сокира.
-DC/Text_DesignData_Item_Item_DoubleAxe_6001,Double Axe,Подвійна сокира.
+DC/Text_DesignData_Item_Item_DoubleAxe_1001,Double Axe,Подвійна Сокира
+DC/Text_DesignData_Item_Item_DoubleAxe_2001,Double Axe,Подвійна Сокира
+DC/Text_DesignData_Item_Item_DoubleAxe_3001,Double Axe,Подвійна Сокира
+DC/Text_DesignData_Item_Item_DoubleAxe_4001,Double Axe,Подвійна Сокира
+DC/Text_DesignData_Item_Item_DoubleAxe_5001,Double Axe,Подвійна Сокира
+DC/Text_DesignData_Item_Item_DoubleAxe_6001,Double Axe,Подвійна Сокира
 DC/Text_DesignData_Item_Item_DoubleAxe_7001,Life after Death,Життя після смерті
 DC/Text_DesignData_Item_Item_Doublet_1001,Doublet,Жакет
 DC/Text_DesignData_Item_Item_Doublet_2001,Doublet,Жакет
@@ -354,8 +354,8 @@ DC/Text_DesignData_Item_Item_Doublet_4001,Doublet,Жакет
 DC/Text_DesignData_Item_Item_Doublet_5001,Doublet,Жакет
 DC/Text_DesignData_Item_Item_Doublet_6001,Doublet,Жакет
 DC/Text_DesignData_Item_Item_Doublet_7001,Doublet,Жакет
-DC/Text_DesignData_Item_Item_Doublet_RS,Rubysilver Doublet,Рубіновий жакет
-DC/Text_DesignData_Item_Item_DreadHood_4001,Dread Hood,Капюшон страху
+DC/Text_DesignData_Item_Item_Doublet_RS,Rubysilver Doublet,Рубіновий Жакет
+DC/Text_DesignData_Item_Item_DreadHood_4001,Dread Hood,Капюшон Страху
 DC/Text_DesignData_Item_Item_Drum_1001,Drum,Барабан
 DC/Text_DesignData_Item_Item_Drum_2001,Drum,Барабан
 DC/Text_DesignData_Item_Item_Drum_3001,Drum,Барабан
@@ -377,13 +377,13 @@ DC/Text_DesignData_Item_Item_ElkwoodGloves_4001,Elkwood Gloves,Рукавиці 
 DC/Text_DesignData_Item_Item_ElkwoodGloves_5001,Elkwood Gloves,Рукавиці з ельквуду
 DC/Text_DesignData_Item_Item_ElkwoodGloves_6001,Elkwood Gloves,Рукавиці з ельквуду
 DC/Text_DesignData_Item_Item_ElkwoodGloves_7001,Elkwood Gloves,Рукавиці з ельквуду
-DC/Text_DesignData_Item_Item_Emerald_1001,Emerald (Cracked),Смарагд (з тріщинами)
-DC/Text_DesignData_Item_Item_Emerald_2001,Emerald (Flawed),Смарагд (з дефектами)
-DC/Text_DesignData_Item_Item_Emerald_3001,Emerald (Normal),Смарагд (нормальний)
-DC/Text_DesignData_Item_Item_Emerald_4001,Emerald (Exquisite),Смарагдові (Вишукані)
-DC/Text_DesignData_Item_Item_Emerald_5001,Emerald (Perfect),Смарагдовий (Бездоганний)
-DC/Text_DesignData_Item_Item_Emerald_6001,Emerald (Royal),Смарагдовий (Королівський)
-DC/Text_DesignData_Item_Item_Emerald_7001,Emerald (Ultimate),Смарагдовий (Досконалий)
+DC/Text_DesignData_Item_Item_Emerald_1001,Emerald (Cracked),Смарагд (Тріснутий)
+DC/Text_DesignData_Item_Item_Emerald_2001,Emerald (Flawed),Смарагд (Зіпсований)
+DC/Text_DesignData_Item_Item_Emerald_3001,Emerald (Normal),Смарагд (Звичайний)
+DC/Text_DesignData_Item_Item_Emerald_4001,Emerald (Exquisite),Смарагд (Вишуканий)
+DC/Text_DesignData_Item_Item_Emerald_5001,Emerald (Perfect),Смарагд (Досконалий)
+DC/Text_DesignData_Item_Item_Emerald_6001,Emerald (Royal),Смарагд (Королівський)
+DC/Text_DesignData_Item_Item_Emerald_7001,Emerald (Ultimate),Смарагд (Надзвичайний)
 DC/Text_DesignData_Item_Item_EnchantedDarkFabric,Enchanted Dark Fabric,Зачарована темна тканина
 DC/Text_DesignData_Item_Item_ExplosiveBottle_1001,Explosive Bottle,Вибухова пляшка
 DC/Text_DesignData_Item_Item_ExplosiveBottle_2001,Explosive Bottle,Вибухова пляшка
@@ -409,29 +409,29 @@ DC/Text_DesignData_Item_Item_FeatheredHat_4001,Feathered Hat,Капелюх з �
 DC/Text_DesignData_Item_Item_FeatheredHat_5001,Feathered Hat,Капелюх з пір'ям
 DC/Text_DesignData_Item_Item_FeatheredHat_6001,Feathered Hat,Капелюх з пір'ям
 DC/Text_DesignData_Item_Item_FeatheredHat_7001,Feathered Hat,Капелюх з пір'ям
-DC/Text_DesignData_Item_Item_FellingAxe_1001,Felling Axe,Сокира
-DC/Text_DesignData_Item_Item_FellingAxe_2001,Felling Axe,Сокира
-DC/Text_DesignData_Item_Item_FellingAxe_3001,Felling Axe,Сокира
-DC/Text_DesignData_Item_Item_FellingAxe_4001,Felling Axe,Сокира
-DC/Text_DesignData_Item_Item_FellingAxe_5001,Felling Axe,Сокира
-DC/Text_DesignData_Item_Item_FellingAxe_6001,Felling Axe,Сокира
+DC/Text_DesignData_Item_Item_FellingAxe_1001,Felling Axe,Лісорубна Сокира
+DC/Text_DesignData_Item_Item_FellingAxe_2001,Felling Axe,Лісорубна Сокира
+DC/Text_DesignData_Item_Item_FellingAxe_3001,Felling Axe,Лісорубна Сокира
+DC/Text_DesignData_Item_Item_FellingAxe_4001,Felling Axe,Лісорубна Сокира
+DC/Text_DesignData_Item_Item_FellingAxe_5001,Felling Axe,Лісорубна Сокира
+DC/Text_DesignData_Item_Item_FellingAxe_6001,Felling Axe,Лісорубна Сокира
 DC/Text_DesignData_Item_Item_FellingAxe_7001,Soulscraper,Душогуб
-DC/Text_DesignData_Item_Item_FineCuirass_1001,Fine Cuirass,Тонка кольчуга
-DC/Text_DesignData_Item_Item_FineCuirass_2001,Fine Cuirass,Тонка кольчуга
-DC/Text_DesignData_Item_Item_FineCuirass_3001,Fine Cuirass,Прекрасна кольчуга
-DC/Text_DesignData_Item_Item_FineCuirass_4001,Fine Cuirass,Прекрасна кольчуга.
-DC/Text_DesignData_Item_Item_FineCuirass_5001,Fine Cuirass,Прекрасна кольчуга.
-DC/Text_DesignData_Item_Item_FineCuirass_6001,Fine Cuirass,Тонка кіраса.
-DC/Text_DesignData_Item_Item_FineCuirass_7001,Fine Cuirass,Вишукана кіраса.
-DC/Text_DesignData_Item_Item_FineCuirass_RS,Rubysilver Cuirass,Кольчуга з рубінового срібла
+DC/Text_DesignData_Item_Item_FineCuirass_1001,Fine Cuirass,Кіраса
+DC/Text_DesignData_Item_Item_FineCuirass_2001,Fine Cuirass,Кіраса
+DC/Text_DesignData_Item_Item_FineCuirass_3001,Fine Cuirass,Кіраса
+DC/Text_DesignData_Item_Item_FineCuirass_4001,Fine Cuirass,Кіраса
+DC/Text_DesignData_Item_Item_FineCuirass_5001,Fine Cuirass,Кіраса
+DC/Text_DesignData_Item_Item_FineCuirass_6001,Fine Cuirass,Кіраса
+DC/Text_DesignData_Item_Item_FineCuirass_7001,Fine Cuirass,Кіраса
+DC/Text_DesignData_Item_Item_FineCuirass_RS,Rubysilver Cuirass,Кіраса з Рубінового Срібла
 DC/Text_DesignData_Item_Item_FireflyAbdomen,Firefly's Abdomen,Черево світлячка
-DC/Text_DesignData_Item_Item_FlangedMace_1001,Flanged Mace,Булава з фланцем
+DC/Text_DesignData_Item_Item_FlangedMace_1001,Flanged Mace,Фланцева Булава
 DC/Text_DesignData_Item_Item_FlangedMace_2001,Flanged Mace,Фланцева Булава
 DC/Text_DesignData_Item_Item_FlangedMace_3001,Flanged Mace,Фланцева Булава
-DC/Text_DesignData_Item_Item_FlangedMace_4001,Flanged Mace,Булава з фланцем
-DC/Text_DesignData_Item_Item_FlangedMace_5001,Flanged Mace,Булава з фланцем
-DC/Text_DesignData_Item_Item_FlangedMace_6001,Flanged Mace,Булава фланцева
-DC/Text_DesignData_Item_Item_FlangedMace_7001,Flanged Mace,Булава фланцева
+DC/Text_DesignData_Item_Item_FlangedMace_4001,Flanged Mace,Фланцева Булава
+DC/Text_DesignData_Item_Item_FlangedMace_5001,Flanged Mace,Фланцева Булава
+DC/Text_DesignData_Item_Item_FlangedMace_6001,Flanged Mace,Фланцева Булава
+DC/Text_DesignData_Item_Item_FlangedMace_7001,Flanged Mace,Фланцева Булава
 DC/Text_DesignData_Item_Item_Flute_1001,Flute,Флейта
 DC/Text_DesignData_Item_Item_Flute_2001,Flute,Флейта
 DC/Text_DesignData_Item_Item_Flute_3001,Flute,Флейта
@@ -439,33 +439,33 @@ DC/Text_DesignData_Item_Item_Flute_4001,Flute,Флейта
 DC/Text_DesignData_Item_Item_Flute_5001,Flute,Флейта
 DC/Text_DesignData_Item_Item_Flute_6001,Flute,Флейта
 DC/Text_DesignData_Item_Item_Flute_7001,Flute,Флейта
-DC/Text_DesignData_Item_Item_ForestBoots_1001,Forest Boots,Лісові чобітки
-DC/Text_DesignData_Item_Item_ForestBoots_2001,Forest Boots,Лісові чобітки
-DC/Text_DesignData_Item_Item_ForestBoots_3001,Forest Boots,Лісові чобітки
-DC/Text_DesignData_Item_Item_ForestBoots_4001,Forest Boots,Лісові чобітки
-DC/Text_DesignData_Item_Item_ForestBoots_5001,Forest Boots,Лісові чобітки
-DC/Text_DesignData_Item_Item_ForestBoots_6001,Forest Boots,Лісові черевики
-DC/Text_DesignData_Item_Item_ForestBoots_7001,Forest Boots,Лісові черевики
-DC/Text_DesignData_Item_Item_ForestHood_1001,Forest Hood,Лісова шапка
-DC/Text_DesignData_Item_Item_ForestHood_2001,Forest Hood,Лісова шапка
-DC/Text_DesignData_Item_Item_ForestHood_3001,Forest Hood,Лісовий капюшон
-DC/Text_DesignData_Item_Item_ForestHood_4001,Forest Hood,Лісовий капюшон
-DC/Text_DesignData_Item_Item_ForestHood_5001,Forest Hood,Лісовий капюшон
-DC/Text_DesignData_Item_Item_ForestHood_6001,Forest Hood,Лісова Шапка
-DC/Text_DesignData_Item_Item_ForestHood_7001,Forest Hood,Лісова Шапка
+DC/Text_DesignData_Item_Item_ForestBoots_1001,Forest Boots,Лісові Черевики
+DC/Text_DesignData_Item_Item_ForestBoots_2001,Forest Boots,Лісові Черевики
+DC/Text_DesignData_Item_Item_ForestBoots_3001,Forest Boots,Лісові Черевики
+DC/Text_DesignData_Item_Item_ForestBoots_4001,Forest Boots,Лісові Черевики
+DC/Text_DesignData_Item_Item_ForestBoots_5001,Forest Boots,Лісові Черевики
+DC/Text_DesignData_Item_Item_ForestBoots_6001,Forest Boots,Лісові Черевики
+DC/Text_DesignData_Item_Item_ForestBoots_7001,Forest Boots,Лісові Черевики
+DC/Text_DesignData_Item_Item_ForestHood_1001,Forest Hood,Лісовий Капюшон
+DC/Text_DesignData_Item_Item_ForestHood_2001,Forest Hood,Лісовий Капюшон
+DC/Text_DesignData_Item_Item_ForestHood_3001,Forest Hood,Лісовий Капюшон
+DC/Text_DesignData_Item_Item_ForestHood_4001,Forest Hood,Лісовий Капюшон
+DC/Text_DesignData_Item_Item_ForestHood_5001,Forest Hood,Лісовий Капюшон
+DC/Text_DesignData_Item_Item_ForestHood_6001,Forest Hood,Лісовий Капюшон
+DC/Text_DesignData_Item_Item_ForestHood_7001,Forest Hood,Лісовий Капюшон
 DC/Text_DesignData_Item_Item_FoulBoots_4001,Foul Boots,Брудні чоботи
 DC/Text_DesignData_Item_Item_FoxPendant_3001,Fox Pendant,Підвіска з лисицею
 DC/Text_DesignData_Item_Item_FoxPendant_4001,Fox Pendant,Лисячий кулон
 DC/Text_DesignData_Item_Item_FoxPendant_5001,Fox Pendant,Лисячий кулон
 DC/Text_DesignData_Item_Item_FoxPendant_6001,Fox Pendant,Підвіска з лисицею
 DC/Text_DesignData_Item_Item_FoxPendant_7001,Fox Pendant,Лисячий кулон
-DC/Text_DesignData_Item_Item_FranciscaAxe_1001,Francisca Axe,Франциска Сокира
-DC/Text_DesignData_Item_Item_FranciscaAxe_2001,Francisca Axe,Сокира Франциска
-DC/Text_DesignData_Item_Item_FranciscaAxe_3001,Francisca Axe,Сокира Франциска
-DC/Text_DesignData_Item_Item_FranciscaAxe_4001,Francisca Axe,Сокира Франциска
-DC/Text_DesignData_Item_Item_FranciscaAxe_5001,Francisca Axe,Сокира Франциска
-DC/Text_DesignData_Item_Item_FranciscaAxe_6001,Francisca Axe,Франциска Екс
-DC/Text_DesignData_Item_Item_FranciscaAxe_7001,Francisca Axe,Франциска Екс
+DC/Text_DesignData_Item_Item_FranciscaAxe_1001,Francisca Axe,Франциска
+DC/Text_DesignData_Item_Item_FranciscaAxe_2001,Francisca Axe,Франциска
+DC/Text_DesignData_Item_Item_FranciscaAxe_3001,Francisca Axe,Франциска
+DC/Text_DesignData_Item_Item_FranciscaAxe_4001,Francisca Axe,Франциска
+DC/Text_DesignData_Item_Item_FranciscaAxe_5001,Francisca Axe,Франциска
+DC/Text_DesignData_Item_Item_FranciscaAxe_6001,Francisca Axe,Франциска
+DC/Text_DesignData_Item_Item_FranciscaAxe_7001,Francisca Axe,Франциска
 DC/Text_DesignData_Item_Item_Frock_1001,Frock,Ряса
 DC/Text_DesignData_Item_Item_Frock_2001,Frock,Ряса
 DC/Text_DesignData_Item_Item_Frock_3001,Frock,Ряса
@@ -481,24 +481,24 @@ DC/Text_DesignData_Item_Item_FrostAmulet_7001,Frost Amulet,Оберіг від �
 DC/Text_DesignData_Item_Item_FrostStoneIngots_6001,Froststone Ingot,Злиток крижаного каменю
 DC/Text_DesignData_Item_Item_FrostStoneOres_6001,Froststone Ore,Руда крижаного каменю
 DC/Text_DesignData_Item_Item_FrostStonePowder_6001,Froststone Powder,Порошок крижаного каменю
-DC/Text_DesignData_Item_Item_FrostWyvernClaws,Frost Wyvern's Claws,Кігті морозної виверни
-DC/Text_DesignData_Item_Item_FrostWyvernEgg,Frost Wyvern Egg,Яйце морозної виверни
+DC/Text_DesignData_Item_Item_FrostWyvernClaws,Frost Wyvern's Claws,Кігті Льодяної Віверни
+DC/Text_DesignData_Item_Item_FrostWyvernEgg,Frost Wyvern Egg,Яйце Льодяної Віверни
 DC/Text_DesignData_Item_Item_FrozenHeart,Frozen Heart,Замерзле серце
 DC/Text_DesignData_Item_Item_FrozenIronKey,Frozen Iron Key,Заморожений залізний ключ
-DC/Text_DesignData_Item_Item_GemNecklace_1001,Gem Necklace (Cracked),Намисто з самоцвітів (тріснуте)
-DC/Text_DesignData_Item_Item_GemNecklace_2001,Gem Necklace (Flawed),Намисто з самоцвітів (зіпсоване)
-DC/Text_DesignData_Item_Item_GemNecklace_3001,Gem Necklace (Normal),Намисто з дорогоцінних каменів (нормальне)
-DC/Text_DesignData_Item_Item_GemNecklace_4001,Gem Necklace (Exquisite),Намисто з дорогоцінних каменів (Вишукане)
-DC/Text_DesignData_Item_Item_GemNecklace_5001,Gem Necklace (Perfect),Намисто з дорогоцінних каменів (досконале)
-DC/Text_DesignData_Item_Item_GemNecklace_6001,Gem Necklace (Royal),Намисто з дорогоцінних каменів (Королівське)
-DC/Text_DesignData_Item_Item_GemNecklace_7001,Gem Necklace (Ultimate),Намисто з дорогоцінних каменів (Досконале)
-DC/Text_DesignData_Item_Item_GemRing_1001,Gem Ring (Cracked),Перстень з дорогоцінним каменем (Тріснутий)
-DC/Text_DesignData_Item_Item_GemRing_2001,Gem Ring (Flawed),Перстень з дорогоцінним каменем (зіпсований)
-DC/Text_DesignData_Item_Item_GemRing_3001,Gem Ring (Normal),Перстень з дорогоцінним каменем (звичайний)
-DC/Text_DesignData_Item_Item_GemRing_4001,Gem Ring (Exquisite),Перстень з дорогоцінним каменем (Вишуканий)
-DC/Text_DesignData_Item_Item_GemRing_5001,Gem Ring (Perfect),Перстень з дорогоцінним каменем (досконалий)
-DC/Text_DesignData_Item_Item_GemRing_6001,Gem Ring (Royal),Перстень з дорогоцінним каменем (Королівський)
-DC/Text_DesignData_Item_Item_GemRing_7001,Gem Ring (Ultimate),Перстень з дорогоцінним каменем (Вищий)
+DC/Text_DesignData_Item_Item_GemNecklace_1001,Gem Necklace (Cracked),Намисто з Самоцвітом (Тріснуте)
+DC/Text_DesignData_Item_Item_GemNecklace_2001,Gem Necklace (Flawed),Намисто з Самоцвітом (Зіпсоване)
+DC/Text_DesignData_Item_Item_GemNecklace_3001,Gem Necklace (Normal),Намисто з Самоцвітом (Звичайне)
+DC/Text_DesignData_Item_Item_GemNecklace_4001,Gem Necklace (Exquisite),Намисто з Самоцвітом (Вишукане)
+DC/Text_DesignData_Item_Item_GemNecklace_5001,Gem Necklace (Perfect),Намисто з Самоцвітом (Досконале)
+DC/Text_DesignData_Item_Item_GemNecklace_6001,Gem Necklace (Royal),Намисто з Самоцвітом (Королівське)
+DC/Text_DesignData_Item_Item_GemNecklace_7001,Gem Necklace (Ultimate),Намисто з Самоцвітом (Надзвичайне)
+DC/Text_DesignData_Item_Item_GemRing_1001,Gem Ring (Cracked),Перстень з Самоцвітом (Тріснутий)
+DC/Text_DesignData_Item_Item_GemRing_2001,Gem Ring (Flawed),Перстень з Самоцвітом (Зіпсований)
+DC/Text_DesignData_Item_Item_GemRing_3001,Gem Ring (Normal),Перстень з Самоцвітом (Звичайний)
+DC/Text_DesignData_Item_Item_GemRing_4001,Gem Ring (Exquisite),Перстень з Самоцвітом (Вишуканий)
+DC/Text_DesignData_Item_Item_GemRing_5001,Gem Ring (Perfect),Перстень з Самоцвітом (Досконалий)
+DC/Text_DesignData_Item_Item_GemRing_6001,Gem Ring (Royal),Перстень з Самоцвітом (Королівський)
+DC/Text_DesignData_Item_Item_GemRing_7001,Gem Ring (Ultimate),Перстень з Самоцвітом (Надзвичайний)
 DC/Text_DesignData_Item_Item_GhostlyEssence,Ghostly Essence,Примарна сутність
 DC/Text_DesignData_Item_Item_GiantToe,Giant Toe,Гігантський палець на нозі
 DC/Text_DesignData_Item_Item_GingerbreadCookies,Gingerbread Cookie,Пряникове печиво
@@ -509,160 +509,160 @@ DC/Text_DesignData_Item_Item_Gjermundbu_4001,Gjermundbu,Г'єрмундбу
 DC/Text_DesignData_Item_Item_Gjermundbu_5001,Gjermundbu,Г'єрмундбу
 DC/Text_DesignData_Item_Item_Gjermundbu_6001,Gjermundbu,Г'єрмундбу
 DC/Text_DesignData_Item_Item_Gjermundbu_7001,Gjermundbu,Г'єрмундбу
-DC/Text_DesignData_Item_Item_GlovesOfUtility_1001,Gloves of Utility,Рукавиці Utility
+DC/Text_DesignData_Item_Item_GlovesOfUtility_1001,Gloves of Utility,Робочі рукавиці
 DC/Text_DesignData_Item_Item_GlovesOfUtility_2001,Gloves of Utility,Робочі рукавиці
-DC/Text_DesignData_Item_Item_GlovesOfUtility_3001,Gloves of Utility,Рукавиці Utility
-DC/Text_DesignData_Item_Item_GlovesOfUtility_4001,Gloves of Utility,Рукавиці Utility
-DC/Text_DesignData_Item_Item_GlovesOfUtility_5001,Gloves of Utility,Рукавиці утилітарні
-DC/Text_DesignData_Item_Item_GlovesOfUtility_6001,Gloves of Utility,Рукавиці утилітарні
-DC/Text_DesignData_Item_Item_GlovesOfUtility_7001,Gloves of Utility,Рукавиці корисності
-DC/Text_DesignData_Item_Item_GlowingBlueIceEyes,Glowing Blue Ice Eyes,Сяючі сині крижані очі
-DC/Text_DesignData_Item_Item_GoblinEars,Goblin Ear,Вухо гобліна
-DC/Text_DesignData_Item_Item_GoldBand_1001,Gold Band (Cracked),Золотий перстень (тріснутий)
-DC/Text_DesignData_Item_Item_GoldBand_2001,Gold Band (Flawed),Золотий перстень (бракований)
-DC/Text_DesignData_Item_Item_GoldBand_3001,Gold Band (Normal),Золотий перстень (звичайний)
-DC/Text_DesignData_Item_Item_GoldBand_4001,Gold Band (Exquisite),Золотий перстень (Вишуканий)
-DC/Text_DesignData_Item_Item_GoldBand_5001,Gold Band (Perfect),Золотий перстень (досконалий)
-DC/Text_DesignData_Item_Item_GoldBand_6001,Gold Band (Royal),Золотий бандаж (королівський)
-DC/Text_DesignData_Item_Item_GoldBand_7001,Gold Band (Ultimate),Золотий перстень (найвищого ґатунку)
-DC/Text_DesignData_Item_Item_GoldBangle1B_1001,Simple Gold Bangle (Cracked),Простий золотий браслет (з тріщинами)
-DC/Text_DesignData_Item_Item_GoldBangle1B_2001,Simple Gold Bangle (Flawed),Простий золотий браслет (з дефектами)
-DC/Text_DesignData_Item_Item_GoldBangle1B_3001,Simple Gold Bangle (Normal),Простий золотий браслет (нормальний)
-DC/Text_DesignData_Item_Item_GoldBangle1B_4001,Simple Gold Bangle (Exquisite),Простий золотий ланцюжок (Вишуканий)
-DC/Text_DesignData_Item_Item_GoldBangle1B_5001,Simple Gold Bangle (Perfect),Простий золотий браслет (досконалий)
-DC/Text_DesignData_Item_Item_GoldBangle1B_6001,Simple Gold Bangle (Royal),Простий золотий браслет (королівський)
-DC/Text_DesignData_Item_Item_GoldBangle1B_7001,Simple Gold Bangle (Ultimate),Простий золотий браслет (досконалий)
-DC/Text_DesignData_Item_Item_GoldBangle1C_1001,Patterned Gold Bangle (Cracked),Візерунчастий золотий браслет (з тріщинами)
-DC/Text_DesignData_Item_Item_GoldBangle1C_2001,Patterned Gold Bangle (Flawed),Візерунчастий золотий браслет (з дефектами)
-DC/Text_DesignData_Item_Item_GoldBangle1C_3001,Patterned Gold Bangle (Normal),Візерунчастий золотий браслет (нормальний)
-DC/Text_DesignData_Item_Item_GoldBangle1C_4001,Patterned Gold Bangle (Exquisite),Візерунчастий золотий браслет (вишуканий)
-DC/Text_DesignData_Item_Item_GoldBangle1C_5001,Patterned Gold Bangle (Perfect),Візерунчастий золотий браслет (бездоганний)
-DC/Text_DesignData_Item_Item_GoldBangle1C_6001,Patterned Gold Bangle (Royal),Візерунчастий золотий браслет (Королівський)
-DC/Text_DesignData_Item_Item_GoldBangle1C_7001,Patterned Gold Bangle (Ultimate),Візерунчастий золотий браслет (найвищого ґатунку)
-DC/Text_DesignData_Item_Item_GoldBangle1D_1001,Dotted Gold Bangle (Cracked),Золотий браслет з візерунком (з тріщинами)
-DC/Text_DesignData_Item_Item_GoldBangle1D_2001,Dotted Gold Bangle (Flawed),Золотий браслет з візерунком (з дефектами)
-DC/Text_DesignData_Item_Item_GoldBangle1D_3001,Dotted Gold Bangle (Normal),Золотий браслет з візерунком (Нормальний)
-DC/Text_DesignData_Item_Item_GoldBangle1D_4001,Dotted Gold Bangle (Exquisite),Золотий браслет з крапками (вишуканий)
-DC/Text_DesignData_Item_Item_GoldBangle1D_5001,Dotted Gold Bangle (Perfect),Золотий браслет з крапками (бездоганний)
-DC/Text_DesignData_Item_Item_GoldBangle1D_6001,Dotted Gold Bangle (Royal),Золотий браслет (Королівський)
-DC/Text_DesignData_Item_Item_GoldBangle1D_7001,Dotted Gold Bangle (Ultimate),Золотий браслет у цяточку (вишуканий)
-DC/Text_DesignData_Item_Item_GoldBangle1E_1001,Turquoise Gem Bangle (Cracked),Бірюзовий браслет (з тріщинами)
-DC/Text_DesignData_Item_Item_GoldBangle1E_2001,Turquoise Gem Bangle (Flawed),Бірюзовий браслет (з дефектами)
-DC/Text_DesignData_Item_Item_GoldBangle1E_3001,Turquoise Gem Bangle (Normal),Бірюзовий браслет (нормальний)
-DC/Text_DesignData_Item_Item_GoldBangle1E_4001,Turquoise Gem Bangle (Exquisite),Бірюзовий браслет (вишуканий)
-DC/Text_DesignData_Item_Item_GoldBangle1E_5001,Turquoise Gem Bangle (Perfect),Бірюзовий браслет (ідеальний)
-DC/Text_DesignData_Item_Item_GoldBangle1E_6001,Turquoise Gem Bangle (Royal),Бірюзовий браслет (королівський)
-DC/Text_DesignData_Item_Item_GoldBangle1E_7001,Turquoise Gem Bangle (Ultimate),Бірюзовий браслет (ідеальний)
-DC/Text_DesignData_Item_Item_GoldBangle1H_1001,Light Gold Bangle (Cracked),Світле золото (з тріщинами)
-DC/Text_DesignData_Item_Item_GoldBangle1H_2001,Light Gold Bangle (Flawed),Золотий браслет зі світлого золота (з дефектами)
-DC/Text_DesignData_Item_Item_GoldBangle1H_3001,Light Gold Bangle (Normal),Срібний браслет зі світлого золота (нормальний)
-DC/Text_DesignData_Item_Item_GoldBangle1H_4001,Light Gold Bangle (Exquisite),Золотий браслет зі світлого золота (вишуканий)
-DC/Text_DesignData_Item_Item_GoldBangle1H_5001,Light Gold Bangle (Perfect),Золотий браслет зі світлого золота (досконалий)
-DC/Text_DesignData_Item_Item_GoldBangle1H_6001,Light Gold Bangle (Royal),Золотий браслет зі світлого золота (королівський)
-DC/Text_DesignData_Item_Item_GoldBangle1H_7001,Light Gold Bangle (Ultimate),Золотий браслет зі світлого золота (досконалий)
-DC/Text_DesignData_Item_Item_GoldBangle1I_1001,Triple Gem Bangle (Cracked),Потрійний самоцвітний браслет (з тріщинами)
-DC/Text_DesignData_Item_Item_GoldBangle1I_2001,Triple Gem Bangle (Flawed),Потрійний самоцвітний браслет (з дефектами)
-DC/Text_DesignData_Item_Item_GoldBangle1I_3001,Triple Gem Bangle (Normal),Потрійний дорогоцінний камінь (нормальний)
-DC/Text_DesignData_Item_Item_GoldBangle1I_4001,Triple Gem Bangle (Exquisite),Потрійний дорогоцінний камінь (Вишуканий)
-DC/Text_DesignData_Item_Item_GoldBangle1I_5001,Triple Gem Bangle (Perfect),Перстень з потрійним дорогоцінним каменем (Ідеальний)
-DC/Text_DesignData_Item_Item_GoldBangle1I_6001,Triple Gem Bangle (Royal),Перстень з потрійним дорогоцінним каменем (королівський)
-DC/Text_DesignData_Item_Item_GoldBangle1I_7001,Triple Gem Bangle (Ultimate),Потрійний перстень з дорогоцінним каменем (найвищого ґатунку)
-DC/Text_DesignData_Item_Item_GoldBangle1J_1001,Leaf Gold Bangle (Cracked),Золотий браслет з листям (з тріщинами)
-DC/Text_DesignData_Item_Item_GoldBangle1J_2001,Leaf Gold Bangle (Flawed),Золотий браслет з листового золота (з дефектами)
-DC/Text_DesignData_Item_Item_GoldBangle1J_3001,Leaf Gold Bangle (Normal),Золотий браслет з листового золота (нормальний)
-DC/Text_DesignData_Item_Item_GoldBangle1J_4001,Leaf Gold Bangle (Exquisite),Золотий браслет з листового золота (вишуканий)
-DC/Text_DesignData_Item_Item_GoldBangle1J_5001,Leaf Gold Bangle (Perfect),Листяний золотий браслет (досконалий)
-DC/Text_DesignData_Item_Item_GoldBangle1J_6001,Leaf Gold Bangle (Royal),Листяний золотий браслет (королівський)
-DC/Text_DesignData_Item_Item_GoldBangle1J_7001,Leaf Gold Bangle (Ultimate),Листяний золотий браслет (ідеальний)
-DC/Text_DesignData_Item_Item_GoldBangle2D_1001,Slim Bangle (Cracked),Тонкий браслет (з тріщинами)
-DC/Text_DesignData_Item_Item_GoldBangle2D_2001,Slim Bangle (Flawed),Тонкий браслет (з дефектами)
-DC/Text_DesignData_Item_Item_GoldBangle2D_3001,Slim Bangle (Normal),Тонкий золотий браслет (Нормальний)
-DC/Text_DesignData_Item_Item_GoldBangle2D_4001,Slim Bangle (Exquisite),Тонкий золотий браслет (Вишуканий)
-DC/Text_DesignData_Item_Item_GoldBangle2D_5001,Slim Bangle (Perfect),Слім-браслет (ідеальний)
-DC/Text_DesignData_Item_Item_GoldBangle2D_6001,Slim Bangle (Royal),Слім-браслет (королівський)
-DC/Text_DesignData_Item_Item_GoldBangle2D_7001,Slim Bangle (Ultimate),Слім-браслет (ідеальний)
-DC/Text_DesignData_Item_Item_GoldBangle2G_1001,Glimmer Bangle (Cracked),Мерехтливий браслет (Тріснутий)
-DC/Text_DesignData_Item_Item_GoldBangle2G_2001,Glimmer Bangle (Flawed),Мерехтливий браслет (з дефектами)
-DC/Text_DesignData_Item_Item_GoldBangle2G_3001,Glimmer Bangle (Normal),Мерехтливий браслет (нормальний)
-DC/Text_DesignData_Item_Item_GoldBangle2G_4001,Glimmer Bangle (Exquisite),Мерехтливий браслет (Вишуканий)
-DC/Text_DesignData_Item_Item_GoldBangle2G_5001,Glimmer Bangle (Perfect),Мерехтливий браслет (Ідеальний)
-DC/Text_DesignData_Item_Item_GoldBangle2G_6001,Glimmer Bangle (Royal),Мерехтливий браслет (Королівський)
-DC/Text_DesignData_Item_Item_GoldBangle2G_7001,Glimmer Bangle (Ultimate),Мерехтливий браслет (ідеальний)
-DC/Text_DesignData_Item_Item_GoldBangle2H_1001,Shine Bangle (Cracked),Сяючий браслет (з тріщинами)
-DC/Text_DesignData_Item_Item_GoldBangle2H_2001,Shine Bangle (Flawed),Сяючий браслет (з дефектами)
-DC/Text_DesignData_Item_Item_GoldBangle2H_3001,Shine Bangle (Normal),Сяючий браслет (нормальний)
-DC/Text_DesignData_Item_Item_GoldBangle2H_4001,Shine Bangle (Exquisite),Блискучий браслет (Вишуканий)
-DC/Text_DesignData_Item_Item_GoldBangle2H_5001,Shine Bangle (Perfect),Сяйво (Ідеальне)
-DC/Text_DesignData_Item_Item_GoldBangle2H_6001,Shine Bangle (Royal),Сяйво Бангл (Королівський)
-DC/Text_DesignData_Item_Item_GoldBangle2H_7001,Shine Bangle (Ultimate),Сяючий перстень (досконалий)
-DC/Text_DesignData_Item_Item_GoldBowl_1001,Gold Bowl (Cracked),Золота чаша (Тріснута)
-DC/Text_DesignData_Item_Item_GoldBowl_2001,Gold Bowl (Flawed),Золота чаша (з дефектами)
-DC/Text_DesignData_Item_Item_GoldBowl_3001,Gold Bowl (Normal),Золота чаша (звичайна)
-DC/Text_DesignData_Item_Item_GoldBowl_4001,Gold Bowl (Exquisite),Золота чаша (Вишукана)
-DC/Text_DesignData_Item_Item_GoldBowl_5001,Gold Bowl (Perfect),Золота чаша (досконала)
-DC/Text_DesignData_Item_Item_GoldBowl_6001,Gold Bowl (Royal),Золота чаша (Королівська)
-DC/Text_DesignData_Item_Item_GoldBowl_7001,Gold Bowl (Ultimate),Золота чаша (досконала)
-DC/Text_DesignData_Item_Item_GoldCandelabra_1001,Gold Candelabra (Cracked),Золотий канделябр (Тріснутий)
-DC/Text_DesignData_Item_Item_GoldCandelabra_2001,Gold Candelabra (Flawed),Золотий канделябр (з дефектами)
-DC/Text_DesignData_Item_Item_GoldCandelabra_3001,Gold Candelabra (Normal),Золотий канделябр (Нормальний)
-DC/Text_DesignData_Item_Item_GoldCandelabra_4001,Gold Candelabra (Exquisite),Золотий канделябр (Вишуканий)
-DC/Text_DesignData_Item_Item_GoldCandelabra_5001,Gold Candelabra (Perfect),Золотий канделябр (досконалий)
-DC/Text_DesignData_Item_Item_GoldCandelabra_6001,Gold Candelabra (Royal),Золотий канделябр (Королівський)
-DC/Text_DesignData_Item_Item_GoldCandelabra_7001,Gold Candelabra (Ultimate),Золотий канделябр (досконалий)
-DC/Text_DesignData_Item_Item_GoldCandleHolder_1001,Gold Candle Holder (Cracked),Золотий підсвічник (з тріщинами)
-DC/Text_DesignData_Item_Item_GoldCandleHolder_2001,Gold Candle Holder (Flawed),Золотий підсвічник (з дефектами)
-DC/Text_DesignData_Item_Item_GoldCandleHolder_3001,Gold Candle Holder (Normal),Золотий підсвічник (нормальний)
-DC/Text_DesignData_Item_Item_GoldCandleHolder_4001,Gold Candle Holder (Exquisite),Золотий підсвічник (Вишуканий)
-DC/Text_DesignData_Item_Item_GoldCandleHolder_5001,Gold Candle Holder (Perfect),Золотий підсвічник (досконалий)
-DC/Text_DesignData_Item_Item_GoldCandleHolder_6001,Gold Candle Holder (Royal),Золотий підсвічник (королівський)
-DC/Text_DesignData_Item_Item_GoldCandleHolder_7001,Gold Candle Holder (Ultimate),Золотий підсвічник (досконалий)
-DC/Text_DesignData_Item_Item_GoldCandlePlatter_1001,Gold Candle Platter (Cracked),Золотий підсвічник (з тріщинами)
-DC/Text_DesignData_Item_Item_GoldCandlePlatter_2001,Gold Candle Platter (Flawed),Золотий підсвічник (з дефектами)
-DC/Text_DesignData_Item_Item_GoldCandlePlatter_3001,Gold Candle Platter (Normal),Золотий підсвічник (нормальний)
-DC/Text_DesignData_Item_Item_GoldCandlePlatter_4001,Gold Candle Platter (Exquisite),Золоте підсвічник (Вишукане)
-DC/Text_DesignData_Item_Item_GoldCandlePlatter_5001,Gold Candle Platter (Perfect),Золоте підсвічник (досконале)
-DC/Text_DesignData_Item_Item_GoldCandlePlatter_6001,Gold Candle Platter (Royal),Золоте підсвічник (Королівське)
-DC/Text_DesignData_Item_Item_GoldCandlePlatter_7001,Gold Candle Platter (Ultimate),Золотий підсвічник (досконалий)
-DC/Text_DesignData_Item_Item_GoldChaliceA_1001,Gold Goblet (Cracked),Золотий кубок (Тріснутий)
-DC/Text_DesignData_Item_Item_GoldChaliceA_2001,Gold Goblet (Flawed),Золотий келих (зіпсований)
-DC/Text_DesignData_Item_Item_GoldChaliceA_3001,Gold Goblet (Normal),Золотий кубок (звичайний)
-DC/Text_DesignData_Item_Item_GoldChaliceA_4001,Gold Goblet (Exquisite),Золотий кубок (Вишуканий)
-DC/Text_DesignData_Item_Item_GoldChaliceA_5001,Gold Goblet (Perfect),Золотий кубок (Досконалий)
-DC/Text_DesignData_Item_Item_GoldChaliceA_6001,Gold Goblet (Royal),Золотий кубок (Королівський)
-DC/Text_DesignData_Item_Item_GoldChaliceA_7001,Gold Goblet (Ultimate),Золотий кубок (Досконалий)
-DC/Text_DesignData_Item_Item_GoldChaliceB_1001,Gold Chalice (Cracked),Золотий кубок (Тріснутий)
-DC/Text_DesignData_Item_Item_GoldChaliceB_2001,Gold Chalice (Flawed),Золотий кубок (Неповноцінний)
-DC/Text_DesignData_Item_Item_GoldChaliceB_3001,Gold Chalice (Normal),Золотий кубок (звичайний)
-DC/Text_DesignData_Item_Item_GoldChaliceB_4001,Gold Chalice (Exquisite),Золотий кубок (Вишуканий)
-DC/Text_DesignData_Item_Item_GoldChaliceB_5001,Gold Chalice (Perfect),Золотий кубок (Досконалий)
-DC/Text_DesignData_Item_Item_GoldChaliceB_6001,Gold Chalice (Royal),Золота чаша (Королівська)
-DC/Text_DesignData_Item_Item_GoldChaliceB_7001,Gold Chalice (Ultimate),Золота чаша (Досконала)
-DC/Text_DesignData_Item_Item_GoldCoinBag,Gold Coin Bag,Мішок із золотими монетами
-DC/Text_DesignData_Item_Item_GoldCoinChest,Gold Coin Chest,Скриня для золотих монет
-DC/Text_DesignData_Item_Item_GoldCoinPurse,Gold Coin Purse,Гаманець для золотих монет
-DC/Text_DesignData_Item_Item_GoldCoins,Gold Coin,Золота монета
-DC/Text_DesignData_Item_Item_GoldCrown_1001,Gold Crown (Cracked),Золота корона (тріснута)
-DC/Text_DesignData_Item_Item_GoldCrown_2001,Gold Crown (Flawed),Золота корона (з дефектами)
-DC/Text_DesignData_Item_Item_GoldCrown_3001,Gold Crown (Normal),Золота корона (звичайна)
-DC/Text_DesignData_Item_Item_GoldCrown_4001,Gold Crown (Exquisite),Золота корона (Вишукана)
-DC/Text_DesignData_Item_Item_GoldCrown_5001,Gold Crown (Perfect),Золота корона (Досконала)
-DC/Text_DesignData_Item_Item_GoldCrown_6001,Gold Crown (Royal),Золота корона (Королівська)
-DC/Text_DesignData_Item_Item_GoldCrown_7001,Gold Crown (Ultimate),Золота корона (Найвища)
-DC/Text_DesignData_Item_Item_GoldIngots_5001,Gold Ingot,Золотий злиток
-DC/Text_DesignData_Item_Item_GoldOres_5001,Gold Ore,Золота руда
-DC/Text_DesignData_Item_Item_GoldPowder_5001,Gold Powder,Золотий порошок
-DC/Text_DesignData_Item_Item_GoldWaterpot_1001,Gold Waterpot (Cracked),Золотий горщик (Тріснутий)
-DC/Text_DesignData_Item_Item_GoldWaterpot_2001,Gold Waterpot (Flawed),Золотий горщик (Зіпсований)
-DC/Text_DesignData_Item_Item_GoldWaterpot_3001,Gold Waterpot (Normal),Золотий горщик (Звичайний)
-DC/Text_DesignData_Item_Item_GoldWaterpot_4001,Gold Waterpot (Exquisite),Золотий горщик (Вишуканий)
-DC/Text_DesignData_Item_Item_GoldWaterpot_5001,Gold Waterpot (Perfect),Золотий горщик (Досконалий)
-DC/Text_DesignData_Item_Item_GoldWaterpot_6001,Gold Waterpot (Royal),Золотий горщик (Королівський)
-DC/Text_DesignData_Item_Item_GoldWaterpot_7001,Gold Waterpot (Ultimate),Золотий горщик (Надзвичайний)
+DC/Text_DesignData_Item_Item_GlovesOfUtility_3001,Gloves of Utility,Робочі рукавиці
+DC/Text_DesignData_Item_Item_GlovesOfUtility_4001,Gloves of Utility,Робочі рукавиці
+DC/Text_DesignData_Item_Item_GlovesOfUtility_5001,Gloves of Utility,Робочі рукавиці
+DC/Text_DesignData_Item_Item_GlovesOfUtility_6001,Gloves of Utility,Робочі рукавиці
+DC/Text_DesignData_Item_Item_GlovesOfUtility_7001,Gloves of Utility,Робочі рукавиці
+DC/Text_DesignData_Item_Item_GlowingBlueIceEyes,Glowing Blue Ice Eyes,Сяючі Сині Крижані Очі
+DC/Text_DesignData_Item_Item_GoblinEars,Goblin Ear,Вухо Гобліна
+DC/Text_DesignData_Item_Item_GoldBand_1001,Gold Band (Cracked),Золотий Ланцюжок (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldBand_2001,Gold Band (Flawed),Золотий Ланцюжок (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldBand_3001,Gold Band (Normal),Золотий Ланцюжок (Звичайний)
+DC/Text_DesignData_Item_Item_GoldBand_4001,Gold Band (Exquisite),Золотий Ланцюжок (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldBand_5001,Gold Band (Perfect),Золотий Ланцюжок (Досконалий)
+DC/Text_DesignData_Item_Item_GoldBand_6001,Gold Band (Royal),Золотий Ланцюжок (Королівський)
+DC/Text_DesignData_Item_Item_GoldBand_7001,Gold Band (Ultimate),Золотий Ланцюжок (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1B_1001,Simple Gold Bangle (Cracked),Простий Золотий Браслет (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldBangle1B_2001,Simple Gold Bangle (Flawed),Простий Золотий Браслет (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldBangle1B_3001,Simple Gold Bangle (Normal),Простий Золотий Браслет (Звичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1B_4001,Simple Gold Bangle (Exquisite),Простий Золотий Браслет (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldBangle1B_5001,Simple Gold Bangle (Perfect),Простий Золотий Браслет (Досконалий)
+DC/Text_DesignData_Item_Item_GoldBangle1B_6001,Simple Gold Bangle (Royal),Простий Золотий Браслет (Королівський)
+DC/Text_DesignData_Item_Item_GoldBangle1B_7001,Simple Gold Bangle (Ultimate),Простий Золотий Браслет (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1C_1001,Patterned Gold Bangle (Cracked),Золотий Браслет з Візерунком (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldBangle1C_2001,Patterned Gold Bangle (Flawed),Золотий Браслет з Візерунком (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldBangle1C_3001,Patterned Gold Bangle (Normal),Золотий Браслет з Візерунком (Звичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1C_4001,Patterned Gold Bangle (Exquisite),Золотий Браслет з Візерунком (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldBangle1C_5001,Patterned Gold Bangle (Perfect),Золотий Браслет з Візерунком (Досконалий)
+DC/Text_DesignData_Item_Item_GoldBangle1C_6001,Patterned Gold Bangle (Royal),Золотий Браслет з Візерунком (Королівський)
+DC/Text_DesignData_Item_Item_GoldBangle1C_7001,Patterned Gold Bangle (Ultimate),Золотий Браслет з Візерунком (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1D_1001,Dotted Gold Bangle (Cracked),Золотий Браслет з Круглим Орнаментом (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldBangle1D_2001,Dotted Gold Bangle (Flawed),Золотий Браслет з Круглим Орнаментом (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldBangle1D_3001,Dotted Gold Bangle (Normal),Золотий Браслет з Круглим Орнаментом (Звичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1D_4001,Dotted Gold Bangle (Exquisite),Золотий Браслет з Круглим Орнаментом (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldBangle1D_5001,Dotted Gold Bangle (Perfect),Золотий Браслет з Круглим Орнаментом (Досконалий)
+DC/Text_DesignData_Item_Item_GoldBangle1D_6001,Dotted Gold Bangle (Royal),Золотий Браслет з Круглим Орнаментом (Королівський)
+DC/Text_DesignData_Item_Item_GoldBangle1D_7001,Dotted Gold Bangle (Ultimate),Золотий Браслет з Круглим Орнаментом (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1E_1001,Turquoise Gem Bangle (Cracked),Браслет з Бірюзою (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldBangle1E_2001,Turquoise Gem Bangle (Flawed),Браслет з Бірюзою (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldBangle1E_3001,Turquoise Gem Bangle (Normal),Браслет з Бірюзою (Звичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1E_4001,Turquoise Gem Bangle (Exquisite),Браслет з Бірюзою (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldBangle1E_5001,Turquoise Gem Bangle (Perfect),Браслет з Бірюзою (Досконалий)
+DC/Text_DesignData_Item_Item_GoldBangle1E_6001,Turquoise Gem Bangle (Royal),Браслет з Бірюзою (Королівський)
+DC/Text_DesignData_Item_Item_GoldBangle1E_7001,Turquoise Gem Bangle (Ultimate),Браслет з Бірюзою (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1H_1001,Light Gold Bangle (Cracked),Легкий Золотий Браслет (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldBangle1H_2001,Light Gold Bangle (Flawed),Легкий Золотий Браслет (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldBangle1H_3001,Light Gold Bangle (Normal),Легкий Золотий Браслет (Звичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1H_4001,Light Gold Bangle (Exquisite),Легкий Золотий Браслет (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldBangle1H_5001,Light Gold Bangle (Perfect),Легкий Золотий Браслет (Досконалий)
+DC/Text_DesignData_Item_Item_GoldBangle1H_6001,Light Gold Bangle (Royal),Легкий Золотий Браслет (Королівський)
+DC/Text_DesignData_Item_Item_GoldBangle1H_7001,Light Gold Bangle (Ultimate),Легкий Золотий Браслет (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1I_1001,Triple Gem Bangle (Cracked),Браслет із Дорогоцінним Камінням (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldBangle1I_2001,Triple Gem Bangle (Flawed),Браслет із Дорогоцінним Камінням (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldBangle1I_3001,Triple Gem Bangle (Normal),Браслет із Дорогоцінним Камінням (Звичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1I_4001,Triple Gem Bangle (Exquisite),Браслет із Дорогоцінним Камінням (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldBangle1I_5001,Triple Gem Bangle (Perfect),Браслет із Дорогоцінним Камінням (Досконалий)
+DC/Text_DesignData_Item_Item_GoldBangle1I_6001,Triple Gem Bangle (Royal),Браслет із Дорогоцінним Камінням (Королівський)
+DC/Text_DesignData_Item_Item_GoldBangle1I_7001,Triple Gem Bangle (Ultimate),Браслет із Дорогоцінним Камінням (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1J_1001,Leaf Gold Bangle (Cracked),Браслет із Листового Золота (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldBangle1J_2001,Leaf Gold Bangle (Flawed),Браслет із Листового Золота (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldBangle1J_3001,Leaf Gold Bangle (Normal),Браслет із Листового Золота (Звичайний)
+DC/Text_DesignData_Item_Item_GoldBangle1J_4001,Leaf Gold Bangle (Exquisite),Браслет із Листового Золота (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldBangle1J_5001,Leaf Gold Bangle (Perfect),Браслет із Листового Золота (Досконалий)
+DC/Text_DesignData_Item_Item_GoldBangle1J_6001,Leaf Gold Bangle (Royal),Браслет із Листового Золота (Королівський)
+DC/Text_DesignData_Item_Item_GoldBangle1J_7001,Leaf Gold Bangle (Ultimate),Браслет із Листового Золота (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldBangle2D_1001,Slim Bangle (Cracked),Витончений Браслет (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldBangle2D_2001,Slim Bangle (Flawed),Витончений Браслет (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldBangle2D_3001,Slim Bangle (Normal),Витончений Браслет (Звичайний)
+DC/Text_DesignData_Item_Item_GoldBangle2D_4001,Slim Bangle (Exquisite),Витончений Браслет (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldBangle2D_5001,Slim Bangle (Perfect),Витончений Браслет (Досконалий)
+DC/Text_DesignData_Item_Item_GoldBangle2D_6001,Slim Bangle (Royal),Витончений Браслет (Королівський)
+DC/Text_DesignData_Item_Item_GoldBangle2D_7001,Slim Bangle (Ultimate),Витончений Браслет (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldBangle2G_1001,Glimmer Bangle (Cracked),Мерехтливий Браслет (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldBangle2G_2001,Glimmer Bangle (Flawed),Мерехтливий Браслет (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldBangle2G_3001,Glimmer Bangle (Normal),Мерехтливий Браслет (Звичайний)
+DC/Text_DesignData_Item_Item_GoldBangle2G_4001,Glimmer Bangle (Exquisite),Мерехтливий Браслет (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldBangle2G_5001,Glimmer Bangle (Perfect),Мерехтливий Браслет (Досконалий)
+DC/Text_DesignData_Item_Item_GoldBangle2G_6001,Glimmer Bangle (Royal),Мерехтливий Браслет (Королівський)
+DC/Text_DesignData_Item_Item_GoldBangle2G_7001,Glimmer Bangle (Ultimate),Мерехтливий Браслет (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldBangle2H_1001,Shine Bangle (Cracked),Сяючий Браслет (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldBangle2H_2001,Shine Bangle (Flawed),Сяючий Браслет (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldBangle2H_3001,Shine Bangle (Normal),Сяючий Браслет (Звичайний)
+DC/Text_DesignData_Item_Item_GoldBangle2H_4001,Shine Bangle (Exquisite),Сяючий Браслет (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldBangle2H_5001,Shine Bangle (Perfect),Сяючий Браслет (Досконалий)
+DC/Text_DesignData_Item_Item_GoldBangle2H_6001,Shine Bangle (Royal),Сяючий Браслет (Королівський)
+DC/Text_DesignData_Item_Item_GoldBangle2H_7001,Shine Bangle (Ultimate),Сяючий Браслет (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldBowl_1001,Gold Bowl (Cracked),Золота Чаша (Тріснута)
+DC/Text_DesignData_Item_Item_GoldBowl_2001,Gold Bowl (Flawed),Золота Чаша (Зіпсована)
+DC/Text_DesignData_Item_Item_GoldBowl_3001,Gold Bowl (Normal),Золота Чаша (Звичайна)
+DC/Text_DesignData_Item_Item_GoldBowl_4001,Gold Bowl (Exquisite),Золота Чаша (Вишукана)
+DC/Text_DesignData_Item_Item_GoldBowl_5001,Gold Bowl (Perfect),Золота Чаша (Досконала)
+DC/Text_DesignData_Item_Item_GoldBowl_6001,Gold Bowl (Royal),Золота Чаша (Королівська)
+DC/Text_DesignData_Item_Item_GoldBowl_7001,Gold Bowl (Ultimate),Золота Чаша (Надзвичайна)
+DC/Text_DesignData_Item_Item_GoldCandelabra_1001,Gold Candelabra (Cracked),Золотий Канделябр (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldCandelabra_2001,Gold Candelabra (Flawed),Золотий Канделябр (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldCandelabra_3001,Gold Candelabra (Normal),Золотий Канделябр (Звичайний)
+DC/Text_DesignData_Item_Item_GoldCandelabra_4001,Gold Candelabra (Exquisite),Золотий Канделябр (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldCandelabra_5001,Gold Candelabra (Perfect),Золотий Канделябр (Досконалий)
+DC/Text_DesignData_Item_Item_GoldCandelabra_6001,Gold Candelabra (Royal),Золотий Канделябр (Королівський)
+DC/Text_DesignData_Item_Item_GoldCandelabra_7001,Gold Candelabra (Ultimate),Золотий Канделябр (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldCandleHolder_1001,Gold Candle Holder (Cracked),Золотий Підсвічник (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldCandleHolder_2001,Gold Candle Holder (Flawed),Золотий Підсвічник (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldCandleHolder_3001,Gold Candle Holder (Normal),Золотий Підсвічник (Звичайний)
+DC/Text_DesignData_Item_Item_GoldCandleHolder_4001,Gold Candle Holder (Exquisite),Золотий Підсвічник (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldCandleHolder_5001,Gold Candle Holder (Perfect),Золотий Підсвічник (Досконалий)
+DC/Text_DesignData_Item_Item_GoldCandleHolder_6001,Gold Candle Holder (Royal),Золотий Підсвічник (Королівський)
+DC/Text_DesignData_Item_Item_GoldCandleHolder_7001,Gold Candle Holder (Ultimate),Золотий Підсвічник (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldCandlePlatter_1001,Gold Candle Platter (Cracked),Золота Чаша-Підсвічник (Тріснута)
+DC/Text_DesignData_Item_Item_GoldCandlePlatter_2001,Gold Candle Platter (Flawed),Золота Чаша-Підсвічник (Зіпсована)
+DC/Text_DesignData_Item_Item_GoldCandlePlatter_3001,Gold Candle Platter (Normal),Золота Чаша-Підсвічник (Звичайна)
+DC/Text_DesignData_Item_Item_GoldCandlePlatter_4001,Gold Candle Platter (Exquisite),Золота Чаша-Підсвічник (Вишукана)
+DC/Text_DesignData_Item_Item_GoldCandlePlatter_5001,Gold Candle Platter (Perfect),Золота Чаша-Підсвічник (Досконала)
+DC/Text_DesignData_Item_Item_GoldCandlePlatter_6001,Gold Candle Platter (Royal),Золота Чаша-Підсвічник (Королівська)
+DC/Text_DesignData_Item_Item_GoldCandlePlatter_7001,Gold Candle Platter (Ultimate),Золота Чаша-Підсвічник (Надзвичайна)
+DC/Text_DesignData_Item_Item_GoldChaliceA_1001,Gold Goblet (Cracked),Золотий Кубок (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldChaliceA_2001,Gold Goblet (Flawed),Золотий келих (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldChaliceA_3001,Gold Goblet (Normal),Золотий Кубок (Звичайний)
+DC/Text_DesignData_Item_Item_GoldChaliceA_4001,Gold Goblet (Exquisite),Золотий Кубок (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldChaliceA_5001,Gold Goblet (Perfect),Золотий Кубок (Досконалий)
+DC/Text_DesignData_Item_Item_GoldChaliceA_6001,Gold Goblet (Royal),Золотий Кубок (Королівський)
+DC/Text_DesignData_Item_Item_GoldChaliceA_7001,Gold Goblet (Ultimate),Золотий Кубок (Надзвичайний)
+DC/Text_DesignData_Item_Item_GoldChaliceB_1001,Gold Chalice (Cracked),Золота Чашечка (Тріснута)
+DC/Text_DesignData_Item_Item_GoldChaliceB_2001,Gold Chalice (Flawed),Золота Чашечка (Зіпсована)
+DC/Text_DesignData_Item_Item_GoldChaliceB_3001,Gold Chalice (Normal),Золота Чашечка (Звичайна)
+DC/Text_DesignData_Item_Item_GoldChaliceB_4001,Gold Chalice (Exquisite),Золота Чашечка (Вишукана)
+DC/Text_DesignData_Item_Item_GoldChaliceB_5001,Gold Chalice (Perfect),Золота Чашечка (Досконала)
+DC/Text_DesignData_Item_Item_GoldChaliceB_6001,Gold Chalice (Royal),Золота Чашечка (Королівська)
+DC/Text_DesignData_Item_Item_GoldChaliceB_7001,Gold Chalice (Ultimate),Золота Чашечка (Надзвичайна)
+DC/Text_DesignData_Item_Item_GoldCoinBag,Gold Coin Bag,Мішок для Золотих Монет
+DC/Text_DesignData_Item_Item_GoldCoinChest,Gold Coin Chest,Скриня для Золотих Монет
+DC/Text_DesignData_Item_Item_GoldCoinPurse,Gold Coin Purse,Гаманець для Золотих Монет
+DC/Text_DesignData_Item_Item_GoldCoins,Gold Coin,Золота Монета
+DC/Text_DesignData_Item_Item_GoldCrown_1001,Gold Crown (Cracked),Золота Корона (Тріснута)
+DC/Text_DesignData_Item_Item_GoldCrown_2001,Gold Crown (Flawed),Золота Корона (Зіпсована)
+DC/Text_DesignData_Item_Item_GoldCrown_3001,Gold Crown (Normal),Золота Корона (Звичайна)
+DC/Text_DesignData_Item_Item_GoldCrown_4001,Gold Crown (Exquisite),Золота Корона (Вишукана)
+DC/Text_DesignData_Item_Item_GoldCrown_5001,Gold Crown (Perfect),Золота Корона (Досконала)
+DC/Text_DesignData_Item_Item_GoldCrown_6001,Gold Crown (Royal),Золота Корона (Королівська)
+DC/Text_DesignData_Item_Item_GoldCrown_7001,Gold Crown (Ultimate),Золота Корона (Надзвичайна)
+DC/Text_DesignData_Item_Item_GoldIngots_5001,Gold Ingot,Золотий Злиток
+DC/Text_DesignData_Item_Item_GoldOres_5001,Gold Ore,Золота Руда
+DC/Text_DesignData_Item_Item_GoldPowder_5001,Gold Powder,Золотий Порошок
+DC/Text_DesignData_Item_Item_GoldWaterpot_1001,Gold Waterpot (Cracked),Золотий Глечик (Тріснутий)
+DC/Text_DesignData_Item_Item_GoldWaterpot_2001,Gold Waterpot (Flawed),Золотий Глечик (Зіпсований)
+DC/Text_DesignData_Item_Item_GoldWaterpot_3001,Gold Waterpot (Normal),Золотий Глечик (Звичайний)
+DC/Text_DesignData_Item_Item_GoldWaterpot_4001,Gold Waterpot (Exquisite),Золотий Глечик (Вишуканий)
+DC/Text_DesignData_Item_Item_GoldWaterpot_5001,Gold Waterpot (Perfect),Золотий Глечик (Досконалий)
+DC/Text_DesignData_Item_Item_GoldWaterpot_6001,Gold Waterpot (Royal),Золотий Глечик (Королівський)
+DC/Text_DesignData_Item_Item_GoldWaterpot_7001,Gold Waterpot (Ultimate),Золотий Глечик (Надзвичайний)
 DC/Text_DesignData_Item_Item_GoldenArmet_5001,Golden Armet,Золотий Армет
 DC/Text_DesignData_Item_Item_GoldenBoots_5001,Golden Boots,Золоті чоботи
-DC/Text_DesignData_Item_Item_GoldenChausses_5001,Golden Chausses,Золоті кальсони
+DC/Text_DesignData_Item_Item_GoldenChausses_5001,Golden Chausses,Золоті Кальсони
 DC/Text_DesignData_Item_Item_GoldenCloak_5001,Golden Cloak,Золотий плащ
-DC/Text_DesignData_Item_Item_GoldenFellingAxe_5001,Golden Felling Axe,Золота сокира
+DC/Text_DesignData_Item_Item_GoldenFellingAxe_5001,Golden Felling Axe,Золота Лісорубна Сокира
 DC/Text_DesignData_Item_Item_GoldenGauntlets_5001,Golden Gauntlets,Золоті Рукавиці
 DC/Text_DesignData_Item_Item_GoldenGjermundbu_5001,Golden Gjermundbu,Золотий Г'єрмундбу
 DC/Text_DesignData_Item_Item_GoldenGloves_5001,Golden Gloves,Золоті Рукавички
@@ -671,8 +671,8 @@ DC/Text_DesignData_Item_Item_GoldenKey,Golden Key,Золотий ключ
 DC/Text_DesignData_Item_Item_GoldenLeafHood_5001,Golden Leaf Hood,Золотий капюшон з золотим листям
 DC/Text_DesignData_Item_Item_GoldenLeggings_5001,Golden Leggings,Золоті Легінси
 DC/Text_DesignData_Item_Item_GoldenPaddedTunic_5001,Golden Padded Tunic,Золота туніка на підкладці
-DC/Text_DesignData_Item_Item_GoldenPlateBoots_5001,Golden Plate Boots,Чоботи на золотих пластинах
-DC/Text_DesignData_Item_Item_GoldenPlatePants_5001,Golden Plate Pants,"Штани ""Золота пластина"
+DC/Text_DesignData_Item_Item_GoldenPlateBoots_5001,Golden Plate Boots,Латні Чоботи з Золота
+DC/Text_DesignData_Item_Item_GoldenPlatePants_5001,Golden Plate Pants,Латні Штани з Золота
 DC/Text_DesignData_Item_Item_GoldenPlate_5001,Golden Plate,Золоті лати
 DC/Text_DesignData_Item_Item_GoldenRobe_5001,Golden Robe,Золотий халат
 DC/Text_DesignData_Item_Item_GoldenScarf_5001,Golden Scarf,Золотий шарф
@@ -694,14 +694,14 @@ DC/Text_DesignData_Item_Item_Halberd_3001,Halberd,Алебарда
 DC/Text_DesignData_Item_Item_Halberd_4001,Halberd,Алебарда
 DC/Text_DesignData_Item_Item_Halberd_5001,Halberd,Алебарда
 DC/Text_DesignData_Item_Item_Halberd_6001,Halberd,Алебарда
-DC/Text_DesignData_Item_Item_Halberd_7001,Cinder,Кресало
-DC/Text_DesignData_Item_Item_HandCrossbow_1001,Hand Crossbow,Ручний арбалет
-DC/Text_DesignData_Item_Item_HandCrossbow_2001,Hand Crossbow,Ручний арбалет
-DC/Text_DesignData_Item_Item_HandCrossbow_3001,Hand Crossbow,Ручний арбалет
-DC/Text_DesignData_Item_Item_HandCrossbow_4001,Hand Crossbow,Ручний арбалет
-DC/Text_DesignData_Item_Item_HandCrossbow_5001,Hand Crossbow,Ручний арбалет
-DC/Text_DesignData_Item_Item_HandCrossbow_6001,Hand Crossbow,Ручний арбалет
-DC/Text_DesignData_Item_Item_HandCrossbow_7001,Hand Crossbow,Ручний арбалет
+DC/Text_DesignData_Item_Item_Halberd_7001,Cinder,Зола
+DC/Text_DesignData_Item_Item_HandCrossbow_1001,Hand Crossbow,Ручний Арбалет
+DC/Text_DesignData_Item_Item_HandCrossbow_2001,Hand Crossbow,Ручний Арбалет
+DC/Text_DesignData_Item_Item_HandCrossbow_3001,Hand Crossbow,Ручний Арбалет
+DC/Text_DesignData_Item_Item_HandCrossbow_4001,Hand Crossbow,Ручний Арбалет
+DC/Text_DesignData_Item_Item_HandCrossbow_5001,Hand Crossbow,Ручний Арбалет
+DC/Text_DesignData_Item_Item_HandCrossbow_6001,Hand Crossbow,Ручний Арбалет
+DC/Text_DesignData_Item_Item_HandCrossbow_7001,Hand Crossbow,Ручний Арбалет
 DC/Text_DesignData_Item_Item_Hatchet_1001,Hatchet,Сокира
 DC/Text_DesignData_Item_Item_Hatchet_2001,Hatchet,Сокира
 DC/Text_DesignData_Item_Item_Hatchet_3001,Hatchet,Сокира
@@ -737,14 +737,14 @@ DC/Text_DesignData_Item_Item_HeavyGambeson_4001,Heavy Gambeson,Важкий га
 DC/Text_DesignData_Item_Item_HeavyGambeson_5001,Heavy Gambeson,Важкий гамбезон
 DC/Text_DesignData_Item_Item_HeavyGambeson_6001,Heavy Gambeson,Важкий гамбезон
 DC/Text_DesignData_Item_Item_HeavyGambeson_7001,Heavy Gambeson,Важкий гамбезон
-DC/Text_DesignData_Item_Item_HeavyGauntlet_1001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_2001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_3001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_4001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_5001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_6001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_7001,Heavy Gauntlets,Важкі рукавиці
-DC/Text_DesignData_Item_Item_HeavyGauntlet_RS,Rubysilver Gauntlets,Важкі рукавиці з рубінового срібла
+DC/Text_DesignData_Item_Item_HeavyGauntlet_1001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_2001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_3001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_4001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_5001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_6001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_7001,Heavy Gauntlets,Важкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_HeavyGauntlet_RS,Rubysilver Gauntlets,Важкі Латні Рукавиці З Рубінового Срібла
 DC/Text_DesignData_Item_Item_HeavyLeatherLeggings_1001,Heavy Leather Leggings,Важкі шкіряні легінси
 DC/Text_DesignData_Item_Item_HeavyLeatherLeggings_2001,Heavy Leather Leggings,Важкі шкіряні легінси
 DC/Text_DesignData_Item_Item_HeavyLeatherLeggings_3001,Heavy Leather Leggings,Важкі шкіряні легінси
@@ -754,13 +754,13 @@ DC/Text_DesignData_Item_Item_HeavyLeatherLeggings_6001,Heavy Leather Leggings,В
 DC/Text_DesignData_Item_Item_HeavyLeatherLeggings_7001,Heavy Leather Leggings,Важкі шкіряні легінси
 DC/Text_DesignData_Item_Item_Hood_RS,Rubysilver Hood,Капюшон з рубінового срібла
 DC/Text_DesignData_Item_Item_HornOfCentaur,Centaur Horn,Ріг кентавра
-DC/Text_DesignData_Item_Item_HorsemansAxe_1001,Horseman's Axe,Сокира вершника
-DC/Text_DesignData_Item_Item_HorsemansAxe_2001,Horseman's Axe,Сокира вершника
-DC/Text_DesignData_Item_Item_HorsemansAxe_3001,Horseman's Axe,Сокира вершника
-DC/Text_DesignData_Item_Item_HorsemansAxe_4001,Horseman's Axe,Сокира вершника
-DC/Text_DesignData_Item_Item_HorsemansAxe_5001,Horseman's Axe,Сокира вершника
-DC/Text_DesignData_Item_Item_HorsemansAxe_6001,Horseman's Axe,Сокира вершника
-DC/Text_DesignData_Item_Item_HorsemansAxe_7001,Famine,Сокира вершника
+DC/Text_DesignData_Item_Item_HorsemansAxe_1001,Horseman's Axe,Сокира Вершника
+DC/Text_DesignData_Item_Item_HorsemansAxe_2001,Horseman's Axe,Сокира Вершника
+DC/Text_DesignData_Item_Item_HorsemansAxe_3001,Horseman's Axe,Сокира Вершника
+DC/Text_DesignData_Item_Item_HorsemansAxe_4001,Horseman's Axe,Сокира Вершника
+DC/Text_DesignData_Item_Item_HorsemansAxe_5001,Horseman's Axe,Сокира Вершника
+DC/Text_DesignData_Item_Item_HorsemansAxe_6001,Horseman's Axe,Сокира Вершника
+DC/Text_DesignData_Item_Item_HorsemansAxe_7001,Famine,Голод
 DC/Text_DesignData_Item_Item_Hounskull_1001,Hounskull,Шолом
 DC/Text_DesignData_Item_Item_Hounskull_2001,Hounskull,Шолом
 DC/Text_DesignData_Item_Item_Hounskull_3001,Hounskull,Шолом
@@ -823,13 +823,13 @@ DC/Text_DesignData_Item_Item_Lantern_4001,Lantern,Ліхтар
 DC/Text_DesignData_Item_Item_Lantern_5001,Lantern,Ліхтар
 DC/Text_DesignData_Item_Item_Lantern_6001,Lantern,Ліхтар
 DC/Text_DesignData_Item_Item_Lantern_7001,Lantern,Ліхтар
-DC/Text_DesignData_Item_Item_LargeScroll_1001,Ancient Scroll (Cracked),Старовинний сувій (Тріснутий)
-DC/Text_DesignData_Item_Item_LargeScroll_2001,Ancient Scroll (Flawed),Старовинний сувій (Зіпсований)
-DC/Text_DesignData_Item_Item_LargeScroll_3001,Ancient Scroll (Normal),Старовинний сувій (Звичайний)
-DC/Text_DesignData_Item_Item_LargeScroll_4001,Ancient Scroll (Exquisite),Старовинний сувій (Вишуканий)
-DC/Text_DesignData_Item_Item_LargeScroll_5001,Ancient Scroll (Perfect),Старовинний сувій (Досконалий)
-DC/Text_DesignData_Item_Item_LargeScroll_6001,Ancient Scroll (Royal),Старовинний сувій (Королівський)
-DC/Text_DesignData_Item_Item_LargeScroll_7001,Ancient Scroll (Ultimate),Старовинний сувій (Надзвичайний)
+DC/Text_DesignData_Item_Item_LargeScroll_1001,Ancient Scroll (Cracked),Старовинний Сувій (Тріснутий)
+DC/Text_DesignData_Item_Item_LargeScroll_2001,Ancient Scroll (Flawed),Старовинний Сувій (Зіпсований)
+DC/Text_DesignData_Item_Item_LargeScroll_3001,Ancient Scroll (Normal),Старовинний Сувій (Звичайний)
+DC/Text_DesignData_Item_Item_LargeScroll_4001,Ancient Scroll (Exquisite),Старовинний Сувій (Вишуканий)
+DC/Text_DesignData_Item_Item_LargeScroll_5001,Ancient Scroll (Perfect),Старовинний Сувій (Досконалий)
+DC/Text_DesignData_Item_Item_LargeScroll_6001,Ancient Scroll (Royal),Старовинний Сувій (Королівський)
+DC/Text_DesignData_Item_Item_LargeScroll_7001,Ancient Scroll (Ultimate),Старовинний Сувій (Надзвичайний)
 DC/Text_DesignData_Item_Item_LeatherBonnet_1001,Leather Bonnet,Шкіряний кашкет
 DC/Text_DesignData_Item_Item_LeatherBonnet_2001,Leather Bonnet,Шкіряний кашкет
 DC/Text_DesignData_Item_Item_LeatherBonnet_3001,Leather Bonnet,Шкіряний кашкет
@@ -845,13 +845,13 @@ DC/Text_DesignData_Item_Item_LeatherCap_5001,Leather Cap,Шкіряна шапк
 DC/Text_DesignData_Item_Item_LeatherCap_6001,Leather Cap,Шкіряна шапка
 DC/Text_DesignData_Item_Item_LeatherCap_7001,Leather Cap,Шкіряна шапка
 DC/Text_DesignData_Item_Item_LeatherCap_RS,Rubysilver Cap,Шкіряна шапка з рубінового срібла
-DC/Text_DesignData_Item_Item_LeatherChausses_1001,Leather Chausses,Шкіряні кальсони
-DC/Text_DesignData_Item_Item_LeatherChausses_2001,Leather Chausses,Шкіряні кальсони
-DC/Text_DesignData_Item_Item_LeatherChausses_3001,Leather Chausses,Шкіряні кальсони
-DC/Text_DesignData_Item_Item_LeatherChausses_4001,Leather Chausses,Шкіряні кальсони
-DC/Text_DesignData_Item_Item_LeatherChausses_5001,Leather Chausses,Шкіряні кальсони
-DC/Text_DesignData_Item_Item_LeatherChausses_6001,Leather Chausses,Шкіряні кальсони
-DC/Text_DesignData_Item_Item_LeatherChausses_7001,Leather Chausses,Шкіряні кальсони
+DC/Text_DesignData_Item_Item_LeatherChausses_1001,Leather Chausses,Шкіряні Кальсони
+DC/Text_DesignData_Item_Item_LeatherChausses_2001,Leather Chausses,Шкіряні Кальсони
+DC/Text_DesignData_Item_Item_LeatherChausses_3001,Leather Chausses,Шкіряні Кальсони
+DC/Text_DesignData_Item_Item_LeatherChausses_4001,Leather Chausses,Шкіряні Кальсони
+DC/Text_DesignData_Item_Item_LeatherChausses_5001,Leather Chausses,Шкіряні Кальсони
+DC/Text_DesignData_Item_Item_LeatherChausses_6001,Leather Chausses,Шкіряні Кальсони
+DC/Text_DesignData_Item_Item_LeatherChausses_7001,Leather Chausses,Шкіряні Кальсони
 DC/Text_DesignData_Item_Item_LeatherGloves_1001,Leather Gloves,Шкіряні рукавички
 DC/Text_DesignData_Item_Item_LeatherGloves_2001,Leather Gloves,Шкіряні рукавички
 DC/Text_DesignData_Item_Item_LeatherGloves_3001,Leather Gloves,Шкіряні рукавички
@@ -882,13 +882,13 @@ DC/Text_DesignData_Item_Item_LightAketon_5001,Light Aketon,Світлий аке
 DC/Text_DesignData_Item_Item_LightAketon_6001,Light Aketon,Світлий акетон
 DC/Text_DesignData_Item_Item_LightAketon_7001,Light Aketon,Світлий акетон
 DC/Text_DesignData_Item_Item_LightBringer_5001,Light Bringer,Світлоносець
-DC/Text_DesignData_Item_Item_LightGauntlets_1001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_2001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_3001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_4001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_5001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_6001,Light Gauntlets,Легкі рукавиці
-DC/Text_DesignData_Item_Item_LightGauntlets_7001,Light Gauntlets,Легкі рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_1001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_2001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_3001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_4001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_5001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_6001,Light Gauntlets,Легкі Латні Рукавиці
+DC/Text_DesignData_Item_Item_LightGauntlets_7001,Light Gauntlets,Легкі Латні Рукавиці
 DC/Text_DesignData_Item_Item_LightfootBoots_1001,Lightfoot Boots,Легкі чоботи
 DC/Text_DesignData_Item_Item_LightfootBoots_2001,Lightfoot Boots,Легкі чоботи
 DC/Text_DesignData_Item_Item_LightfootBoots_3001,Lightfoot Boots,Легкі чоботи
@@ -903,14 +903,14 @@ DC/Text_DesignData_Item_Item_Longbow_3001,Longbow,Довгий лук
 DC/Text_DesignData_Item_Item_Longbow_4001,Longbow,Довгий лук
 DC/Text_DesignData_Item_Item_Longbow_5001,Longbow,Довгий лук
 DC/Text_DesignData_Item_Item_Longbow_6001,Longbow,Довгий лук
-DC/Text_DesignData_Item_Item_Longbow_7001,Nipalan,Довгий лук
+DC/Text_DesignData_Item_Item_Longbow_7001,Nipalan,Ніпалан
 DC/Text_DesignData_Item_Item_Longsword_1001,Longsword,Лонгсворд
 DC/Text_DesignData_Item_Item_Longsword_2001,Longsword,Лонгсворд
 DC/Text_DesignData_Item_Item_Longsword_3001,Longsword,Лонгсворд
 DC/Text_DesignData_Item_Item_Longsword_4001,Longsword,Лонгсворд
 DC/Text_DesignData_Item_Item_Longsword_5001,Longsword,Лонгсворд
 DC/Text_DesignData_Item_Item_Longsword_6001,Longsword,Лонгсворд
-DC/Text_DesignData_Item_Item_Longsword_7001,Fulgor,Лонгсворд
+DC/Text_DesignData_Item_Item_Longsword_7001,Fulgor,Фульгор
 DC/Text_DesignData_Item_Item_LooseTrousers_1001,Loose Trousers,Вільні штани
 DC/Text_DesignData_Item_Item_LooseTrousers_2001,Loose Trousers,Вільні штани
 DC/Text_DesignData_Item_Item_LooseTrousers_3001,Loose Trousers,Вільні штани
@@ -983,7 +983,7 @@ DC/Text_DesignData_Item_Item_MorningStar_3001,Morning Star,Моргенштер�
 DC/Text_DesignData_Item_Item_MorningStar_4001,Morning Star,Моргенштерн
 DC/Text_DesignData_Item_Item_MorningStar_5001,Morning Star,Моргенштерн
 DC/Text_DesignData_Item_Item_MorningStar_6001,Morning Star,Моргенштерн
-DC/Text_DesignData_Item_Item_MorningStar_7001,Pulverizing Prayer,Моргенштерн
+DC/Text_DesignData_Item_Item_MorningStar_7001,Pulverizing Prayer,"Молитва, що Зтирає в Порошок"
 DC/Text_DesignData_Item_Item_MysticGloves_1001,Mystic Gloves,Містичні рукавички
 DC/Text_DesignData_Item_Item_MysticGloves_2001,Mystic Gloves,Містичні рукавички
 DC/Text_DesignData_Item_Item_MysticGloves_3001,Mystic Gloves,Містичні рукавички
@@ -1096,11 +1096,11 @@ DC/Text_DesignData_Item_Item_Pavise_4001,Pavise,Павеза
 DC/Text_DesignData_Item_Item_Pavise_5001,Pavise,Павеза
 DC/Text_DesignData_Item_Item_Pavise_6001,Pavise,Павеза
 DC/Text_DesignData_Item_Item_Pavise_7001,Pavise,Павеза
-DC/Text_DesignData_Item_Item_PearlNecklace_3001,Pearl Necklace (Normal),Намисто з перлів (Звичайне)
-DC/Text_DesignData_Item_Item_PearlNecklace_4001,Pearl Necklace (Exquisite),Намисто з перлів (Вишукане)
-DC/Text_DesignData_Item_Item_PearlNecklace_5001,Pearl Necklace (Perfect),Намисто з перлів (Досконале)
-DC/Text_DesignData_Item_Item_PearlNecklace_6001,Pearl Necklace (Royal),Намисто з перлів (Королівське)
-DC/Text_DesignData_Item_Item_PearlNecklace_7001,Pearl Necklace (Ultimate),Намисто з перлів (Надзвичайне)
+DC/Text_DesignData_Item_Item_PearlNecklace_3001,Pearl Necklace (Normal),Перламутрове Намисто (Звичайне)
+DC/Text_DesignData_Item_Item_PearlNecklace_4001,Pearl Necklace (Exquisite),Перламутрове Намисто (Вишукане)
+DC/Text_DesignData_Item_Item_PearlNecklace_5001,Pearl Necklace (Perfect),Перламутрове Намисто (Досконале)
+DC/Text_DesignData_Item_Item_PearlNecklace_6001,Pearl Necklace (Royal),Перламутрове Намисто (Королівське)
+DC/Text_DesignData_Item_Item_PearlNecklace_7001,Pearl Necklace (Ultimate),Перламутрове Намисто (Надзвичайне)
 DC/Text_DesignData_Item_Item_PhantomFlower_1001,Phantom Flower,Примарна квітка
 DC/Text_DesignData_Item_Item_PhantomFlower_2001,Phantom Flower,Примарна квітка
 DC/Text_DesignData_Item_Item_PhantomFlower_3001,Phantom Flower,Примарна квітка
@@ -1120,22 +1120,22 @@ DC/Text_DesignData_Item_Item_Pickaxe_4001,Pickaxe,Кайло
 DC/Text_DesignData_Item_Item_Pickaxe_5001,Pickaxe,Кайло
 DC/Text_DesignData_Item_Item_Pickaxe_6001,Pickaxe,Кайло
 DC/Text_DesignData_Item_Item_Pickaxe_7001,Pickaxe,Кайло
-DC/Text_DesignData_Item_Item_PlateBoots_1001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_2001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_3001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_4001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_5001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_6001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_7001,Plate Boots,Латні чоботи
-DC/Text_DesignData_Item_Item_PlateBoots_RS,Rubysilver Plate Boots,Латні чоботи з рубінового срібла
-DC/Text_DesignData_Item_Item_PlatePants_1001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_2001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_3001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_4001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_5001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_6001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_7001,Plate Pants,Латні штани
-DC/Text_DesignData_Item_Item_PlatePants_RS,Rubysilver Plate Pants,Латні штани з рубінового срібла
+DC/Text_DesignData_Item_Item_PlateBoots_1001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_2001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_3001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_4001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_5001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_6001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_7001,Plate Boots,Латні Чоботи
+DC/Text_DesignData_Item_Item_PlateBoots_RS,Rubysilver Plate Boots,Латні Чоботи з Рубінового Срібла
+DC/Text_DesignData_Item_Item_PlatePants_1001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_2001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_3001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_4001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_5001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_6001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_7001,Plate Pants,Латні Штани
+DC/Text_DesignData_Item_Item_PlatePants_RS,Rubysilver Plate Pants,Латні Штани з Рубінового Срібла
 DC/Text_DesignData_Item_Item_Poupoint_1001,Pourpoint,Дублет
 DC/Text_DesignData_Item_Item_Poupoint_2001,Pourpoint,Дублет
 DC/Text_DesignData_Item_Item_Poupoint_3001,Pourpoint,Дублет
@@ -1178,7 +1178,7 @@ DC/Text_DesignData_Item_Item_Rapier_3001,Rapier,Рапіра
 DC/Text_DesignData_Item_Item_Rapier_4001,Rapier,Рапіра
 DC/Text_DesignData_Item_Item_Rapier_5001,Rapier,Рапіра
 DC/Text_DesignData_Item_Item_Rapier_6001,Rapier,Рапіра
-DC/Text_DesignData_Item_Item_Rapier_7001,Viola,Рапіра
+DC/Text_DesignData_Item_Item_Rapier_7001,Viola,Віола
 DC/Text_DesignData_Item_Item_RatPendant_3001,Rat Pendant,Щурячий кулон
 DC/Text_DesignData_Item_Item_RatPendant_4001,Rat Pendant,Щурячий кулон
 DC/Text_DesignData_Item_Item_RatPendant_5001,Rat Pendant,Щурячий кулон
@@ -1198,7 +1198,7 @@ DC/Text_DesignData_Item_Item_RecurveBow_3001,Recurve Bow,Вигнутий лук
 DC/Text_DesignData_Item_Item_RecurveBow_4001,Recurve Bow,Вигнутий лук
 DC/Text_DesignData_Item_Item_RecurveBow_5001,Recurve Bow,Вигнутий лук
 DC/Text_DesignData_Item_Item_RecurveBow_6001,Recurve Bow,Вигнутий лук
-DC/Text_DesignData_Item_Item_RecurveBow_7001,Pestilence,Вигнутий лук
+DC/Text_DesignData_Item_Item_RecurveBow_7001,Pestilence,Чума
 DC/Text_DesignData_Item_Item_RegalGambeson_0001,Regal Gambeson,Королівський Гамбесон
 DC/Text_DesignData_Item_Item_ReinforcedGloves_1001,Reinforced Gloves,Армовані рукавиці
 DC/Text_DesignData_Item_Item_ReinforcedGloves_2001,Reinforced Gloves,Армовані рукавиці
@@ -1370,7 +1370,7 @@ DC/Text_DesignData_Item_Item_SplendidCloak_5001,Splendid Cloak,Чудовий п
 DC/Text_DesignData_Item_Item_SplendidCloak_6001,Splendid Cloak,Чудовий плащ
 DC/Text_DesignData_Item_Item_SplendidCloak_7001,Splendid Cloak,Чудовий плащ
 DC/Text_DesignData_Item_Item_StaffOfRighteousness_3001,Staff of Righteousness,Посох Праведності
-DC/Text_DesignData_Item_Item_SterlingAxe_2001,Sterling Axe,Стерлінгова сокира
+DC/Text_DesignData_Item_Item_SterlingAxe_2001,Sterling Axe,Стерлінгова Сокира
 DC/Text_DesignData_Item_Item_SterlingBlade_2001,Sterling Blade,Стерлінговий клинок
 DC/Text_DesignData_Item_Item_SterlingBow_2001,Sterling Bow,Стерлінговий лук
 DC/Text_DesignData_Item_Item_SterlingDagger_2001,Sterling Dagger,Стерлінговий кинджал
@@ -1383,7 +1383,7 @@ DC/Text_DesignData_Item_Item_StilettoDagger_3001,Stiletto Dagger,Кинджал-
 DC/Text_DesignData_Item_Item_StilettoDagger_4001,Stiletto Dagger,Кинджал-стилет
 DC/Text_DesignData_Item_Item_StilettoDagger_5001,Stiletto Dagger,Кинджал-стилет
 DC/Text_DesignData_Item_Item_StilettoDagger_6001,Stiletto Dagger,Кинджал-стилет
-DC/Text_DesignData_Item_Item_StilettoDagger_7001,Deathbloom,Кинджал-стилет
+DC/Text_DesignData_Item_Item_StilettoDagger_7001,Deathbloom,Квітка Смерті
 DC/Text_DesignData_Item_Item_StitchedTurnshoe_1001,Stitched Turnshoe,Зшиті черевики
 DC/Text_DesignData_Item_Item_StitchedTurnshoe_2001,Stitched Turnshoe,Зшиті черевики
 DC/Text_DesignData_Item_Item_StitchedTurnshoe_3001,Stitched Turnshoe,Зшиті черевики
@@ -1412,13 +1412,13 @@ DC/Text_DesignData_Item_Item_SurgicalKit_4001,Surgical Kit,Хірургічни�
 DC/Text_DesignData_Item_Item_SurgicalKit_5001,Surgical Kit,Хірургічний набір
 DC/Text_DesignData_Item_Item_SurgicalKit_6001,Surgical Kit,Хірургічний набір
 DC/Text_DesignData_Item_Item_SurgicalKit_7001,Surgical Kit,Хірургічний набір
-DC/Text_DesignData_Item_Item_SurvivalBow_1001,Survival Bow,Лук для виживання
-DC/Text_DesignData_Item_Item_SurvivalBow_2001,Survival Bow,Лук для виживання
-DC/Text_DesignData_Item_Item_SurvivalBow_3001,Survival Bow,Лук для виживання
-DC/Text_DesignData_Item_Item_SurvivalBow_4001,Survival Bow,Лук для виживання
-DC/Text_DesignData_Item_Item_SurvivalBow_5001,Survival Bow,Лук для виживання
-DC/Text_DesignData_Item_Item_SurvivalBow_6001,Survival Bow,Лук для виживання
-DC/Text_DesignData_Item_Item_SurvivalBow_7001,Elven Bow of Truth,Лук для виживання
+DC/Text_DesignData_Item_Item_SurvivalBow_1001,Survival Bow,Лук для Виживання
+DC/Text_DesignData_Item_Item_SurvivalBow_2001,Survival Bow,Лук для Виживання
+DC/Text_DesignData_Item_Item_SurvivalBow_3001,Survival Bow,Лук для Виживання
+DC/Text_DesignData_Item_Item_SurvivalBow_4001,Survival Bow,Лук для Виживання
+DC/Text_DesignData_Item_Item_SurvivalBow_5001,Survival Bow,Лук для Виживання
+DC/Text_DesignData_Item_Item_SurvivalBow_6001,Survival Bow,Лук для Виживання
+DC/Text_DesignData_Item_Item_SurvivalBow_7001,Elven Bow of Truth,Ельфійський Лук Істини
 DC/Text_DesignData_Item_Item_TailOfCentaur,Centaur Tail,Хвіст кентавра
 DC/Text_DesignData_Item_Item_TatteredCloak_1001,Tattered Cloak,Подертий плащ
 DC/Text_DesignData_Item_Item_TatteredCloak_2001,Tattered Cloak,Подертий плащ
@@ -1538,7 +1538,7 @@ DC/Text_DesignData_Item_Item_Wardweed_4001,Wardweed,Бур'ян
 DC/Text_DesignData_Item_Item_Wardweed_5001,Wardweed,Бур'ян
 DC/Text_DesignData_Item_Item_Wardweed_6001,Wardweed,Бур'ян
 DC/Text_DesignData_Item_Item_Wardweed_7001,Wardweed,Бур'ян
-DC/Text_DesignData_Item_Item_WarlordsBrokenSwordBlade,Warlord's Broken Sword Blade,Зламане лезо меча воєначальника
+DC/Text_DesignData_Item_Item_WarlordsBrokenSwordBlade,Warlord's Broken Sword Blade,Зламане Лезо Меча Воєначальника
 DC/Text_DesignData_Item_Item_WatchmanCloak_1001,Watchman Cloak,Плащ Вартового
 DC/Text_DesignData_Item_Item_WatchmanCloak_2001,Watchman Cloak,Плащ Вартового
 DC/Text_DesignData_Item_Item_WatchmanCloak_3001,Watchman Cloak,Плащ Вартового
@@ -1580,12 +1580,12 @@ DC/Text_DesignData_Item_Item_WizardStaff_3001,Magic Staff,Чарівний по�
 DC/Text_DesignData_Item_Item_WizardStaff_4001,Magic Staff,Чарівний посох
 DC/Text_DesignData_Item_Item_WizardStaff_5001,Magic Staff,Чарівний посох
 DC/Text_DesignData_Item_Item_WizardStaff_6001,Magic Staff,Чарівний посох
-DC/Text_DesignData_Item_Item_WizardStaff_7001,Illusory,Чарівний посох
+DC/Text_DesignData_Item_Item_WizardStaff_7001,Illusory,Ілюзорія
 DC/Text_DesignData_Item_Item_WolfClaw,Wolf Claw,Вовчий кіготь
 DC/Text_DesignData_Item_Item_WolfFang,Wolf Fang,Вовче ікло
 DC/Text_DesignData_Item_Item_WolfHunterLeggings_4001,Wolf Hunter Leggings,Лосини мисливця на вовків
 DC/Text_DesignData_Item_Item_WolfPelt,Wolf Pelt,Вовча шкура
-DC/Text_DesignData_Item_Item_YetisTeeth,Yeti's Teeth,Зуби Йеті
+DC/Text_DesignData_Item_Item_YetisTeeth,Yeti's Teeth,Зуби Єті
 DC/Text_DesignData_Item_Item_Zweihander_1001,Zweihander,Цвайхандер
 DC/Text_DesignData_Item_Item_Zweihander_2001,Zweihander,Цвайхандер
 DC/Text_DesignData_Item_Item_Zweihander_3001,Zweihander,Цвайхандер
@@ -1649,38 +1649,38 @@ DC/Text_DesingData_Item_Item_VisoredSallet_4001,Visored Sallet,Салад з к�
 DC/Text_DesingData_Item_Item_VisoredSallet_5001,Visored Sallet,Салад з козирком
 DC/Text_DesingData_Item_Item_VisoredSallet_6001,Visored Sallet,Салад з козирком
 DC/Text_DesingData_Item_Item_VisoredSallet_7001,Visored Sallet,Салад з козирком
-DC/Text_DesignData_Item_Item_WarlordsArmorShard,Warlord's Armor Shard,
-DC/Text_DesignData_Item_Item_SovereignsGhostblade_5001,Sovereign's Ghostblade,
-DC/Text_DesignData_Item_Item_FrostlightOracleRobe_6001,Frostlight Oracle Robe,
-DC/Text_DesignData_Item_Item_FrostlightCrystalSword_6001,Frostlight Crystal Sword,
-DC/Text_DesignData_Item_Item_FrostlightRunestoneGloves_6001,Frostlight Runestone Gloves,
-DC/Text_DesignData_Item_Item_FrostlightLeatherLeggings_6001,Frostlight Leather Leggings,
-DC/Text_DesignData_Item_Item_FrostlightAketon_6001,Frostlight Aketon,
-DC/Text_DesignData_Item_Item_FrostlightRivetedGloves_6001,Frostlight Riveted Gloves,
-DC/Text_DesignData_Item_Item_FrostlightHood_6001,Frostlight Hood,
-DC/Text_DesignData_Item_Item_BatWing,Bat Wing,
-DC/Text_DesignData_Item_Item_WendigosEntrails,Wendigo's Entrails,
-DC/Text_DesignData_Item_Item_FrostlightWizardHat_6001,Frostlight Wizard Hat,
-DC/Text_DesignData_Item_Item_FrostlightAbyssPlateArmor_6001,Frostlight Abyss Plate Armor,
-DC/Text_DesignData_Item_Item_GiantBatHide,Giant Bat Hide,
-DC/Text_DesignData_Item_Item_GiantBatEar,Giant Bat Ear,
-DC/Text_DesignData_Item_Item_FrostlightLanternShield_6001,Frostlight Lantern Shield,
-DC/Text_DesignData_Item_Item_FrostlightSpear_6001,Frostlight Spear,
-DC/Text_DesignData_Item_Item_FrostlightPlateBoots_6001,Frostlight Plate Boots,
-DC/Text_DesignData_Item_Item_FrostlightCloak_6001,Frostlight Cloak,
-DC/Text_DesignData_Item_Item_FrostlightFeatheredHat_6001,Frostlight Feathered Hat,
-DC/Text_DesignData_Item_Item_WendigosAntlerFragment,Wendigo's Antler Fragment,
-DC/Text_DesignData_Item_Item_SilverSkulltoken,Silver Skull Token,
-DC/Text_DesignData_Item_Item_Icefang_6001,Icefang,
-DC/Text_DesignData_Item_Item_FrostlightRuggedBoots_6001,Frostlight Rugged Boots,
-DC/Text_DesingData_Item_Item_FrostlightNormanNasalHelm_6001,Frostlight Norman Nasal Helm,
-DC/Text_DesignData_Item_Item_FrostlightMysticGloves_6001,Frostlight Mystic Gloves,
-DC/Text_DesignData_Item_Item_GoldenSkulltoken,Golden Skull Token,
-DC/Text_DesingData_Item_Item_FrostlightCrusaderHelm_6001,Frostlight Crusader Helm,
-DC/Text_DesignData_Item_Item_GrimSlayer_5001,Grimslayer,
-DC/Text_DesignData_Item_Item_FrostlightTrousers_6001,Frostlight Trousers,
-DC/Text_DesignData_Item_Item_FrostWyvernsHide,Frost Wyvern's Hide,
-DC/Text_DesignData_Item_Item_FrostlightLightfootBoots_6001,Frostlight Lightfoot Boots,
-DC/Text_DesignData_Item_Item_FrostlightGauntlets_6001,Frostlight Gauntlets,
-DC/Text_DesignData_Item_Item_FrostlightPlatePants_6001,Frostlight Plate Pants,
-DC/Text_DesignData_Item_Item_FrostlightWardenOutfit_6001,Frostlight Warden Outfit,
+DC/Text_DesignData_Item_Item_WarlordsArmorShard,Warlord's Armor Shard,Уламок Броні Воєначальника
+DC/Text_DesignData_Item_Item_SovereignsGhostblade_5001,Sovereign's Ghostblade,Примарний Клинок Володаря
+DC/Text_DesignData_Item_Item_FrostlightOracleRobe_6001,Frostlight Oracle Robe,Льодяна Мантія Оракула
+DC/Text_DesignData_Item_Item_FrostlightCrystalSword_6001,Frostlight Crystal Sword,Льодяний Кришталевий Меч
+DC/Text_DesignData_Item_Item_FrostlightRunestoneGloves_6001,Frostlight Runestone Gloves,Льодяні Рунічні Рукавиці
+DC/Text_DesignData_Item_Item_FrostlightLeatherLeggings_6001,Frostlight Leather Leggings,Льодяні Шкіряні Легінси
+DC/Text_DesignData_Item_Item_FrostlightAketon_6001,Frostlight Aketon,Льодяний Акетон
+DC/Text_DesignData_Item_Item_FrostlightRivetedGloves_6001,Frostlight Riveted Gloves,Льодяні Клепані Рукавиці
+DC/Text_DesignData_Item_Item_FrostlightHood_6001,Frostlight Hood,Льодяний Капюшон
+DC/Text_DesignData_Item_Item_BatWing,Bat Wing,Крило Кажана
+DC/Text_DesignData_Item_Item_WendigosEntrails,Wendigo's Entrails,Нутрощі Вендіґо
+DC/Text_DesignData_Item_Item_FrostlightWizardHat_6001,Frostlight Wizard Hat,Льодяний Капелюх Чарівника
+DC/Text_DesignData_Item_Item_FrostlightAbyssPlateArmor_6001,Frostlight Abyss Plate Armor,Латні Обладунки Льодяної Безодні
+DC/Text_DesignData_Item_Item_GiantBatHide,Giant Bat Hide,Шкура Велетенського Кажана
+DC/Text_DesignData_Item_Item_GiantBatEar,Giant Bat Ear,Вухо Велетенського Кажана
+DC/Text_DesignData_Item_Item_FrostlightLanternShield_6001,Frostlight Lantern Shield,Льодяний Щит з Ліхтарем
+DC/Text_DesignData_Item_Item_FrostlightSpear_6001,Frostlight Spear,Льодяний Спис
+DC/Text_DesignData_Item_Item_FrostlightPlateBoots_6001,Frostlight Plate Boots,Льодяні Латні Чоботи
+DC/Text_DesignData_Item_Item_FrostlightCloak_6001,Frostlight Cloak,Льодяний Плащ
+DC/Text_DesignData_Item_Item_FrostlightFeatheredHat_6001,Frostlight Feathered Hat,Льодяний Капелюх З Пір'ям
+DC/Text_DesignData_Item_Item_WendigosAntlerFragment,Wendigo's Antler Fragment,Уламок Рогів Вендіґо
+DC/Text_DesignData_Item_Item_SilverSkulltoken,Silver Skull Token,Символ Срібного Черепа
+DC/Text_DesignData_Item_Item_Icefang_6001,Icefang,Льодяне Ікло
+DC/Text_DesignData_Item_Item_FrostlightRuggedBoots_6001,Frostlight Rugged Boots,Льодяні Міцні Черевики
+DC/Text_DesingData_Item_Item_FrostlightNormanNasalHelm_6001,Frostlight Norman Nasal Helm,Льодяний Нормандський Носовий Шолом
+DC/Text_DesignData_Item_Item_FrostlightMysticGloves_6001,Frostlight Mystic Gloves,Льодяні Містичні Рукавички
+DC/Text_DesignData_Item_Item_GoldenSkulltoken,Golden Skull Token,Символ Золотого Черепа
+DC/Text_DesingData_Item_Item_FrostlightCrusaderHelm_6001,Frostlight Crusader Helm,Льодяний Шолом Хрестоносців
+DC/Text_DesignData_Item_Item_GrimSlayer_5001,Grimslayer,Мраковбивця
+DC/Text_DesignData_Item_Item_FrostlightTrousers_6001,Frostlight Trousers,Льодяні Штани
+DC/Text_DesignData_Item_Item_FrostWyvernsHide,Frost Wyvern's Hide,Шкура Льодяної Віверни
+DC/Text_DesignData_Item_Item_FrostlightLightfootBoots_6001,Frostlight Lightfoot Boots,Льодяні Легкі Чоботи
+DC/Text_DesignData_Item_Item_FrostlightGauntlets_6001,Frostlight Gauntlets,Льодяні Латні Рукавиці
+DC/Text_DesignData_Item_Item_FrostlightPlatePants_6001,Frostlight Plate Pants,Льодяні Латні Штани
+DC/Text_DesignData_Item_Item_FrostlightWardenOutfit_6001,Frostlight Warden Outfit,Льодяна Форма Наглядача
