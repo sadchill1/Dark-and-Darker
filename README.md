@@ -4,8 +4,10 @@
 
 # Встановлення
 
-1. Завантажити архів: https://github.com/sadchill1/Dark-and-Darker-UA/releases/latest/download/mods.7z
-2. Файл `pakchunk0-Windows_0_P.pak` перемістити по шляху `Steam\steamapps\common\Dark and Darker\DungeonCrawler\Content\Paks\~mods`. Якщо теки `~mods` немає її потрібно створити.
+1. Завантажити архів: https://github.com/sadchill1/Dark-and-Darker-UA/releases/latest/download/dark_and_darker_ua.7z
+2. Файл `pakchunk0-Windows_0_P.pak` перемістити по шляху `Steam\steamapps\common\Dark and Darker\DungeonCrawler\Content\Paks\~mods`. Якщо папки `~mods` немає її потрібно створити. **ЗАМІНЯТИ ФАЙЛИ ГРИ НЕ ПОТРІБНО**
+	* Якщо ви хочете, щоб були перекладені всі предмети в грі, то обирайте `.pak` з папки `ua`
+	* Якщо ви хочете, щоб предмети мали оригінальні (англійські) назви, то обирайте `.pak` з папки `ua_no_items`
 3. В грі обрати Англійську мову.
 
 # Для тих, хто хоче допомогти з перекладом
