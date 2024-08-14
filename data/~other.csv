@@ -716,7 +716,7 @@ DC/Text_Code_PlayWidget_AutoMatchRegisterFail_No_Region_Select_,Please select a 
 DC/Text_Code_PlayWidget_AutoMatchRegisterFail_Region_Disable,this Server Region is currently unavailable.,цей регіон сервера наразі недоступний.
 DC/Text_Code_PlayWidget_AutoMatchRegisterFail_Shortage_Enterance_Fee,The entrance fee for the game is insufficient.,Вступний внесок для гри недостатній.
 DC/Text_Code_PlayWidget_AutoMatchRegisterFail_Solo_Only,You can only enter this dungeon alone.,Ви можете увійти в це підземелля тільки наодинці.
-DC/Text_Code_PlayWidget_FailPartyReady,"Cannot cancel.
+DC/Text_Code_PlayWidget_FailPartyReady,"Cannot cancel. 
 Currently Matchmaking.","Неможливо скасувати.
 На даний момент Сватання."
 DC/Text_Code_PlayWidget_FailPartyReady_Shoratage_Entrance_Fee,The entrance fee for the game is insufficient.,Вступний внесок для гри недостатній.
@@ -863,7 +863,7 @@ Weapon of choice - Flanged Mace
 - Низька швидкість атаки.
 - Низька швидкість взаємодії.
 - Низький бонус до ушкоджень."
-DC/Text_DataAsset_Cleric_Dialog_ClericDialog,"'A Guardian Angel'
+DC/Text_DataAsset_Cleric_Dialog_ClericDialog,"'A Guardian Angel' 
  Lend a helping hand!","'Ангел-охоронець'
  Простягни руку допомоги!"
 DC/Text_DataAsset_CooldownReductionMod_Desc_CooldownReductionModDesc,Determines the degree to which a skill or perk cooldown is reduced.,"Визначає ступінь, на який зменшується перезарядка вміння або перка."
@@ -872,7 +872,7 @@ DC/Text_DataAsset_DebuffDurationMod_Desc_DebuffDurationModDesc,How much longer/s
 DC/Text_DataAsset_Dexterity_Desc_DexterityDesc,Increases your action speed and manual dexterity. Increases item equip speed.,Збільшує вашу Швидкість Дії і Вправність Рук. Збільшує вашу швидкість екіпірування предметів.
 DC/Text_DataAsset_DivineMagicReduction_Desc_DivineMagicReductionDesc,The degree to which the damage of Divine-type magic is reduced.,Ступінь зменшення шкоди від магії Божественного типу.
 DC/Text_DataAsset_Druid_ClassInfo_DruidClassInfo,"The Druid is a spirit mage with a deep connection to nature. Able to wield the powers of the wilderness, they can even transform their bodies to mimic the powers of beasts.
-
+ 
 Weapon of choice – Staff
 
 + Able to shapeshift into various animal forms.
@@ -1281,7 +1281,7 @@ DC/Text_DataAsset_Ranger_Dialog_RangerDialog,"'An Astute Hunter'
  Always on target!","'Спритний мисливець'
  Завжди влучає в ціль!"
 DC/Text_DataAsset_Resourcefulness_Desc_ResourcefulnessDesc,"Increases the regular interaction speed of your character, and significantly increases how quickly you install items such as traps and campfires and skill cooldowns are reduced.","Збільшує швидкість звичайної взаємодії вашого персонажа, а також значно підвищує швидкість встановлення таких предметів, як пастки та вогнища."
-DC/Text_DataAsset_Rogue_ClassInfo_RogueClassInfo,"The Rogue is a master of deception able to silently slip between the shadows to work his dastardly deeds. His dexterous hands enable him to quickly loot riches, pick locks, and disable various traps.
+DC/Text_DataAsset_Rogue_ClassInfo_RogueClassInfo,"The Rogue is a master of deception able to silently slip between the shadows to work his dastardly deeds. His dexterous hands enable him to quickly loot riches, pick locks, and disable various traps. 
 
 Weapon of choice - Daggers
 
@@ -3136,10 +3136,10 @@ For <Duration>[3] seconds</>, <PhysicalDamageMod>^</> increases by <PhysicalDama
 [Дика] Дика лють
 На <Duration>[3] секунди</>, <PhysicalDamageMod>^</> збільшується на <PhysicalDamageMod>[3]%</> і <PhysicalReductionMod>^</> збільшується на <PhysicalReductionMod>[3]%</>."
 DC/Text_DataAsset_ShapeShiftPanther_Desc_ShapeShiftPantherDesc,"Transform into a wild panther. Very quick and agile. Gain <MoveSpeedMod>[0]% _</>. Lose <MaxHealthMod>[0]% _</>, <PhysicalHealingReceiveMod>[0]% _</> and <MagicalHealingReceiveMod>[0]% _</>. Your jump is <MovementMod Type=""JumpZMultiply"" Format=""AbsFromOne"">[0]%</> higher.
-
+ 
 [Left-Click] Scratch
 Claws the target with his right hand, inflicting <Agility>_</><Exec.PrimitiveCalcMultiply> * [1]%</> <Exec.PhysicalDamageBase>_</> and causing the target to bleed, inflicting <Exec.PhysicalDamageBase>[2] _</> for <Duration>[2] seconds</>.
-
+ 
 [Right-Click] Neckbite
 Bite the target's neck, inflicting <Agility>_</><Exec.PrimitiveCalcMultiply> * [3]%</> <Exec.PhysicalDamageBase>_</>. While you are frenzied, Neckbite silences the target for <Duration>[4] seconds</>.
 
@@ -3384,7 +3384,7 @@ DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_TimeLimitFinalization
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_PendingTransaction,User has a pending transaction that must be completed before beginning a new transaction.,
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_AccountIsNotAllowedToPurchase,Account is not allowed to purchase.,
 DC/Text_DataAsset_IMC_KBM_PlayerController_Mappings_DisplayName_QuestLog_Secondary,Quest Log,
-DC/Text_DesignData_Merchant_Merchant_SkeletonFootman,Skeleton," Скелет "
+DC/Text_DesignData_Merchant_Merchant_SkeletonFootman,Skeleton, Скелет 
 DC/Text_DesignData_ItemSkin_ItemSkin_GCXTorch_2024,GCX 2024 Torch,
 DC/Text_Code_ClientShopSubsystem_SteamBillingErrorResponse_OperationFailed,The operation failed.,
 DC/Text_DesignData_Props_PropsInteract_Modify,Invoke,
@@ -3469,3 +3469,6 @@ DC/Text_DesignData_ItemSkin_ItemSkin_CampfireKitBoneKindled,Bone Kindled Campfir
 DC/Text_DesignData_Merchant_StockBuy_Conversation_SkeletonFootman_01,"Well, well, what do we have here? Celebration tokens! Bring them here, and I'll see what goodies I can conjure for you.","Ну-ну, що тут у нас? Святкові жетони! Принесіть їх сюди, і я подивлюся, які ласощі зможу для вас начаклувати."
 DC/FormatQuestRichTextTextDefault,<QuestLogDefault>{0}</>,
 DC/Text_DesignData_Emote_Emote_GoblinDance,Goblin Dance,Танок Гоблінів
+DC/D09A4F504C4809B5DFA509A7B44AD436,Text_UI_WB_DealTableCraft_CraftCost,
+DC/8EBFC900459FBFF51F4B369265FCA484,Text_UI_WB_MenuOptionsVideos_ShadowQuality_Title,
+DC/66A086AD471139F610B49191CDF4F42E,Text_UI_WB_DealTableCraft_CraftCost,

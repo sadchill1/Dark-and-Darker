@@ -712,11 +712,11 @@ Find a sacrificial altar with their ‘soul heart’ equipped and make a small b
 DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_03,"A portal closes as soon as someone passes through it.
 Sometimes it’s better to let an enemy open a portal, then steal it for yourself!","Портал закривається, як тільки хтось проходить через нього.
 Іноді краще дозволити ворогу відкрити портал і вкрасти його."
-DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_04,"To cast a spell as a magic caster, make sure you equip the 'Spell Memory' skill. Magic casters can select their spell in-game by
+DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_04,"To cast a spell as a magic caster, make sure you equip the 'Spell Memory' skill. Magic casters can select their spell in-game by 
 holding down their 'Spell Memory' skill key. Equip a magic weapon and hold down the right mouse to cast your spell.","Щоб застосувати заклинання як заклинатель магії, переконайтеся, що ви спорядили навичку «Пам'ять заклинань». Заклинателі магії можуть вибрати свої заклинання в грі,
 утримуючи клавішу навички «Пам'ять чарів». Екіпіруйте магічну зброю і утримуйте праву мишу, щоб вимовити своє заклинання."
 DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_05,Sell the loot you collect in the dungeon to the right merchant to build up your coffers.,"Продайте здобич, яку ви збираєте в підземеллі, потрібному торговцю, щоб поповнити свою скарбницю."
-DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_06,"You must aim your shield to block an attack. look up to block a downward slash. If an attack hits a body part that sticks
+DC/Text_UI_WB_LoadingScreen_Loading_Tooltip_06,"You must aim your shield to block an attack. look up to block a downward slash. If an attack hits a body part that sticks 
 out like the top of your head, you will still take damage even if the weapon bounces off your shield.","Ви повинні націлити свій щит, щоб заблокувати атаку. Подивіться вгору, щоб заблокувати похилу риску, спрямовану вниз. Якщо атака влучить у частину тіла, яка стирчить
 , як верхівка голови, ви все одно отримаєте шкоду, навіть якщо зброя відскочить від вашого щита."
 DC/Text_UI_WB_Login_ConfirmReconnectText,"The match is still in progress. Would you like to reconnect?
@@ -760,8 +760,8 @@ With higher settings the camera will move faster when
 looking left , right , Up , Down with the mouse.","Встановлює чутливість горизонтальної осі (x) і вертикальної (Y) осі миші.
 При більш високих налаштуваннях камера буде рухатися швидше при погляді вліво, вправо, вгору, вниз за допомогою миші."
 DC/Text_UI_WB_MenuOptionsControls_TemporaryCategory,Temporary,Інше
-DC/Text_UI_WB_MenuOptionsInput_InputBindDesc,"Minimal custom keybinds.
-You can bind up to two mouse or key inputs per action.
+DC/Text_UI_WB_MenuOptionsInput_InputBindDesc,"Minimal custom keybinds. 
+You can bind up to two mouse or key inputs per action. 
 More advanced customization will be added in the future.","Мінімальні користувацькі комбінації клавіш.
 Ви можете прив'язати до двох введень миші або клавіші за одну дію.
 У майбутньому буде додано більш просунуту кастомізацію."
@@ -860,7 +860,7 @@ DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_01,2. No personal attacks o
 DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_02,3. No NSFW content.,3. Відсутність контенту NSFW.
 DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Rules_03,4. Your account will be banned from the Early Access for breaking the rules.,4. Ваш обліковий запис буде заблоковано від дочасного доступу за порушення правил.
 DC/Text_UI_WB_TradeMembershipSubscriptionGroup_Title,Traders Guild Membership,Членство в Гільдії Торговців
-DC/Text_UI_WB_TradeMembershipSubscriptionGroup_TradeCost,Cost per trade: ,"Вартість угоди: "
+DC/Text_UI_WB_TradeMembershipSubscriptionGroup_TradeCost,Cost per trade: ,Вартість угоди: 
 DC/Text_UI_WB_TradingPhaseConfirm_FinalAnnouncement,Trade Confirmation! Please check ALL trade items! All trades are final!,"Підтвердження торгівлі! Будь ласка, перевірте ВСІ предмети торгівлі! Усі угоди є остаточними!"
 DC/Text_UI_WB_TradingPhaseConfirm_Gold,gold,золото
 DC/Text_UI_WB_TradingPhaseConfirm_TradeFee,Trade Fee,Комісія за торгівлю
@@ -967,11 +967,13 @@ DC/Text_UI_WB_Login_WelcomeText,"Early Access Hotfix #58
 
 The new update brings several improvements including optimization to game performance. We have also upgraded the inventory to make it feel snappier. The in-game quest log has been improved to dynamically update your status within the game. We have also added several new emotes and cosmetic rewards.
 
-We have added some restrictions to the High-Roller dungeons to address the current High-Roller meta of solo “rat/crow” play. We will be experimenting with a minimum gear score for the High-Roller dungeons. We have also added a restriction to the HR dungeons requiring the size of the entering party to match the selected party queue size. With the addition of these restrictions, the ante has been removed for the HR dungeons. We plan to adjust these settings based on data and feedback. In addition, we have made it so looting a corpse killed by an ally no longer takes an extended time to loot. We thank you for your patience as we continue to improve the game. See you in the dungeons!","Early Access Hotfix #58
+We have added some restrictions to the High-Roller dungeons to address the current High-Roller meta of solo “rat/crow” play. We will be experimenting with a minimum gear score for the High-Roller dungeons. We have also added a restriction to the HR dungeons requiring the size of the entering party to match the selected party queue size. With the addition of these restrictions, the ante has been removed for the HR dungeons. We plan to adjust these settings based on data and feedback. In addition, we have made it so looting a corpse killed by an ally no longer takes an extended time to loot. We thank you for your patience as we continue to improve the game. See you in the dungeons!","Early Access Hotfix #59
 
-Нове оновлення містить кілька покращень, зокрема оптимізацію продуктивності гри. Ми також оновили інвентар, щоб зробити його оперативнішим. Журнал квестів у грі покращено, щоб динамічно оновлювати ваш статус у грі. Ми також додали кілька нових емоцій і косметичних нагород.
+Це оновлення представляє нову систему матчмейкингу. Будь ласка, зрозумійте, що розробка все ще триває, і ми продовжуватимемо налаштовувати та вдосконалювати її, щоб якомога краще підбирати гравців та щоб це не займало надто багато часу. Коли ви натискаєте кнопку "грати", ви більше не потрапляєте до табору перед грою. Натомість ви залишатиметеся в головному меню, поки ми підбираємо для вас гравців.
 
-Ми додали деякі обмеження до підземель для хай-ролерів, як відповідь на поточну мету гри за соло «щура/ворона». Ми будемо експериментувати з мінімальним рівнем спорядження для підземель хай-роллерів. Ми також додали обмеження до підземель HR, вимагаючи, щоб розмір команди, відповідав розміру вибраної черги. З додаванням цих обмежень було прибрано плату за вхід до для підземель HR. Ми плануємо скоригувати ці налаштування на основі даних і відгуків. Крім того, ми зробили так, щоб пограбування трупа, убитого союзником, більше не займало багато часу. Ми дякуємо вам за терпіння, ми продовжуємо вдосконалювати гру. До зустрічі в підземеллях!"
+Ми робимо все можливе, щоб сесії створювались зі схожим рівнем спорядження, опираючись на найвищого члена команди. Зверніть увагу, що в непіковий час діапазон матчів може суттєво змінюватися. Протягом цього часу ми збиратимемо дані, щоб у майбутньому покращити нашу логіку підбору партнерів. Будь ласка, зверніть увагу, що для гравців із рівнем спорядження меншим за 25 (звичайні підземелля) існує своя власна окрема черга, щоб допомогти новим гравцям влитись у гру.
+
+Нарешті, ми додали систему швидкого підбору, яка дозволяє неповному складу грати разом із випадковими товаришами по команді. Ми додали деякі захисні заходи, щоб перешкодити навмисним вбивствам товаришів по команді. Система відновлення підземелля автоматично повертає будь-які споряджені предмети, винесені з підземелля товаришем по команді, щоб вбивці по команді не могли пожинати нечестиво здобуті скарби. Гравці, про яких повідомляється про «командне вбивство», втратять карму та не зможуть користуватись матчмейкінгом протягом обмеженого часу. Цей час експоненціально збільшуватиметься кожного разу, коли про них повідомлять про навмисне командне вбивство. Ми будемо уважно стежити за цими новими системами, продовжуючи вдосконалювати гру, і побачимо вас у підземеллях!"
 DC/Text_UI_WB_InventoryPage_Divide,[Alt + L Drag] Divide items,[Alt + L Drag] Розділити предмети
 DC/Text_UI_WB_InventoryPage_DropOne,[Alt + R Click] Drop one by one,[Alt + R Click] Скинути по одному
 DC/Text_UI_WB_RecruitChannel_Leave,[ESC] Leave Channel,[ESC] Вийти з каналу
@@ -983,3 +985,26 @@ DC/Text_UI_WB_Arena_IntermissionPhase_RoundStartSoon,ready,готово
 DC/Text_UI_WB_RecruitChannelListEntry_NumMembers,{0} Members,{0} Учасники
 DC/Text_UI_WB_ChannelPlayerList_NumPlayers,{0} players,{0} гравці
 DC/Text_UI_WB_ChannelPlayerList_NumTraders,{0} traders,{0} трейдери
+DC/Text_UI_WB_ShopAccountNameChange_Desc_03,"Please double-check your current account name and the new account name. Once the account name is changed, it cannot be refunded.","Будь ласка уважно перевірте поточне та нове імена вашого облікового запису. Після зміни назви облікового запису кошти не підлягають відшкодуванню."
+DC/Text_UI_WB_ShopAccountNameChange_CurrentAccountName_CheckComplete,Confirmation complete.,Підтверджено.
+DC/Text_UI_WB_MenuOptionLinkButton_Support_SubmitTicket,Submit Ticket,Відправити Запит
+DC/Text_UI_WB_MenuButton_Community,COMMUNITY,СПІЛЬНОТА
+DC/Text_UI_WB_ShopMain_TabList_AccountNicknameChange,Account Name Change,Зміна Назви Облікового Запису
+DC/Text_UI_WB_ShopAccountNameChange_Title,Account Name Change,Зміна Назви Облікового Запису
+DC/Text_UI_WB_MenuOptionLinkButton_Support_SupportFAQ,Support FAQ,Підтримка FAQ
+DC/Text_UI_WB_ShopAccountNameChange_NewAccountName_CheckComplete,Available account name.,Назва Облікового Запису Доступна.
+DC/Text_UI_WB_ShopAccountNameChange_CurrentAccountName_Incorrect,The account name is incorrect.,Невірна Назва Облікового Запису.
+DC/Text_UI_WB_MenuOptionLinkButton_Community_News,News,Новини
+DC/Text_UI_WB_QuestLogDungeon_Empty,No quests in progress,Немає Активних Квестів
+DC/Text_UI_WB_ShopPopup_ConfirmAccountNameChange_Title,Account Name Change,Зміна Назви Облікового Запису
+DC/Text_UI_WB_ShopAccountNameChange_NewAccountName_Incorrect,This account name is unavailable.,Така  Назва Облікового Запису Недоступна.
+DC/Text_UI_WB_MenuOptionLinkButton_Community_Website,Website,Сайт
+DC/Text_UI_WB_ShopAccountNameChange_Desc_01,1. Please enter your current account name in the field below.,"1. Будь ласка введіть внизу поточну назву облікового запису."
+DC/Text_UI_WB_ShopAccountNameChange_Desc_02,2. Please enter a new account name in the field below.,"2. Будь ласка введіть внизу нову назву облікового запису."
+DC/Text_UI_WB_MenuButton_Support,SUPPORT,ПІДТРИМКА
+DC/Text_UI_WB_Menu_Community,COMMUNITY,СПІЛЬНОТА
+DC/Text_UI_WB_MenuOptionLinkButton_Community_RequestKnight,Request Knight,Запитати Лицаря
+DC/Text_UI_WB_MenuOptionLinkButton_Community_OfficialDiscord,Official Discord,Офіційний канал в Discord
+DC/Text_UI_WB_MenuOptionLinkButton_Community_Suggestion,Suggestion,Пропозиції
+DC/Text_UI_WB_Menu_Support,SUPPORT,ПІДТРИМКА
+DC/Text_UI_WB_MenuOptionLinkButton_Support_ReportBug,Report Bug,Повідомити про Помилку
