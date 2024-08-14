@@ -76,7 +76,7 @@ class Localization:
 
         # write any new keys to the end of ~other.csv
         # the translation should be added by hand
-        with open(csv_file, newline="", encoding="utf-8", mode="a") as f:
+        with open(csv_list[-1], newline="", encoding="utf-8", mode="a") as f:
             writer = csv.writer(f, lineterminator="\n")
             for key in keys_without_translation:
                 writer.writerow([key, new_loc[key][0], ""])
